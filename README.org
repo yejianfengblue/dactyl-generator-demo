@@ -1,0 +1,20 @@
+#+title: Dactyl Generator
+
+[[https://dactyl.siskam.link][Dactyl Generator]] is a website to generate 3D model in form of scad file for dactyl keyboard case.  
+
+* Table of Contents  :TOC:
+- [[#keys][Keys]]
+- [[#curvature--tenting][Curvature & Tenting]]
+- [[#connectors][Connectors]]
+- [[#form-of-the-case][Form of the Case]]
+- [[#misc][Misc]]
+
+* Keys
+
+* Curvature & Tenting
+  
+* Connectors
+
+* Form of the Case
+
+* Misc
