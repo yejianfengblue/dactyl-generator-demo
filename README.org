@@ -92,23 +92,23 @@ Currently only dactyl manuform is demonstrated.
   [[file:manuform/manuform-4x6+6-(keys.last-row=0)-TOP-cmp.png]]
   
   two
-  [[file:manuform/manuform-4x6+6-\(keys.last-row=2\)-TOP-cmp.png]] 
+  [[file:manuform/manuform-4x6+6-(keys.last-row=2)-TOP-cmp.png]] 
 
 ** Key hole
   MX
-  [[file:manuform/manuform-4x6+6-\(keys.switch-type=mx\)-BOTTOM_DIST_200-cmp.png]] 
+  [[file:manuform/manuform-4x6+6-(keys.switch-type=mx)-BOTTOM_DIST_200-cmp.png]] 
 
   MX snap-in
-  [[file:manuform/manuform-4x6+6-\(keys.switch-type=mx-snap-in\)-BOTTOM_DIST_200-cmp.png]] 
+  [[file:manuform/manuform-4x6+6-(keys.switch-type=mx-snap-in)-BOTTOM_DIST_200-cmp.png]] 
 
   Alps
-  [[file:manuform/manuform-4x6+6-\(keys.switch-type=alps\)-BOTTOM_DIST_200-cmp.png]]  
+  [[file:manuform/manuform-4x6+6-(keys.switch-type=alps)-BOTTOM_DIST_200-cmp.png]]  
 
   Choc
-  [[file:manuform/manuform-4x6+6-\(keys.switch-type=choc\)-BOTTOM_DIST_200-cmp.png]] 
+  [[file:manuform/manuform-4x6+6-(keys.switch-type=choc)-BOTTOM_DIST_200-cmp.png]] 
 
   Kailh
-  [[file:manuform/manuform-4x6+6-\(keys.switch-type=kailh\)-BOTTOM_DIST_200-cmp.png]] 
+  [[file:manuform/manuform-4x6+6-(keys.switch-type=kailh)-BOTTOM_DIST_200-cmp.png]] 
 
 * Curvature & Tenting
   
