@@ -18,7 +18,7 @@ public class DactylManuformGeneratorDemoTest {
 
         Manuform.Keys keys = new Manuform.Keys(6, 4, ThumbCount.SIX,
                                                LastRow.FULL, InnerColumn.NORMIE, false,
-                                               SwitchType.MX);
+                                               SwitchType.BOX);
         Manuform.Curve curve = new Manuform.Curve(12, 12, 36, 4, 15, 180);
         Manuform.Connector connector = new Manuform.Connector(false, ConnectorType.TRRS, true);
         Manuform.Form form = new Manuform.Form(false,
@@ -29,7 +29,7 @@ public class DactylManuformGeneratorDemoTest {
                                                0, 0,
                                                -13, 6,
                                                false,
-                                               10,
+                                               20,
                                                false,
                                                false);
         Manuform.Misc misc = new Manuform.Misc(false, true);
@@ -42,7 +42,7 @@ public class DactylManuformGeneratorDemoTest {
 
         Manuform manuform = getBaseManuform();
         manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME,
-                                     Camera.DIAGONAL, Camera.TOP, Camera.BACK_TOP);
+                                     Camera.DIAGONAL, Camera.TOP, Camera.BACK_TOP, Camera.BOTTOM_DIST_200);
     }
 
     @Test
@@ -85,7 +85,7 @@ public class DactylManuformGeneratorDemoTest {
     @Test
     void hideLastPinky() {
 
-        Camera camera = Camera.DIAGONAL;
+        Camera camera = Camera.TOP;
         Manuform manuform = getBaseManuform();
         manuform.getKeys().setHideLastPinky(true);
         manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-[keys.hide-last-pinky=yes]", camera);
@@ -96,10 +96,10 @@ public class DactylManuformGeneratorDemoTest {
 
         Camera camera = Camera.BOTTOM_DIST_200;
         Manuform manuform = getBaseManuform();
+        manuform.getKeys().setSwitchType(SwitchType.MX);
+        manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-[keys.switch-type=mx]", camera);
         manuform.getKeys().setSwitchType(SwitchType.MX_SNAP_IN);
         manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-[keys.switch-type=mx-snap-in]", camera);
-        manuform.getKeys().setSwitchType(SwitchType.BOX);
-        manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-[keys.switch-type=box]", camera);
         manuform.getKeys().setSwitchType(SwitchType.ALPS);
         manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-[keys.switch-type=alps]", camera);
     }
