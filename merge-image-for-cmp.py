@@ -2,7 +2,7 @@ import os, re
 
 print("merge manuform images for comparison")
 
-os.system("montage -geometry +0 manuform/manuform-4x6+[2-5]-DIAGONAL.png manuform/manuform-4x6+x-DIAGONAL-cmp.png")
+os.system("montage -geometry +0 manuform/manuform-4x6+[2-6]-DIAGONAL.png manuform/manuform-4x6+x-DIAGONAL-cmp.png")
 
 for file in os.listdir('manuform'):
     match = re.match(r'manuform-(?P<keys>[\dx+]+)-(?P<param>\(.+\))-(?P<camera>\w+)\.png', file)
