@@ -1,4 +1,4 @@
-package com.example.dactylgeneratordemo;
+package com.example.dactylgeneratordemo.manuform;
 
 import com.fasterxml.jackson.annotation.JsonValue;
 

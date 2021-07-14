@@ -1,5 +1,6 @@
-package com.example.dactylgeneratordemo;
+package com.example.dactylgeneratordemo.manuform;
 
+import com.example.dactylgeneratordemo.OpenscadService;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.RequiredArgsConstructor;
 import lombok.SneakyThrows;

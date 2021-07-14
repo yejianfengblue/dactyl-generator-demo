@@ -1,5 +1,6 @@
-package com.example.dactylgeneratordemo;
+package com.example.dactylgeneratordemo.manuform;
 
+import com.example.dactylgeneratordemo.SwitchType;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;

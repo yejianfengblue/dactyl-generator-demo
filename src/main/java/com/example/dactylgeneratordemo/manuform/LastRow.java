@@ -1,12 +1,12 @@
-package com.example.dactylgeneratordemo;
+package com.example.dactylgeneratordemo.manuform;
 
 import com.fasterxml.jackson.annotation.JsonValue;
 
-enum ConnectorType {
+enum LastRow {
 
-    RJ9,
-    TRRS,
-    NONE;
+    ZERO,
+    TWO,
+    FULL;
 
     @JsonValue
     public String toLowerCase() {

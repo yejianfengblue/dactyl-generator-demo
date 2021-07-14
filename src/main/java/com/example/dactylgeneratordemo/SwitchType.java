@@ -2,7 +2,7 @@ package com.example.dactylgeneratordemo;
 
 import com.fasterxml.jackson.annotation.JsonValue;
 
-enum SwitchType {
+public enum SwitchType {
 
     MX,
     MX_SNAP_IN,

@@ -1,6 +1,7 @@
-package com.example.dactylgeneratordemo;
+package com.example.dactylgeneratordemo.manuform;
 
 import com.example.dactylgeneratordemo.OpenscadService.Camera;
+import com.example.dactylgeneratordemo.SwitchType;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
