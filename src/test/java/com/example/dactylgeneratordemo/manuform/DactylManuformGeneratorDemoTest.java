@@ -70,7 +70,7 @@ public class DactylManuformGeneratorDemoTest {
         manuform.getKeys().setLastRow(LastRow.ZERO);
         manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-(keys.last-row=0)", camera);
         manuform.getKeys().setLastRow(LastRow.TWO);
-        manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-@keys.last-row=2@", camera);
+        manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-(keys.last-row=2)", camera);
     }
 
     @Test
@@ -79,7 +79,7 @@ public class DactylManuformGeneratorDemoTest {
         Camera camera = Camera.TOP;
         Manuform manuform = getBaseManuform();
         manuform.getKeys().setInnerColumn(InnerColumn.OUTIE);
-        manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-@keys.inner-column=ergodox@", camera);
+        manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-(keys.inner-column=ergodox)", camera);
         manuform.getKeys().setInnerColumn(InnerColumn.INNIE);
         manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-(keys.inner-column=without)", camera);
     }
