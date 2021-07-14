@@ -6,7 +6,7 @@
     "last-row" : "full",
     "inner-column" : "normie",
     "hide-last-pinky" : false,
-    "switch-type" : "mx"
+    "switch-type" : "box"
   },
   "curve" : {
     "tenting" : 15,

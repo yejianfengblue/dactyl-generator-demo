@@ -6,7 +6,7 @@
     "last-row" : "full",
     "inner-column" : "normie",
     "hide-last-pinky" : true,
-    "switch-type" : "mx"
+    "switch-type" : "box"
   },
   "curve" : {
     "tenting" : 15,
@@ -29,7 +29,7 @@
     "stagger-pinky-y" : -13.0,
     "stagger-pinky-z" : 6.0,
     "wide-pinky" : false,
-    "height-offset" : 10,
+    "height-offset" : 20,
     "wire-post" : false,
     "screw-inserts" : false,
     "thumb-cluster-offset-x" : 6.0,
