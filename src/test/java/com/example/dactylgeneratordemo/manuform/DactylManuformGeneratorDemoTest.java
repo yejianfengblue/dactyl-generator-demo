@@ -38,12 +38,15 @@ public class DactylManuformGeneratorDemoTest {
         return new Manuform(keys, curve, connector, form, misc);
     }
 
+
+    @Disabled
     @Test
     void base() {
 
         Manuform manuform = getBaseManuform();
         manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME,
-                                     Camera.DIAGONAL, Camera.TOP, Camera.BACK_TOP, Camera.BOTTOM_DIST_200);
+                                     Camera.DIAGONAL, Camera.TOP, Camera.BACK_TOP,
+                                     Camera.BOTTOM, Camera.BOTTOM_DIST_200);
     }
 
     @Test
@@ -103,6 +106,10 @@ public class DactylManuformGeneratorDemoTest {
         manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-[keys.switch-type=mx-snap-in]", camera);
         manuform.getKeys().setSwitchType(SwitchType.ALPS);
         manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-[keys.switch-type=alps]", camera);
+        manuform.getKeys().setSwitchType(SwitchType.CHOC);
+        manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-[keys.switch-type=choc]", camera);
+        manuform.getKeys().setSwitchType(SwitchType.KAILH);
+        manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-[keys.switch-type=kailh]", camera);
     }
 
     @Test
@@ -243,7 +250,6 @@ public class DactylManuformGeneratorDemoTest {
                                      Camera.DIAGONAL, Camera.TOP);
     }
 
-
     @Test
     void staggerIndexY() {
 
@@ -369,6 +375,5 @@ public class DactylManuformGeneratorDemoTest {
         manuform.getMisc().setRightSide(false);
         manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-[misc.left-side]", camera);
     }
-
 
 }

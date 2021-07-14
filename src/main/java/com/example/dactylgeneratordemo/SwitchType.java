@@ -7,7 +7,10 @@ public enum SwitchType {
     MX,
     MX_SNAP_IN,
     BOX,
-    ALPS;
+    ALPS,
+    CHOC,
+    KAILH,
+    ;
 
     @JsonValue
     public String toLowerCase() {
