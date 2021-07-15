@@ -17,7 +17,15 @@ Currently only dactyl manuform is demonstrated.
   - [[#thumb-key-count][Thumb key count]]
   - [[#last-row-key-counts][Last row key counts]]
   - [[#key-hole][Key hole]]
+  - [[#inner-index-fingers-column][Inner index finger's column]]
+  - [[#hide-bottom-pinky][Hide bottom pinky]]
 - [[#curvature--tenting-1][Curvature & Tenting]]
+  - [[#columns-curvature][Column's curvature]]
+  - [[#pinkys-column-curvature][Pinky's column curvature]]
+  - [[#rows-curvature][Row's curvature]]
+  - [[#center-of-the-curvature-for-the-column][Center of the curvature for the column]]
+  - [[#tenting-angle][Tenting Angle]]
+  - [[#rotation-around-row-axis][Rotation around row axis]]
 - [[#connectors-1][Connectors]]
 - [[#form-of-the-case-1][Form of the Case]]
 - [[#misc-1][Misc]]
@@ -81,45 +89,97 @@ Currently only dactyl manuform is demonstrated.
 * Keys
 
 ** Thumb key count
-  [[file:manuform/manuform-4x6+x-DIAGONAL-cmp.png]]
+   [[file:manuform/manuform-4x6+x-DIAGONAL-cmp.png]]
   
 ** Last row key counts
-  no last row
+   no last row
   
-  column 3 to 6 have 3 rows
-  [[file:manuform/manuform-4x6+6-(keys.last-row=0)-TOP-cmp.png]]
+   column 3 to 6 have 3 rows
+   [[file:manuform/manuform-4x6+6-(keys.last-row=0)-TOP-cmp.png]]
   
-  two
+   two
   
-  column 5 and 6 have 3 rows
-  [[file:manuform/manuform-4x6+6-(keys.last-row=2)-TOP-cmp.png]] 
+   column 5 and 6 have 3 rows
+   [[file:manuform/manuform-4x6+6-(keys.last-row=2)-TOP-cmp.png]] 
 
 ** Key hole
-  MX
+   MX
 
-  Additional nub
-  [[file:manuform/manuform-4x6+6-(keys.switch-type=mx)-BOTTOM_DIST_200-cmp.png]] 
+   Additional nub
+   [[file:manuform/manuform-4x6+6-(keys.switch-type=mx)-BOTTOM_DIST_200-cmp.png]] 
 
-  MX snap-in vs MX
+   MX snap-in vs MX
   
-  Notice the space under the nub, which helps the switch firmly snaps into the hole 
-  [[file:manuform/manuform-4x6+6-(keys.switch-type=mx-snap-in)-BOTTOM_DIST_200-cmp.png]] 
+   Notice the space under the nub, which helps the switch firmly snaps into the hole 
+   [[file:manuform/manuform-4x6+6-(keys.switch-type=mx-snap-in)-BOTTOM_DIST_200-cmp.png]] 
 
-  Alps
+   Alps
   
-  Key hole size is different
-  [[file:manuform/manuform-4x6+6-(keys.switch-type=alps)-BOTTOM_DIST_200-cmp.png]]  
+   Key hole size is different
+   [[file:manuform/manuform-4x6+6-(keys.switch-type=alps)-BOTTOM_DIST_200-cmp.png]]  
 
-  Choc
+   Choc
   
-  The switch hole wall is thinner
-  [[file:manuform/manuform-4x6+6-(keys.switch-type=choc)-BOTTOM_DIST_200-cmp.png]] 
+   The switch hole wall is thinner
+   [[file:manuform/manuform-4x6+6-(keys.switch-type=choc)-BOTTOM_DIST_200-cmp.png]] 
 
-  Kailh
-  [[file:manuform/manuform-4x6+6-(keys.switch-type=kailh)-BOTTOM_DIST_200-cmp.png]] 
+   Kailh
+   [[file:manuform/manuform-4x6+6-(keys.switch-type=kailh)-BOTTOM_DIST_200-cmp.png]] 
+
+** Inner index finger's column
+   Use inner column (like ergodox)
+
+   Two more keys on the left
+   [[file:manuform/manuform-4x6+6-(keys.inner-column=ergodox)-TOP-cmp.png]]  
+   
+   Without
+
+   The left most column is gone
+   [[file:manuform/manuform-4x6+6-(keys.inner-column=without)-TOP-cmp.png]] 
+
+** Hide bottom pinky
+   Yes
+
+   The bottom right key is disabled
+   [[file:manuform/manuform-4x6+6-(keys.hide-last-pinky=yes)-TOP-cmp.png]] 
 
 * Curvature & Tenting
   
+** Column's curvature
+   pi/6 vs pi/12
+
+   The curvature of (index, middle, ring) finger's column, that is, column 1, 2, 3 and 4 is larger
+   [[file:manuform/manuform-4x6+6-(curve.column-curvature=pi_6)-DIAGONAL-cmp.png]] 
+   
+** Pinky's column curvature
+   pi/6 vs pi/12
+
+   The curvature of pinky finger column, that is, column 5 and 6 is larger
+   [[file:manuform/manuform-4x6+6-(curve.pinky-column-curvature=pi_6)-DIAGONAL-cmp.png]] 
+
+** Row's curvature
+   pi/18 vs pi/36
+   [[file:manuform/manuform-4x6+6-(curve.row-curvature=pi_18)-DIAGONAL-cmp.png]] 
+   
+** Center of the curvature for the column
+   Index, middle, ring, pinky in order
+   [[file:manuform/manuform-4x6+6-(curve.centercol)-DIAGONAL-cmp.png]] 
+
+** Tenting Angle
+   pi/10 vs pi/15
+
+   Row tilt is larger
+   [[file:manuform/manuform-4x6+6-(curve.tenting=10)-DIAGONAL-cmp.png]] 
+
+** Rotation around row axis
+   pi/10 vs pi/180
+   [[file:manuform/manuform-4x6+6-(curve.rotate-x=pi_10)-DIAGONAL-cmp.png]] 
+
+   -pi/10 vs pi/180
+   [[file:manuform/manuform-4x6+6-(curve.rotate-x=-pi_10)-DIAGONAL-cmp.png]] 
+
+   -pi/36 vs pi/180
+   [[file:manuform/manuform-4x6+6-(curve.rotate-x=-pi_36)-DIAGONAL-cmp.png]] 
 * Connectors
 
 * Form of the Case
