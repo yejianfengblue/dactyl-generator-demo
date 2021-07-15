@@ -1,5 +1,8 @@
 #+title: Dactyl键盘外壳参数说明
 
+部分名词的中文翻译不太好，懂英文的看[[file:README.org][English version]]
+
+
 [[https://dactyl.siskam.link][Dactyl Generator]]网站可以自己调整参数生成dactyl键盘外壳的3D模型。
 我的这个Java项目利用[[https://dactyl.siskam.link/api][API]]批量生成不同参数值的模型和预览图，用于展示参数的作用，
 节省测试参数的时间。目前只展示dactyl manuform键盘。
@@ -60,7 +63,7 @@
    - 行: 4
    - 拇指区键数目: 6
    - 最底一行键数目: +two+ use all keys 全部
-   - 键孔: 凯华Box MX
+   - 键盘轴: 凯华Box MX轴
    - 食指列: 普通
    - 隐藏小拇指角落键: 否
      
@@ -68,7 +71,7 @@
    - 列的曲率: pi/12
    - 小拇指列的曲率: pi/12
    - 行的曲率: pi/36
-   - 以哪一列为行的曲率的中心: pinky finger's column
+   - 以哪一列为行的曲率的中心: 小拇指列
    - 倾斜度: pi/15
    - 行轴的旋转: pi/180
 

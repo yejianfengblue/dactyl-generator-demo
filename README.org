@@ -1,5 +1,8 @@
 #+title: Dactyl Generator Demo
 
+[[file:README.zh.org][中文版]]
+
+
 [[https://dactyl.siskam.link][Dactyl Generator]] is a website to generate 3D model in form of scad file for
 dactyl keyboard case. This project is a Java program which demonstrates the
 parameter effect by generating models and preview images using [[https://dactyl.siskam.link/api][Dactyl Generator API]].
@@ -56,6 +59,10 @@ Currently only dactyl manuform is demonstrated.
 * Base
   This is a base model for comparison. Most of parameters use the default value.
   Those non-default values are specified in form of (+default value+ used value).
+  The combination of (number of columns: 6, last row key counts: use all keys)
+  helps demo the effect of param ~hide bottom pinky~.
+  If param ~height offset~ is set to default value 4mm, the demo model of some
+  parameters is broken, so it's set to 10mm.
   
 ** Keys
    - number of columns: +5+ 6
