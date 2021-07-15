@@ -251,7 +251,7 @@ public class DactylManuformGeneratorDemoTest {
     @Test
     void staggerIndexY() {
 
-        Camera camera = Camera.DIAGONAL;
+        Camera camera = Camera.TOP;
         Manuform manuform = getBaseManuform();
         manuform.getForm().setStaggerIndexY(10);
         manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-(form.stagger-index-y=10)", camera);
@@ -269,7 +269,7 @@ public class DactylManuformGeneratorDemoTest {
     @Test
     void staggerMiddleY() {
 
-        Camera camera = Camera.DIAGONAL;
+        Camera camera = Camera.TOP;
         Manuform manuform = getBaseManuform();
         manuform.getForm().setStaggerMiddleY(10);
         manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-(form.stagger-middle-y=10)", camera);
@@ -287,7 +287,7 @@ public class DactylManuformGeneratorDemoTest {
     @Test
     void staggerRingY() {
 
-        Camera camera = Camera.DIAGONAL;
+        Camera camera = Camera.TOP;
         Manuform manuform = getBaseManuform();
         manuform.getForm().setStaggerRingY(10);
         manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-(form.stagger-ring-y=10)", camera);
@@ -305,7 +305,7 @@ public class DactylManuformGeneratorDemoTest {
     @Test
     void staggerPinkyY() {
 
-        Camera camera = Camera.DIAGONAL;
+        Camera camera = Camera.TOP;
         Manuform manuform = getBaseManuform();
         manuform.getForm().setStaggerPinkyY(0);
         manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-(form.stagger-pinky-y=0)", camera);

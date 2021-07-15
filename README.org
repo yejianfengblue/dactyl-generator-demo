@@ -37,7 +37,20 @@ Currently only dactyl manuform is demonstrated.
   - [[#thumb-cluster-offsets-center-z-altitude][Thumb cluster offsets center z (altitude)]]
   - [[#stagger][Stagger]]
   - [[#index-finger-measurement-y][Index finger measurement y]]
+  - [[#index-finger-measurement-z][Index finger measurement z]]
+  - [[#middle-finger-measurement-y][Middle finger measurement y]]
+  - [[#middle-finger-measurement-z][Middle finger measurement z]]
+  - [[#ring-finger-measurement-y][Ring finger measurement y]]
+  - [[#ring-finger-measurement-z][Ring finger measurement z]]
+  - [[#pinky-finger-measurement-y][Pinky finger measurement y]]
+  - [[#pinky-finger-measurement-z][Pinky finger measurement z]]
+  - [[#wide-pinky][Wide pinky]]
+  - [[#height-offset][Height offset]]
+  - [[#wire-posts][Wire posts]]
+  - [[#screw-inserts][Screw inserts]]
 - [[#misc-1][Misc]]
+  - [[#show-keycaps][Show Keycaps]]
+  - [[#right-side-or-left-side][Right side or left side]]
 - [[#known-issues][Known Issues]]
 
 * Base
@@ -209,21 +222,21 @@ Currently only dactyl manuform is demonstrated.
    [[file:manuform/manuform-4x6+6-(form.hotswap=yes)-BOTTOM_DIST_200-cmp.png]] 
 
 ** Thumb cluster offsets center x (toward the pinky)
-   1 vs 6
+   The greater the value, thumb cluster is closer to right, toward pinky finger, toward x positive direction
    
-   The thumb cluster with offset center x 1 is moved to left
+   1 vs 6
    [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-x=1)-DIAGONAL-cmp.png]] 
    
 ** Thumb cluster offsets center y (toward the index)
-   3 vs -3
+   The greater the value, thumb cluster is more toward to index finger, toward y positive direction
    
-   The thumb cluster with offset center y 3 is moved toward the index finger's column left 
+   3 vs -3
    [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-y=3)-DIAGONAL-cmp.png]] 
    
 ** Thumb cluster offsets center z (altitude)
-   17 vs 7
+   The greater the value, thumb cluster is higher
    
-   The thumb cluster with offset center z 17 is higher
+   17 vs 7
    [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-z=17)-DIAGONAL-cmp.png]] 
 
 ** Stagger
@@ -233,10 +246,88 @@ Currently only dactyl manuform is demonstrated.
    [[file:manuform/manuform-4x6+6-(form.stagger=no)-DIAGONAL-cmp.png]] 
    
 ** Index finger measurement y
-   [[file:manuform/manuform-4x6+6-(form.stagger-index-y=10)-DIAGONAL-cmp.png]] 
+   The greater the value, index finger's column (column 1 and 2) is more far away from hand, toward y positive direction
+   
+   10 vs 0
+   [[file:manuform/manuform-4x6+6-(form.stagger-index-y=10)-TOP-cmp.png]] 
+
+** Index finger measurement z
+   The greater the value, index finger's column (column 1 and 2) is higher
+
+   15 vs 0
    [[file:manuform/manuform-4x6+6-(form.stagger-index-z=15)-DIAGONAL-cmp.png]] 
+
+** Middle finger measurement y
+   The greater the value, the middle finger's column (column 3) is more far away from hand, toward y positive direction
+
+   10 vs 2.8
+   [[file:manuform/manuform-4x6+6-(form.stagger-middle-y=10)-TOP-cmp.png]] 
+   
+** Middle finger measurement z
+   The greater the value, the middle finger's column (column 3) is higher
+
+   0 vs -6.5
+   [[file:manuform/manuform-4x6+6-(form.stagger-middle-z=0)-DIAGONAL-cmp.png]] 
+
+** Ring finger measurement y
+   The greater the value, the ring finger's column (column 4) is more far away from hand, toward y positive direction
+
+   10 vs 0
+   [[file:manuform/manuform-4x6+6-(form.stagger-ring-y=10)-TOP-cmp.png]] 
+   
+** Ring finger measurement z
+   The greater the value, the ring finger's column (column 4) is higher
+
+   15 vs 0
+   [[file:manuform/manuform-4x6+6-(form.stagger-ring-z=15)-DIAGONAL-cmp.png]] 
+
+** Pinky finger measurement y
+   The greater the value, the pinky finger's column (column 5 and 6) is more far away from hand, toward y positive direction
+
+   0 vs -13
+   [[file:manuform/manuform-4x6+6-(form.stagger-pinky-y=0)-TOP-cmp.png]] 
+   
+** Pinky finger measurement z
+   The greater the value, the pinky finger's column (column 5 and 6) is higher
+
+   0 vs 6
+   [[file:manuform/manuform-4x6+6-(form.stagger-pinky-z=0)-DIAGONAL-cmp.png]]
+
+** Wide pinky
+   Whether the right most column uses 1.5u keycap
+
+   No vs Yes
+   [[file:manuform/manuform-4x6+6-(form.wide-pinky=yes)-DIAGONAL-cmp.png]] 
+
+** Height offset
+   The overall height of the keyboard case
+
+   4mm vs 10mm
+   [[file:manuform/manuform-4x6+6-(form.height-offset=4)-DIAGONAL-cmp.png]] 
+
+** Wire posts
+   Sorry I haven't tried it. Enable it if you think it helps wiring.
+   [[file:manuform/manuform-4x6+6-(form.wire-post=yes)-BOTTOM-cmp.png]] 
+
+** Screw inserts
+   5 screw hole. They are hollow even though they looks solid in the rendered preview image,
+   because OpenSCAD full geometry render is time-consuming.
+
+   Yes vs No
+   [[file:manuform/manuform-4x6+6-(form.screw-inserts=yes)-BOTTOM-cmp.png]] 
+
 * Misc
+
+** Show Keycaps
+   Just for display
+
+   Yes vs No
+   [[file:manuform/manuform-4x6+6-(misc.keycaps=yes)-DIAGONAL-cmp.png]] 
   
+** Right side or left side
+   Left vs Right
+   [[file:manuform/manuform-4x6+6-(misc.left-side)-DIAGONAL-cmp.png]] 
+   
 * Known Issues
   1. Connectors
      
