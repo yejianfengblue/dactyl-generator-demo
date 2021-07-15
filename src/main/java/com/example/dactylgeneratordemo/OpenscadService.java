@@ -27,7 +27,7 @@ public class OpenscadService {
             commands.add("-o");
             commands.add(pngPath);
             commands.add("--imgsize");
-            commands.add("2000,2000");
+            commands.add("1000,1000");
             // adjust camera to look at object's center
             commands.add("--autocenter");
             if (Camera.BOTTOM_DIST_200 != camera) {
@@ -36,6 +36,10 @@ public class OpenscadService {
             }
             commands.add("--camera");
             commands.add(camera.getArg());
+            if (Camera.DIAGONAL == camera) {
+                commands.add("--view");
+                commands.add("axes");
+            }
 
             new ProcessExecutor().command(commands).execute();
         }

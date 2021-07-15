@@ -50,7 +50,7 @@ for file in os.listdir('manuform'):
                 "-strokewidth",
                 "3",
                 "-draw",
-                "'rectangle 1580,950 1630,1050 rectangle 3580,950 3630,1050'",
+                "rectangle 790,470 820,530 rectangle 1790,470 1820,530",
                 f"manuform/{output}",
                 f"manuform/{output}"])
 
@@ -65,6 +65,6 @@ for file in os.listdir('manuform'):
                 "-strokewidth",
                 "3",
                 "-draw",
-                "'rectangle 1520,900 1600,1100 rectangle 3550,900 3630,1100'",
+                "rectangle 760,450 800,530 rectangle 1770,450 1810,530",
                 f"manuform/{output}",
                 f"manuform/{output}"])

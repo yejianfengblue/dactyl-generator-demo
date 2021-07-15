@@ -11,7 +11,7 @@
   "curve" : {
     "tenting" : 15,
     "alpha" : 12,
-    "pink-alpha" : 12,
+    "pinky-alpha" : 12,
     "beta" : 18,
     "centercol" : 4,
     "rotate-x" : 180
