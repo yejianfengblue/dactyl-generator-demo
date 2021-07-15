@@ -27,7 +27,16 @@ Currently only dactyl manuform is demonstrated.
   - [[#tenting-angle][Tenting Angle]]
   - [[#rotation-around-row-axis][Rotation around row axis]]
 - [[#connectors-1][Connectors]]
+  - [[#external-holder][External Holder]]
+  - [[#connector][Connector]]
+  - [[#usb-hole][USB hole]]
 - [[#form-of-the-case-1][Form of the Case]]
+  - [[#hotswap-socket][Hotswap socket]]
+  - [[#thumb-cluster-offsets-center-x-toward-the-pinky][Thumb cluster offsets center x (toward the pinky)]]
+  - [[#thumb-cluster-offsets-center-y-toward-the-index][Thumb cluster offsets center y (toward the index)]]
+  - [[#thumb-cluster-offsets-center-z-altitude][Thumb cluster offsets center z (altitude)]]
+  - [[#stagger][Stagger]]
+  - [[#index-finger-measurement-y][Index finger measurement y]]
 - [[#misc-1][Misc]]
 - [[#known-issues][Known Issues]]
 
@@ -89,56 +98,57 @@ Currently only dactyl manuform is demonstrated.
 * Keys
 
 ** Thumb key count
+   2, 3, 4, 5, 6 in order
    [[file:manuform/manuform-4x6+x-DIAGONAL-cmp.png]]
   
 ** Last row key counts
-   no last row
+   "no last row" vs "use all keys"
   
    column 3 to 6 have 3 rows
    [[file:manuform/manuform-4x6+6-(keys.last-row=0)-TOP-cmp.png]]
   
-   two
+   two vs "use all keys"
   
    column 5 and 6 have 3 rows
    [[file:manuform/manuform-4x6+6-(keys.last-row=2)-TOP-cmp.png]] 
 
 ** Key hole
-   MX
+   MX vs "Box and MX"
 
    Additional nub
    [[file:manuform/manuform-4x6+6-(keys.switch-type=mx)-BOTTOM_DIST_200-cmp.png]] 
 
-   MX snap-in vs MX
+   "MX snap-in" vs MX
   
    Notice the space under the nub, which helps the switch firmly snaps into the hole 
    [[file:manuform/manuform-4x6+6-(keys.switch-type=mx-snap-in)-BOTTOM_DIST_200-cmp.png]] 
 
-   Alps
+   Alps vs "Box and MX"
   
    Key hole size is different
    [[file:manuform/manuform-4x6+6-(keys.switch-type=alps)-BOTTOM_DIST_200-cmp.png]]  
 
-   Choc
+   Choc vs "Box and MX"
   
    The switch hole wall is thinner
    [[file:manuform/manuform-4x6+6-(keys.switch-type=choc)-BOTTOM_DIST_200-cmp.png]] 
 
-   Kailh
+   Kailh vs "Box and MX"
    [[file:manuform/manuform-4x6+6-(keys.switch-type=kailh)-BOTTOM_DIST_200-cmp.png]] 
 
 ** Inner index finger's column
-   Use inner column (like ergodox)
+   "Use inner column (like ergodox)" vs Normal
 
    Two more keys on the left
    [[file:manuform/manuform-4x6+6-(keys.inner-column=ergodox)-TOP-cmp.png]]  
    
-   Without
+   Without vs Normal
 
    The left most column is gone
    [[file:manuform/manuform-4x6+6-(keys.inner-column=without)-TOP-cmp.png]] 
 
 ** Hide bottom pinky
-   Yes
+   Yes vs No
 
    The bottom right key is disabled
    [[file:manuform/manuform-4x6+6-(keys.hide-last-pinky=yes)-TOP-cmp.png]] 
@@ -181,9 +191,50 @@ Currently only dactyl manuform is demonstrated.
    -pi/36 vs pi/180
    [[file:manuform/manuform-4x6+6-(curve.rotate-x=-pi_36)-DIAGONAL-cmp.png]] 
 * Connectors
+  
+** External Holder
+   Yes vs No
+   [[file:manuform/manuform-4x6+6-(connector.external=yes)-BACK_TOP-cmp.png]] 
+
+** Connector
+   Skipped. See [[Known Issues][known issue]] #1 
+
+** USB hole
+   Skipped. See [[Known Issues][known issue]] #1 
 
 * Form of the Case
 
+** Hotswap socket
+   Yes vs No
+   [[file:manuform/manuform-4x6+6-(form.hotswap=yes)-BOTTOM_DIST_200-cmp.png]] 
+
+** Thumb cluster offsets center x (toward the pinky)
+   1 vs 6
+   
+   The thumb cluster with offset center x 1 is moved to left
+   [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-x=1)-DIAGONAL-cmp.png]] 
+   
+** Thumb cluster offsets center y (toward the index)
+   3 vs -3
+   
+   The thumb cluster with offset center y 3 is moved toward the index finger's column left 
+   [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-y=3)-DIAGONAL-cmp.png]] 
+   
+** Thumb cluster offsets center z (altitude)
+   17 vs 7
+   
+   The thumb cluster with offset center z 17 is higher
+   [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-z=17)-DIAGONAL-cmp.png]] 
+
+** Stagger
+   Yes vs No
+
+   [[file:manuform/manuform-4x6+6-(form.stagger=no)-TOP-cmp.png]] 
+   [[file:manuform/manuform-4x6+6-(form.stagger=no)-DIAGONAL-cmp.png]] 
+   
+** Index finger measurement y
+   [[file:manuform/manuform-4x6+6-(form.stagger-index-y=10)-DIAGONAL-cmp.png]] 
+   [[file:manuform/manuform-4x6+6-(form.stagger-index-z=15)-DIAGONAL-cmp.png]] 
 * Misc
   
 * Known Issues
