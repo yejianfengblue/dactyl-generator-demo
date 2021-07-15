@@ -11,12 +11,12 @@
 - [[#参照模型][参照模型]]
   - [[#键][键]]
   - [[#曲率和倾斜度][曲率和倾斜度]]
-  - [[#connectors][Connectors]]
-  - [[#form-of-the-case][Form of the Case]]
-  - [[#misc][Misc]]
-- [[#keys][Keys]]
-  - [[#thumb-key-count][Thumb key count]]
-  - [[#last-row-key-counts][Last row key counts]]
+  - [[#连接头][连接头]]
+  - [[#键盘外形][键盘外形]]
+  - [[#杂项][杂项]]
+- [[#键-1][键]]
+  - [[#拇指区键的数目][拇指区键的数目]]
+  - [[#最底一行键的数目][最底一行键的数目]]
   - [[#key-hole][Key hole]]
   - [[#inner-index-fingers-column][Inner index finger's column]]
   - [[#hide-bottom-pinky][Hide bottom pinky]]
@@ -27,11 +27,11 @@
   - [[#center-of-the-curvature-for-the-column][Center of the curvature for the column]]
   - [[#tenting-angle][Tenting Angle]]
   - [[#rotation-around-row-axis][Rotation around row axis]]
-- [[#connectors-1][Connectors]]
+- [[#connectors][Connectors]]
   - [[#external-holder][External Holder]]
   - [[#connector][Connector]]
   - [[#usb-hole][USB hole]]
-- [[#form-of-the-case-1][Form of the Case]]
+- [[#form-of-the-case][Form of the Case]]
   - [[#hotswap-socket][Hotswap socket]]
   - [[#thumb-cluster-offsets-center-x-toward-the-pinky][Thumb cluster offsets center x (toward the pinky)]]
   - [[#thumb-cluster-offsets-center-y-toward-the-index][Thumb cluster offsets center y (toward the index)]]
@@ -49,7 +49,7 @@
   - [[#height-offset][Height offset]]
   - [[#wire-posts][Wire posts]]
   - [[#screw-inserts][Screw inserts]]
-- [[#misc-1][Misc]]
+- [[#misc][Misc]]
   - [[#show-keycaps][Show Keycaps]]
   - [[#right-side-or-left-side][Right side or left side]]
 - [[#known-issues][Known Issues]]
@@ -61,47 +61,47 @@
 ** 键
    - 列: +5+ 6
    - 行: 4
-   - 拇指区键数目: 6
-   - 最底一行键数目: +two+ use all keys 全部
-   - 键盘轴: 凯华Box MX轴
-   - 食指列: 普通
-   - 隐藏小拇指角落键: 否
+   - 拇指区键的数目: 6
+   - 最底一行键的数目: +two+ use all keys 全部
+   - 键盘轴: Box and MX，凯华Box MX轴
+   - 食指列: Normal 普通
+   - 隐藏小拇指角落的键: no 否
      
 ** 曲率和倾斜度
    - 列的曲率: pi/12
    - 小拇指列的曲率: pi/12
    - 行的曲率: pi/36
-   - 以哪一列为行的曲率的中心: 小拇指列
+   - 以哪一列为行的曲率的中心: pinky finger's column 小拇指列
    - 倾斜度: pi/15
    - 行轴的旋转: pi/180
 
-** Connectors
-   - use loligagger's external holder: no
+** 连接头
+   - 外置芯片支架: no 否
    - connector: none. See [[Known Issues][known issue]] #1
    - USB hole: N/A. See [[Known Issues][known issue]] #1
     
-** Form of the Case
-   - hotswap socket: no
-   - thumb cluster offsets center x (toward the pinky): 6
-   - thumb cluster offsets center y (toward the index): -3
-   - thumb cluster offsets center z (altitude): 7
-   - stagger: yes
-   - index finger measurement y: 0
-   - index finger measurement z: 0
-   - middle finger measurement y: 2.8
-   - middle finger measurement z: -6.5
-   - ring finger measurement y: 0
-   - ring finger measurement z: 0
-   - pinky finger measurement y: -13
-   - pinky finger measurement z: 6
-   - wide pinky: no
-   - height offset: +4mm+ 10mm
-   - wire posts: no
-   - screw inserts: no
+** 键盘外形
+   - 热插拔: no 否
+   - 拇指区x轴位移（往小拇指方向）: 6
+   - 拇指区y轴位移（往食指方向）：-3
+   - 拇指区z轴位移（高度）：7
+   - 行是否梯级式: yes 是
+   - 食指列y位移: 0
+   - 食指列z位移: 0
+   - 中指列y: 2.8
+   - 中指列z: -6.5
+   - 无名指列y: 0
+   - 无名指列z: 0
+   - 小拇指列y: -13
+   - 小拇指列z: 6
+   - 小拇指最外列使用1.5u键帽: no 否
+   - 整体高度: +4mm+ 10mm
+   - 走线凸块: no 否
+   - 螺丝孔: no 否
 
-** Misc
-   - show keycaps: no
-   - right side or left side: right
+** 杂项
+   - 显示键帽: no 否
+   - 右边或者左边: right 右边
      
 [[file:manuform/manuform-4x6+6-DIAGONAL.png]] 
 [[file:manuform/manuform-4x6+6-TOP.png]] 
@@ -109,21 +109,21 @@
 [[file:manuform/manuform-4x6+6-BOTTOM.png]] 
 [[file:manuform/manuform-4x6+6-BOTTOM_DIST_200.png]] 
 
-* Keys
+* 键
 
-** Thumb key count
-   2, 3, 4, 5, 6 in order
+** 拇指区键的数目
+   依次是2, 3, 4, 5, 6 
    [[file:manuform/manuform-4x6+x-DIAGONAL-cmp.png]]
   
-** Last row key counts
-   "no last row" vs "use all keys"
+** 最底一行键的数目
+   没有 对比 全部
   
-   column 3 to 6 have 3 rows
+   第3至第6列只有3行
    [[file:manuform/manuform-4x6+6-(keys.last-row=0)-TOP-cmp.png]]
   
-   two vs "use all keys"
+   两个 对比 全部
   
-   column 5 and 6 have 3 rows
+   第5和第6列只有3行
    [[file:manuform/manuform-4x6+6-(keys.last-row=2)-TOP-cmp.png]] 
 
 ** Key hole
