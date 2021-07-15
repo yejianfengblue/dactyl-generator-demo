@@ -50,7 +50,7 @@ class Manuform {
         @JsonProperty("alpha")
         int columnCurvature;
 
-        @JsonProperty("pink-alpha")
+        @JsonProperty("pinky-alpha")
         int pinkyColumnCurvature;
 
         @JsonProperty("beta")
