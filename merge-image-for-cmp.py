@@ -13,3 +13,9 @@ for file in os.listdir('manuform'):
         output = file.replace(".png", "-cmp.png")
         print(f"merge {file} and {baseImg} to {output}")
         os.system(f"montage -geometry +0+0 manuform/{file} manuform/{baseImg} manuform/{output}".replace("(", "\(").replace(")", "\)"))
+
+        if "mx-snap-in" in file:
+            os.system(f"convert -fill none -stroke red -strokewidth 3 -draw 'rectangle 1580,950 1630,1050 rectangle 3580,950 3630,1050' manuform/{output} manuform/{output}".replace("(", "\(").replace(")", "\)"))
+
+        if "choc" in file:
+            os.system(f"convert -fill none -stroke red -strokewidth 3 -draw 'rectangle 1520,900 1600,1100 rectangle 3550,900 3630,1100' manuform/{output} manuform/{output}".replace("(", "\(").replace(")", "\)"))
