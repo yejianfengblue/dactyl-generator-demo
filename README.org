@@ -85,22 +85,27 @@ Currently only dactyl manuform is demonstrated.
   
 ** Last row key counts
   no last row
+  column 3 to 6 have 3 rows
   [[file:manuform/manuform-4x6+6-(keys.last-row=0)-TOP-cmp.png]]
   
   two
+  column 5 and 6 have 3 rows
   [[file:manuform/manuform-4x6+6-(keys.last-row=2)-TOP-cmp.png]] 
 
 ** Key hole
   MX
   [[file:manuform/manuform-4x6+6-(keys.switch-type=mx)-BOTTOM_DIST_200-cmp.png]] 
 
-  MX snap-in
+  MX snap-in vs MX
+  Notice the space under the nub, which helps the switch firmly snaps into the hole 
   [[file:manuform/manuform-4x6+6-(keys.switch-type=mx-snap-in)-BOTTOM_DIST_200-cmp.png]] 
 
   Alps
+  Key hole size is different
   [[file:manuform/manuform-4x6+6-(keys.switch-type=alps)-BOTTOM_DIST_200-cmp.png]]  
 
   Choc
+  The switch hole wall is thinner
   [[file:manuform/manuform-4x6+6-(keys.switch-type=choc)-BOTTOM_DIST_200-cmp.png]] 
 
   Kailh
