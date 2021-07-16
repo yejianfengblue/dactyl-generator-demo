@@ -63,7 +63,7 @@ Currently only dactyl manuform is demonstrated.
   helps demo the effect of param ~hide bottom pinky~.
   If param ~height offset~ is set to default value 4mm, the demo model of some
   parameters is broken, so it's set to 10mm.
-  
+
 ** Keys
    - number of columns: +5+ 6
    - number of rows: 4
@@ -72,7 +72,7 @@ Currently only dactyl manuform is demonstrated.
    - key hole: Box and MX
    - inner index finger's column: normal
    - hide bottom pinky: no
-     
+
 ** Curvature & Tenting
    - column's curvature: pi/12
    - pinky's column's curvature: pi/12
@@ -85,12 +85,14 @@ Currently only dactyl manuform is demonstrated.
    - use loligagger's external holder: no
    - connector: none. See [[Known Issues][known issue]] #1
    - USB hole: N/A. See [[Known Issues][known issue]] #1
-    
+
 ** Form of the Case
    - hotswap socket: no
    - thumb cluster offsets center x (toward the pinky): 6
    - thumb cluster offsets center y (toward the index): -3
    - thumb cluster offsets center z (altitude): 7
+   - custom thumb cluster (Experimental): no
+   - custom thumb cluster top right, top left, middle left are skipped. See [[Known Issues][known issue]] #2
    - stagger: yes
    - index finger measurement y: 0
    - index finger measurement z: 0
@@ -108,192 +110,197 @@ Currently only dactyl manuform is demonstrated.
 ** Misc
    - show keycaps: no
    - right side or left side: right
-     
-[[file:manuform/manuform-4x6+6-DIAGONAL.png]] 
-[[file:manuform/manuform-4x6+6-TOP.png]] 
-[[file:manuform/manuform-4x6+6-BACK_TOP.png]] 
-[[file:manuform/manuform-4x6+6-BOTTOM.png]] 
-[[file:manuform/manuform-4x6+6-BOTTOM_DIST_200.png]] 
+
+[[file:manuform/manuform-4x6+6-DIAGONAL.png]]
+[[file:manuform/manuform-4x6+6-TOP.png]]
+[[file:manuform/manuform-4x6+6-BACK_TOP.png]]
+[[file:manuform/manuform-4x6+6-BOTTOM.png]]
+[[file:manuform/manuform-4x6+6-BOTTOM_DIST_200.png]]
 
 * Keys
 
 ** Thumb key count
    2, 3, 4, 5, 6 in order
    [[file:manuform/manuform-4x6+x-DIAGONAL-cmp.png]]
-  
+
 ** Last row key counts
    "no last row" vs "use all keys"
-  
+
    column 3 to 6 have 3 rows
    [[file:manuform/manuform-4x6+6-(keys.last-row=0)-TOP-cmp.png]]
-  
+
    two vs "use all keys"
-  
+
    column 5 and 6 have 3 rows
-   [[file:manuform/manuform-4x6+6-(keys.last-row=2)-TOP-cmp.png]] 
+   [[file:manuform/manuform-4x6+6-(keys.last-row=2)-TOP-cmp.png]]
 
 ** Key hole
    MX vs "Box and MX"
 
    Additional nub
-   [[file:manuform/manuform-4x6+6-(keys.switch-type=mx)-BOTTOM_DIST_200-cmp.png]] 
+   [[file:manuform/manuform-4x6+6-(keys.switch-type=mx)-BOTTOM_DIST_200-cmp.png]]
 
    "MX snap-in" vs MX
-  
-   Notice the space under the nub, which helps the switch firmly snaps into the hole 
-   [[file:manuform/manuform-4x6+6-(keys.switch-type=mx-snap-in)-BOTTOM_DIST_200-cmp.png]] 
+
+   Notice the space under the nub, which helps the switch firmly snaps into the hole
+   [[file:manuform/manuform-4x6+6-(keys.switch-type=mx-snap-in)-BOTTOM_DIST_200-cmp.png]]
+   [[file:images/mx_vs_mx-snap-in.png]]
 
    Alps vs "Box and MX"
-  
+
    Key hole size is different
-   [[file:manuform/manuform-4x6+6-(keys.switch-type=alps)-BOTTOM_DIST_200-cmp.png]]  
+   [[file:manuform/manuform-4x6+6-(keys.switch-type=alps)-BOTTOM_DIST_200-cmp.png]]
 
    Choc vs "Box and MX"
-  
-   The switch hole wall is thinner
-   [[file:manuform/manuform-4x6+6-(keys.switch-type=choc)-BOTTOM_DIST_200-cmp.png]] 
+
+   The switch hole wall is thinner.
+   Added in Sep 2020 https://github.com/ibnuda/dactyl-keyboard/issues/50 and some fixes later
+   [[file:manuform/manuform-4x6+6-(keys.switch-type=choc)-BOTTOM_DIST_200-cmp.png]]
 
    Kailh vs "Box and MX"
-   [[file:manuform/manuform-4x6+6-(keys.switch-type=kailh)-BOTTOM_DIST_200-cmp.png]] 
+
+   Kailh is added at the end of 2020, which fits Kailh switch better.
+   See https://github.com/ibnuda/dactyl-keyboard/pull/68
+   [[file:manuform/manuform-4x6+6-(keys.switch-type=kailh)-BOTTOM_DIST_200-cmp.png]]
 
 ** Inner index finger's column
    "Use inner column (like ergodox)" vs Normal
 
    Two more keys on the left
-   [[file:manuform/manuform-4x6+6-(keys.inner-column=ergodox)-TOP-cmp.png]]  
-   
+   [[file:manuform/manuform-4x6+6-(keys.inner-column=ergodox)-TOP-cmp.png]]
+
    Without vs Normal
 
    The left most column is gone
-   [[file:manuform/manuform-4x6+6-(keys.inner-column=without)-TOP-cmp.png]] 
+   [[file:manuform/manuform-4x6+6-(keys.inner-column=without)-TOP-cmp.png]]
 
 ** Hide bottom pinky
    Yes vs No
 
    The bottom right key is disabled
-   [[file:manuform/manuform-4x6+6-(keys.hide-last-pinky=yes)-TOP-cmp.png]] 
+   [[file:manuform/manuform-4x6+6-(keys.hide-last-pinky=yes)-TOP-cmp.png]]
 
 * Curvature & Tenting
-  
+
 ** Column's curvature
    pi/6 vs pi/12
 
-   The curvature of (index, middle, ring) finger's column, that is, column 1, 2, 3 and 4 is larger
-   [[file:manuform/manuform-4x6+6-(curve.column-curvature=pi_6)-DIAGONAL-cmp.png]] 
-   
+   The curvature pi/6 of (index, middle, ring) finger's column, that is, column 1, 2, 3 and 4 is steeper
+   [[file:manuform/manuform-4x6+6-(curve.column-curvature=pi_6)-DIAGONAL-cmp.png]]
+
 ** Pinky's column curvature
    pi/6 vs pi/12
 
-   The curvature of pinky finger column, that is, column 5 and 6 is larger
-   [[file:manuform/manuform-4x6+6-(curve.pinky-column-curvature=pi_6)-DIAGONAL-cmp.png]] 
+   The curvature of pinky finger column, that is, column 5 and 6 is steeper
+   [[file:manuform/manuform-4x6+6-(curve.pinky-column-curvature=pi_6)-DIAGONAL-cmp.png]]
 
 ** Row's curvature
    pi/18 vs pi/36
-   [[file:manuform/manuform-4x6+6-(curve.row-curvature=pi_18)-DIAGONAL-cmp.png]] 
-   
+   [[file:manuform/manuform-4x6+6-(curve.row-curvature=pi_18)-DIAGONAL-cmp.png]]
+
 ** Center of the curvature for the column
    Index, middle, ring, pinky in order
-   [[file:manuform/manuform-4x6+6-(curve.centercol)-DIAGONAL-cmp.png]] 
+   [[file:manuform/manuform-4x6+6-(curve.centercol)-DIAGONAL-cmp.png]]
 
 ** Tenting Angle
    pi/10 vs pi/15
 
    Row tilt is larger
-   [[file:manuform/manuform-4x6+6-(curve.tenting=10)-DIAGONAL-cmp.png]] 
+   [[file:manuform/manuform-4x6+6-(curve.tenting=10)-DIAGONAL-cmp.png]]
 
 ** Rotation around row axis
    pi/10 vs pi/180
-   [[file:manuform/manuform-4x6+6-(curve.rotate-x=pi_10)-DIAGONAL-cmp.png]] 
+   [[file:manuform/manuform-4x6+6-(curve.rotate-x=pi_10)-DIAGONAL-cmp.png]]
 
    -pi/10 vs pi/180
-   [[file:manuform/manuform-4x6+6-(curve.rotate-x=-pi_10)-DIAGONAL-cmp.png]] 
+   [[file:manuform/manuform-4x6+6-(curve.rotate-x=-pi_10)-DIAGONAL-cmp.png]]
 
    -pi/36 vs pi/180
-   [[file:manuform/manuform-4x6+6-(curve.rotate-x=-pi_36)-DIAGONAL-cmp.png]] 
+   [[file:manuform/manuform-4x6+6-(curve.rotate-x=-pi_36)-DIAGONAL-cmp.png]]
 * Connectors
-  
+
 ** External Holder
    Yes vs No
-   [[file:manuform/manuform-4x6+6-(connector.external=yes)-BACK_TOP-cmp.png]] 
+   [[file:manuform/manuform-4x6+6-(connector.external=yes)-BACK_TOP-cmp.png]]
 
 ** Connector
-   Skipped. See [[Known Issues][known issue]] #1 
+   Skipped. See [[Known Issues][known issue]] #1
 
 ** USB hole
-   Skipped. See [[Known Issues][known issue]] #1 
+   Skipped. See [[Known Issues][known issue]] #1
 
 * Form of the Case
 
 ** Hotswap socket
    Yes vs No
-   [[file:manuform/manuform-4x6+6-(form.hotswap=yes)-BOTTOM_DIST_200-cmp.png]] 
+   [[file:manuform/manuform-4x6+6-(form.hotswap=yes)-BOTTOM_DIST_200-cmp.png]]
 
 ** Thumb cluster offsets center x (toward the pinky)
    The greater the value, thumb cluster is closer to right, toward pinky finger, toward x positive direction
-   
+
    1 vs 6
-   [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-x=1)-DIAGONAL-cmp.png]] 
-   
+   [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-x=1)-DIAGONAL-cmp.png]]
+
 ** Thumb cluster offsets center y (toward the index)
    The greater the value, thumb cluster is more toward to index finger, toward y positive direction
-   
+
    3 vs -3
-   [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-y=3)-DIAGONAL-cmp.png]] 
-   
+   [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-y=3)-DIAGONAL-cmp.png]]
+
 ** Thumb cluster offsets center z (altitude)
    The greater the value, thumb cluster is higher
-   
+
    17 vs 7
-   [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-z=17)-DIAGONAL-cmp.png]] 
+   [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-z=17)-DIAGONAL-cmp.png]]
 
 ** Stagger
    Yes vs No
 
-   [[file:manuform/manuform-4x6+6-(form.stagger=no)-TOP-cmp.png]] 
-   [[file:manuform/manuform-4x6+6-(form.stagger=no)-DIAGONAL-cmp.png]] 
-   
+   [[file:manuform/manuform-4x6+6-(form.stagger=no)-TOP-cmp.png]]
+   [[file:manuform/manuform-4x6+6-(form.stagger=no)-DIAGONAL-cmp.png]]
+
 ** Index finger measurement y
    The greater the value, index finger's column (column 1 and 2) is more far away from hand, toward y positive direction
-   
+
    10 vs 0
-   [[file:manuform/manuform-4x6+6-(form.stagger-index-y=10)-TOP-cmp.png]] 
+   [[file:manuform/manuform-4x6+6-(form.stagger-index-y=10)-TOP-cmp.png]]
 
 ** Index finger measurement z
    The greater the value, index finger's column (column 1 and 2) is higher
 
    15 vs 0
-   [[file:manuform/manuform-4x6+6-(form.stagger-index-z=15)-DIAGONAL-cmp.png]] 
+   [[file:manuform/manuform-4x6+6-(form.stagger-index-z=15)-DIAGONAL-cmp.png]]
 
 ** Middle finger measurement y
    The greater the value, the middle finger's column (column 3) is more far away from hand, toward y positive direction
 
    10 vs 2.8
-   [[file:manuform/manuform-4x6+6-(form.stagger-middle-y=10)-TOP-cmp.png]] 
-   
+   [[file:manuform/manuform-4x6+6-(form.stagger-middle-y=10)-TOP-cmp.png]]
+
 ** Middle finger measurement z
    The greater the value, the middle finger's column (column 3) is higher
 
    0 vs -6.5
-   [[file:manuform/manuform-4x6+6-(form.stagger-middle-z=0)-DIAGONAL-cmp.png]] 
+   [[file:manuform/manuform-4x6+6-(form.stagger-middle-z=0)-DIAGONAL-cmp.png]]
 
 ** Ring finger measurement y
    The greater the value, the ring finger's column (column 4) is more far away from hand, toward y positive direction
 
    10 vs 0
-   [[file:manuform/manuform-4x6+6-(form.stagger-ring-y=10)-TOP-cmp.png]] 
-   
+   [[file:manuform/manuform-4x6+6-(form.stagger-ring-y=10)-TOP-cmp.png]]
+
 ** Ring finger measurement z
    The greater the value, the ring finger's column (column 4) is higher
 
    15 vs 0
-   [[file:manuform/manuform-4x6+6-(form.stagger-ring-z=15)-DIAGONAL-cmp.png]] 
+   [[file:manuform/manuform-4x6+6-(form.stagger-ring-z=15)-DIAGONAL-cmp.png]]
 
 ** Pinky finger measurement y
    The greater the value, the pinky finger's column (column 5 and 6) is more far away from hand, toward y positive direction
 
    0 vs -13
-   [[file:manuform/manuform-4x6+6-(form.stagger-pinky-y=0)-TOP-cmp.png]] 
-   
+   [[file:manuform/manuform-4x6+6-(form.stagger-pinky-y=0)-TOP-cmp.png]]
+
 ** Pinky finger measurement z
    The greater the value, the pinky finger's column (column 5 and 6) is higher
 
@@ -303,25 +310,25 @@ Currently only dactyl manuform is demonstrated.
 ** Wide pinky
    Whether the right most column uses 1.5u keycap
 
-   No vs Yes
-   [[file:manuform/manuform-4x6+6-(form.wide-pinky=yes)-DIAGONAL-cmp.png]] 
+   Yes vs No
+   [[file:manuform/manuform-4x6+6-(form.wide-pinky=yes)-DIAGONAL-cmp.png]]
 
 ** Height offset
    The overall height of the keyboard case
 
    4mm vs 10mm
-   [[file:manuform/manuform-4x6+6-(form.height-offset=4)-DIAGONAL-cmp.png]] 
+   [[file:manuform/manuform-4x6+6-(form.height-offset=4)-DIAGONAL-cmp.png]]
 
 ** Wire posts
    Sorry I haven't tried it. Enable it if you think it helps wiring.
-   [[file:manuform/manuform-4x6+6-(form.wire-post=yes)-BOTTOM-cmp.png]] 
+   [[file:manuform/manuform-4x6+6-(form.wire-post=yes)-BOTTOM-cmp.png]]
 
 ** Screw inserts
    5 screw hole. They are hollow even though they looks solid in the rendered preview image,
    because OpenSCAD full geometry render is time-consuming.
 
    Yes vs No
-   [[file:manuform/manuform-4x6+6-(form.screw-inserts=yes)-BOTTOM-cmp.png]] 
+   [[file:manuform/manuform-4x6+6-(form.screw-inserts=yes)-BOTTOM-cmp.png]]
 
 * Misc
 
@@ -329,22 +336,23 @@ Currently only dactyl manuform is demonstrated.
    Just for display
 
    Yes vs No
-   [[file:manuform/manuform-4x6+6-(misc.keycaps=yes)-DIAGONAL-cmp.png]] 
-  
+   [[file:manuform/manuform-4x6+6-(misc.keycaps=yes)-DIAGONAL-cmp.png]]
+
 ** Right side or left side
    Left vs Right
-   [[file:manuform/manuform-4x6+6-(misc.left-side)-DIAGONAL-cmp.png]] 
-   
+   [[file:manuform/manuform-4x6+6-(misc.left-side)-DIAGONAL-cmp.png]]
+
 * Known Issues
   1. Connectors
-     
+
      Because dactyl manuform API has a [[https://github.com/ibnuda/dactyl-keyboard/pull/87][BUG]] to get the parameter connector type, the
      base model sets parameter ~connector~ to ~none~ which is the default value in
      source code, and demo to parameter ~connector~ and ~USB hole~ is skipped.
      Demo will be updated once my fix is merged by dactyl generator author.
-   
+
   2. Custom thumb cluster
-     
+
      This function is experimental and only top 3 thumb keys (take right thumb
      cluster for example, top right, top left, middle left) are customizable. See
-     this [[https://github.com/ibnuda/dactyl-keyboard/issues/28][dactyl generator issue]]. The demo to these parameters is skipped.
+     this [[https://github.com/ibnuda/dactyl-keyboard/issues/28][dactyl generator issue]] for an example.
+     The demo to these parameters is skipped.
