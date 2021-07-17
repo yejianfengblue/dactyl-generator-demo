@@ -83,8 +83,8 @@ Currently only dactyl manuform is demonstrated.
 
 ** Connectors
    - use loligagger's external holder: no
-   - connector: none. See [[Known Issues][known issue]] #1
-   - USB hole: N/A. See [[Known Issues][known issue]] #1
+   - connector: none. See [[#known-issues][known issue]] #1
+   - USB hole: N/A. See [[#known-issues][known issue]] #1
 
 ** Form of the Case
    - hotswap socket: no
@@ -92,7 +92,7 @@ Currently only dactyl manuform is demonstrated.
    - thumb cluster offsets center y (toward the index): -3
    - thumb cluster offsets center z (altitude): 7
    - custom thumb cluster (Experimental): no
-   - custom thumb cluster top right, top left, middle left are skipped. See [[Known Issues][known issue]] #2
+   - custom thumb cluster top right, top left, middle left are skipped. See [[#known-issues][known issue]] #2
    - stagger: yes
    - index finger measurement y: 0
    - index finger measurement z: 0
@@ -224,10 +224,10 @@ Currently only dactyl manuform is demonstrated.
    [[file:manuform/manuform-4x6+6-(connector.external=yes)-BACK_TOP-cmp.png]]
 
 ** Connector
-   Skipped. See [[Known Issues][known issue]] #1
+   Skipped. See [[#known-issues][known issue]] #1
 
 ** USB hole
-   Skipped. See [[Known Issues][known issue]] #1
+   Skipped. See [[#known-issues][known issue]] #1
 
 * Form of the Case
 

@@ -77,8 +77,8 @@
 
 ** Connectors 连接头
    - use loligagger's external holder 外置芯片支架: no 否
-   - connector 连接头类型: none 无. 详见 [[Known Issues 已知问题][已知问题]] #1
-   - USB hole USB孔: 暂时省略. 详见 [[Known Issues 已知问题][已知问题]] #1
+   - connector 连接头类型: none 无. 详见 [[#known-issues-已知问题][已知问题]] #1
+   - USB hole USB孔: 暂时省略. 详见 [[#known-issues-已知问题][已知问题]] #1
 
 ** Form of the case 键盘外形
    - hotswap socket 热插拔轴座槽: no 否
@@ -86,7 +86,7 @@
    - thumb cluster offsets center y (toward the index) 拇指区y轴位移（往食指方向）：-3
    - thumb cluster offsets center z (altitude) 拇指区z轴位移（高度）：7
    - custom thumb cluster (Experimental) 自定义拇指区按键: no 否
-   - top right, top left, middle left 自定义拇指区按键
+   - top right, top left, middle left 自定义拇指区按键: 暂时省略，详见[[#known-issues-已知问题][已知问题]] #2
    - stagger 梯级型的行: yes 是, 控制下面的列y位移
    - index finger measurement y 食指列y位移: 0
    - index finger measurement z 食指列z位移: 0
@@ -241,10 +241,10 @@
    [[file:manuform/manuform-4x6+6-(connector.external=yes)-BACK_TOP-cmp.png]]
 
 ** Connector 连接头类型
-   暂时省略。详见[[Known Issues 已知问题][已知问题]] #1
+   暂时省略。详见[[#known-issues-已知问题][已知问题]] #1
 
 ** USB hole USB孔
-   暂时省略。详见[[Known Issues 已知问题][已知问题]] #1
+   暂时省略。详见[[#known-issues-已知问题][已知问题]] #1
 
 * Form of the Case 键盘外形
 
