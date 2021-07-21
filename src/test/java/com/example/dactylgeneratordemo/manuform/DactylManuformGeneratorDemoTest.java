@@ -2,7 +2,6 @@ package com.example.dactylgeneratordemo.manuform;
 
 import com.example.dactylgeneratordemo.OpenscadService.Camera;
 import com.example.dactylgeneratordemo.SwitchType;
-import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -21,7 +20,7 @@ public class DactylManuformGeneratorDemoTest {
                                                LastRow.FULL, InnerColumn.NORMIE, false,
                                                SwitchType.BOX);
         Manuform.Curve curve = new Manuform.Curve(12, 12, 36, 4, 15, 180);
-        Manuform.Connector connector = new Manuform.Connector(false, ConnectorType.TRRS, true);
+        Manuform.Connector connector = new Manuform.Connector(false, ConnectorType.RJ9, false);
         Manuform.Form form = new Manuform.Form(false,
                                                6, -3, 7,
                                                true,
@@ -173,34 +172,21 @@ public class DactylManuformGeneratorDemoTest {
     }
 
     @Test
-    void connectorExternal() {
+    void connector() {
 
         Camera camera = Camera.BACK_TOP;
         Manuform manuform = getBaseManuform();
-        manuform.getConnector().setExternal(true);
-        manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-(connector.external=yes)", camera);
-    }
 
-    @Disabled("Disable until fix https://github.com/ibnuda/dactyl-keyboard/pull/87 is merged")
-    @Test
-    void connectorType() {
+        manuform.getConnector().setType(ConnectorType.TRRS);
+        manuform.getConnector().setMicrousb(true);
+        manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-(connector.type=trrs)", camera);
 
-        Camera camera = Camera.BACK_TOP;
-        Manuform manuform = getBaseManuform();
-        manuform.getConnector().setType(ConnectorType.RJ9);
-        manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-(connector.type=RJ9)", camera);
         manuform.getConnector().setType(ConnectorType.NONE);
         manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-(connector.type=none)", camera);
-    }
 
-    @Disabled("Disable until fix https://github.com/ibnuda/dactyl-keyboard/pull/87 is merged")
-    @Test
-    void connectorUsb() {
-
-        Camera camera = Camera.BACK_TOP;
-        Manuform manuform = getBaseManuform();
-        manuform.getConnector().setMicrousb(false);
-        manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-(connector.mini-usb)", camera);
+        manuform.getConnector().setExternal(true);
+        manuform.getConnector().setType(ConnectorType.NONE);
+        manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-(connector.external=yes)", camera);
     }
 
     @Test

@@ -11,7 +11,7 @@
 - [[#参照模型][参照模型]]
   - [[#keys-键][Keys 键]]
   - [[#curvature--tenting-曲率和倾斜度][Curvature & Tenting 曲率和倾斜度]]
-  - [[#connectors-连接头][Connectors 连接头]]
+  - [[#connectors-接口][Connectors 接口]]
   - [[#form-of-the-case-键盘外形][Form of the case 键盘外形]]
   - [[#miscelania-杂项][Miscelania 杂项]]
 - [[#keys-键-1][Keys 键]]
@@ -27,10 +27,11 @@
   - [[#center-of-the-curvature-for-the-column-以哪一列作为行的曲率的中心][Center of the curvature for the column 以哪一列作为行的曲率的中心]]
   - [[#tenting-angle-倾斜度][Tenting Angle 倾斜度]]
   - [[#rotation-around-row-axis-行旋转][Rotation around row axis 行旋转]]
-- [[#connectors-连接头-1][Connectors 连接头]]
-  - [[#external-holder-外置芯片支架][External Holder 外置芯片支架]]
-  - [[#connector-连接头类型][Connector 连接头类型]]
-  - [[#usb-hole-usb孔][USB hole USB孔]]
+- [[#connectors-接口-1][Connectors 接口]]
+  - [[#internal-connector-内置接口-rj9-mini-usb][Internal connector 内置接口 RJ9 Mini USB]]
+  - [[#internal-connector-trrs-micro-usb-内置接口-音频口-micro-usb][Internal connector TRRS Micro USB 内置接口 音频口 Micro USB]]
+  - [[#internal-connector-none-无内置接口][Internal connector none 无内置接口]]
+  - [[#external-holder-外置托架][External Holder 外置托架]]
 - [[#form-of-the-case-键盘外形-1][Form of the Case 键盘外形]]
   - [[#hotswap-socket-热插拔轴座槽][Hotswap socket 热插拔轴座槽]]
   - [[#thumb-cluster-offsets-center-x-toward-the-pinky-拇指区x轴位移往小拇指方向][Thumb cluster offsets center x (toward the pinky) 拇指区x轴位移（往小拇指方向）]]
@@ -75,10 +76,10 @@
    - tenting angle 倾斜度: pi/15
    - rotation around row axis 行旋转: pi/180
 
-** Connectors 连接头
-   - use loligagger's external holder 外置芯片支架: no 否
-   - connector 连接头类型: none 无. 详见 [[#known-issues-已知问题][已知问题]] #1
-   - USB hole USB孔: 暂时省略. 详见 [[#known-issues-已知问题][已知问题]] #1
+** Connectors 接口
+   - use loligagger's external holder 外置支架: no 否
+   - connector 接口类型: RJ9
+   - USB hole USB孔: Mini USB
 
 ** Form of the case 键盘外形
    - hotswap socket 热插拔轴座槽: no 否
@@ -232,19 +233,57 @@
 
    -pi/36 对比 pi/180
    [[file:manuform/manuform-4x6+6-(curve.rotate-x=-pi_36)-DIAGONAL-cmp.png]]
-* Connectors 连接头
+* Connectors 接口
 
-** External Holder 外置芯片支架
-   Yes 对比 No
+** Internal connector 内置接口 RJ9 Mini USB
+   - use loligagger's external holder 外置支架: no 否
+   - connector 接口类型: RJ9
+   - USB hole USB孔: Mini USB
+   [[file:manuform/manuform-4x6+6-BACK_TOP.png]] 
 
-   是 对比 否
+   [[file:images/internal-connector-rj9.png]] 
+  
+** Internal connector TRRS Micro USB 内置接口 音频口 Micro USB
+   - use loligagger's external holder 外置托架: no 否
+   - connector 接口类型: RJ9
+   - USB hole USB孔: Mini USB
+     
+   "内置接口 音频口 Micro USB" 对比 "内置接口 RJ9 Mini USB"
+   [[file:manuform/manuform-4x6+6-(connector.type=trrs)-BACK_TOP-cmp.png]] 
+    
+   - 3.5mm耳机音频插座PJ-320B插在外壳的圆孔
+   - micro USB转接板插在外壳14mm的方孔
+   - pro micro开发板挂在L型挂钩
+   - micro USB转接板焊接一个micro USB线插pro micro开发板的micro USB口
+     
+   这种连接方式比外置托架复杂，但也可以用在键盘右半部分，因为右半部分只需要通过音频口和左半部分连接，不需要插USB。
+   
+   [[file:images/internal-connector-trrs.png]] 
+
+   [[file:images/microusb-breakout-board.png]] 
+
+   下图来自[[https://www.beekeeb.com/dactyl-manuform-mini-mechanical-keyboard-build-log/][Leo's build log]].
+   [[file:images/leo-dactyl-manuform-bottom.png]] 
+   
+** Internal connector none 无内置接口
+   - use loligagger's external holder 外置托架: no 否
+   - connector 接口类型: none
+   - USB hole USB孔: 随便，没关系
+     
+   "无内置接口" 对比 "内置接口 RJ9 Mini USB"
+
+   主要用于蓝牙键盘
+   [[file:manuform/manuform-4x6+6-(connector.type=none)-BACK_TOP-cmp.png]] 
+
+** External Holder 外置托架
+   Yes 对比 "No RJ9 Mini USB”
+
+   外置托架 对比 “内置接口 RJ9 Mini USB”
+   
+   外壳缺口厚度大约5mm，promicro v1 v2 v3托架中v3适合度最高，虽然不是100%完全吻合，仍然需要用刀小切和锉刀小打磨。
+   目前网站的v3下载链接是坏的，已提交[[https://github.com/ibnuda/dactyl-keyboard/pull/92][PR]]等同意。另外[[https://github.com/ibnuda/dactyl-keyboard/blob/refaktor/resources/public/loligagger-external-holder-v3-extended.stl][github的v3模型文件]] [[https://github.com/ibnuda/dactyl-keyboard/issues/85][多了一小块]], 这里是修复版本的[[file:stl/promicro-holder-v3-left.stl][左边]]和[[file:stl/promicro-holder-v3-right.stl][右边]]。  
+   
    [[file:manuform/manuform-4x6+6-(connector.external=yes)-BACK_TOP-cmp.png]]
-
-** Connector 连接头类型
-   暂时省略。详见[[#known-issues-已知问题][已知问题]] #1
-
-** USB hole USB孔
-   暂时省略。详见[[#known-issues-已知问题][已知问题]] #1
 
 * Form of the Case 键盘外形
 

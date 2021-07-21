@@ -18,8 +18,8 @@
   },
   "connector" : {
     "external" : false,
-    "type" : "trrs",
-    "micro-usb" : true
+    "type" : "rj9",
+    "micro-usb" : false
   },
   "form" : {
     "hotswap" : true,

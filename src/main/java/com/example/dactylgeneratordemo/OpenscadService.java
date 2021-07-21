@@ -40,6 +40,9 @@ public class OpenscadService {
                 commands.add("--view");
                 commands.add("axes");
             }
+            if (Camera.BACK_TOP == camera || Camera.BOTTOM == camera) {
+                commands.add("--render");
+            }
 
             new ProcessExecutor().command(commands).execute();
         }
