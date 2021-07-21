@@ -260,6 +260,8 @@
    
    [[file:images/internal-connector-trrs.png]] 
 
+   micro USB转接板
+    
    [[file:images/microusb-breakout-board.png]] 
 
    下图来自[[https://www.beekeeb.com/dactyl-manuform-mini-mechanical-keyboard-build-log/][Leo's build log]].
