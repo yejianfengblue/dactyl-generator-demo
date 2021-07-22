@@ -30,6 +30,7 @@ public class DactylManuformGeneratorDemoTest {
                                                -13, 6,
                                                false,
                                                20,
+                                               7, 3,
                                                false,
                                                false);
         Manuform.Misc misc = new Manuform.Misc(false, true);
@@ -322,6 +323,28 @@ public class DactylManuformGeneratorDemoTest {
         Manuform manuform = getBaseManuform();
         manuform.getForm().setHeightOffset(4);
         manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-(form.height-offset=4)", camera);
+    }
+
+    @Test
+    void webThickness() {
+
+        Camera camera = Camera.BOTTOM_DIST_200;
+        Manuform manuform = getBaseManuform();
+        manuform.getForm().setWebThickness(20);
+        manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-(form.web-thickness=20)", camera);
+    }
+
+    @Test
+    void wallThickness() {
+
+        Camera camera = Camera.BOTTOM;
+        Manuform manuform = getBaseManuform();
+//        manuform.getConnector().setExternal(true);
+//        manuform.getConnector().setType(ConnectorType.NONE);
+        manuform.getForm().setWallThickness(1);
+        manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-(form.wall-thickness=1)", camera);
+        manuform.getForm().setWallThickness(10);
+        manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-(form.wall-thickness=10)", camera);
     }
 
     @Test

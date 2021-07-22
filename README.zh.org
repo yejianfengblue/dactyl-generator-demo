@@ -48,6 +48,8 @@
   - [[#pinky-finger-measurement-z-小拇指列z位移][Pinky finger measurement z 小拇指列z位移]]
   - [[#wide-pinky-小拇指最外列使用15u键帽][Wide pinky 小拇指最外列使用1.5u键帽]]
   - [[#height-offset-整体高度][Height offset 整体高度]]
+  - [[#web-thickness][Web thickness]]
+  - [[#wall-thickness][Wall thickness]]
   - [[#wire-posts-走线凸块][Wire posts 走线凸块]]
   - [[#screw-inserts-螺丝孔][Screw inserts 螺丝孔]]
 - [[#miscelania-杂项-1][Miscelania 杂项]]
@@ -377,6 +379,18 @@
 ** Height offset 整体高度
    4mm 对比 10mm
    [[file:manuform/manuform-4x6+6-(form.height-offset=4)-DIAGONAL-cmp.png]]
+
+** Web thickness
+   键孔周围的厚度
+
+   20mm 对比 7mm
+   [[file:manuform/manuform-4x6+6-(form.web-thickness=20)-BOTTOM_DIST_200-cmp.png]] 
+
+** Wall thickness
+   键盘外围厚度
+   
+   1mm 对比 3mm
+   [[file:manuform/manuform-4x6+6-(form.wall-thickness=1)-BOTTOM-cmp.png]] 
 
 ** Wire posts 走线凸块
    我没打印测试过，不知道是否有助于走线

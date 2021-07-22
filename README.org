@@ -50,6 +50,8 @@ Currently only dactyl manuform is demonstrated.
   - [[#pinky-finger-measurement-z][Pinky finger measurement z]]
   - [[#wide-pinky][Wide pinky]]
   - [[#height-offset][Height offset]]
+  - [[#web-thickness][Web thickness]]
+  - [[#wall-thickness][Wall thickness]]
   - [[#wire-posts][Wire posts]]
   - [[#screw-inserts][Screw inserts]]
 - [[#misc-1][Misc]]
@@ -357,6 +359,18 @@ Currently only dactyl manuform is demonstrated.
 
    4mm vs 10mm
    [[file:manuform/manuform-4x6+6-(form.height-offset=4)-DIAGONAL-cmp.png]]
+
+** Web thickness
+   Top part of the keyboard around the keyholes
+
+   20mm vs 7mm
+   [[file:manuform/manuform-4x6+6-(form.web-thickness=20)-BOTTOM_DIST_200-cmp.png]] 
+
+** Wall thickness
+   Wall around the keyboard
+
+   1mm vs 3mm
+   [[file:manuform/manuform-4x6+6-(form.wall-thickness=1)-BOTTOM-cmp.png]] 
 
 ** Wire posts
    Sorry I haven't tried it. Enable it if you think it helps wiring.

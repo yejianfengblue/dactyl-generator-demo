@@ -134,6 +134,10 @@ class Manuform {
 
         int heightOffset;
 
+        double webThickness;
+
+        double wallThickness;
+
         boolean wirePost;
 
         boolean screwInserts;
