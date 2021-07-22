@@ -27,17 +27,17 @@ for file in os.listdir('manuform'):
         baseImg = f"manuform-{match.group('keys')}-{match.group('camera')}.png"
         if "mx-snap-in" in file:
             baseImg = file.replace("mx-snap-in", "mx")
-        output = file.replace(".png", "-cmp.png")
+        cmp = file.replace(".png", "-cmp.png")
         # generate cmp image except for param curve.centercol
         if "curve.centercol" not in file:
-            print(f"merge {file} and {baseImg} to {output}")
+            print(f"merge {file} and {baseImg} to {cmp}")
             subprocess.run([
                 "montage",
                 "-geometry",
                 "+0",
                 f"manuform/{file}",
                 f"manuform/{baseImg}",
-                f"manuform/{output}"])
+                f"manuform/{cmp}"])
 
         # highlight the difference between mx-snap-in and mx
         if "mx-snap-in" in file:
@@ -51,8 +51,8 @@ for file in os.listdir('manuform'):
                 "3",
                 "-draw",
                 "rectangle 790,470 820,530 rectangle 1790,470 1820,530",
-                f"manuform/{output}",
-                f"manuform/{output}"])
+                f"manuform/{cmp}",
+                f"manuform/{cmp}"])
 
         # highlight the difference between choc and box
         if "choc" in file:
@@ -66,5 +66,5 @@ for file in os.listdir('manuform'):
                 "3",
                 "-draw",
                 "rectangle 760,450 800,530 rectangle 1770,450 1810,530",
-                f"manuform/{output}",
-                f"manuform/{output}"])
+                f"manuform/{cmp}",
+                f"manuform/{cmp}"])
