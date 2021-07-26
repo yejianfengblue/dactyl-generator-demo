@@ -30,6 +30,8 @@
     "stagger-pinky-z" : 6.0,
     "wide-pinky" : true,
     "height-offset" : 20,
+    "web-thickness" : 7.0,
+    "wall-thickness" : 3.0,
     "wire-post" : false,
     "screw-inserts" : false,
     "thumb-cluster-offset-x" : 6.0,

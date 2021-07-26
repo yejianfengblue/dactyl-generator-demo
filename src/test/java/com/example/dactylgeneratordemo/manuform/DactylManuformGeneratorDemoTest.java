@@ -341,8 +341,6 @@ public class DactylManuformGeneratorDemoTest {
         Manuform manuform = getBaseManuform();
         manuform.getForm().setWallThickness(1);
         manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-(form.wall-thickness=1)", camera);
-        manuform.getForm().setWallThickness(10);
-        manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-(form.wall-thickness=10)", camera);
     }
 
     @Test
