@@ -107,6 +107,8 @@ Currently only dactyl manuform is demonstrated.
    - pinky finger measurement z: 6
    - wide pinky: no
    - height offset: +4mm+ 10mm
+   - web thickness: 7
+   - wall thickness: 3
    - wire posts: no
    - screw inserts: no
 
