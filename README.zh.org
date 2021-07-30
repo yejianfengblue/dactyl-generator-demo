@@ -55,7 +55,7 @@
 - [[#miscelania-杂项-1][Miscelania 杂项]]
   - [[#show-keycaps-显示键帽][Show Keycaps 显示键帽]]
   - [[#right-side-or-left-side-右边或者左边][Right side or left side 右边或者左边]]
-- [[#known-issues-已知问题][Known Issues 已知问题]]
+- [[#已知问题][已知问题]]
 
 * 参照模型
   这个参照模型使用大部分参数的默认值，是用来做对比。
@@ -89,7 +89,7 @@
    - thumb cluster offsets center y (toward the index) 拇指区y轴位移（往食指方向）：-3
    - thumb cluster offsets center z (altitude) 拇指区z轴位移（高度）：7
    - custom thumb cluster (Experimental) 自定义拇指区按键: no 否
-   - top right, top left, middle left 自定义拇指区按键: 暂时省略，详见[[#known-issues-已知问题][已知问题]] #2
+   - top right, top left, middle left 自定义拇指区按键: 暂时省略，详见[[#known-issues-已知问题][已知问题]] #1
    - stagger 梯级型的行: yes 是, 控制下面的列y位移
    - index finger measurement y 食指列y位移: 0
    - index finger measurement z 食指列z位移: 0
@@ -416,15 +416,8 @@
    左边 对比 右边
    [[file:manuform/manuform-4x6+6-(misc.left-side)-DIAGONAL-cmp.png]]
 
-* Known Issues 已知问题
-  1. 连接头
-
-     因为API解释连接头类型的代码有[[https://github.com/ibnuda/dactyl-keyboard/pull/87][BUG]]，所以参考模型的连接头类型设置为代码默认值“无”。
-     暂时省略参数“连接头类型”和“USB孔”的展示。
-     网站手动生成的代码没有BUG，你可以自行测试。
-     我懒得手动去生成模型和预览图。我已经提交修复的代码，等原作者同意即可。
-
-  2. Custom thumb cluster 自定义拇指区按键
+* 已知问题
+  1. Custom thumb cluster 自定义拇指区按键
 
      目前是实验性功能，只支持拇指区 右上、左上和左中3个按键。
      省略说明这些参数。感兴趣的人可以去[[https://github.com/ibnuda/dactyl-keyboard/issues/28][这里]]获取一个例子的参数。

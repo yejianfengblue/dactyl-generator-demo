@@ -95,7 +95,7 @@ Currently only dactyl manuform is demonstrated.
    - thumb cluster offsets center y (toward the index): -3
    - thumb cluster offsets center z (altitude): 7
    - custom thumb cluster (Experimental): no
-   - custom thumb cluster top right, top left, middle left are skipped. See [[#known-issues][known issue]] #2
+   - custom thumb cluster top right, top left, middle left are skipped. See [[#known-issues][known issue]] #1
    - stagger: yes
    - index finger measurement y: 0
    - index finger measurement z: 0
@@ -398,14 +398,7 @@ Currently only dactyl manuform is demonstrated.
    [[file:manuform/manuform-4x6+6-(misc.left-side)-DIAGONAL-cmp.png]]
 
 * Known Issues
-  1. Connectors
-
-     Because dactyl manuform API has a [[https://github.com/ibnuda/dactyl-keyboard/pull/87][BUG]] to get the parameter connector type, the
-     base model sets parameter ~connector~ to ~none~ which is the default value in
-     source code, and demo to parameter ~connector~ and ~USB hole~ is skipped.
-     Demo will be updated once my fix is merged by dactyl generator author.
-
-  2. Custom thumb cluster
+  1. Custom thumb cluster
 
      This function is experimental and only top 3 thumb keys (take right thumb
      cluster for example, top right, top left, middle left) are customizable. See
