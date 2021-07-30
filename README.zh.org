@@ -150,7 +150,7 @@
 
    凸块底下多了空间，更好地卡住樱桃/佳达隆MX轴的凹处
    [[file:manuform/manuform-4x6+6-(keys.switch-type=mx-snap-in)-BOTTOM_DIST_200-cmp.png]]
-   [[file:images/mx_vs_mx-snap-in.png]]
+   [[file:images/mx-snap-in_vs_mx.png]]
 
    Alps 对比 "Box and MX"
 
