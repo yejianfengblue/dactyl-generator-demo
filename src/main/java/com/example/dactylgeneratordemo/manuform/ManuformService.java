@@ -36,22 +36,22 @@ class ManuformService {
     @SneakyThrows
     void generateScad(Manuform manuform, String filename, OpenscadService.Camera... cameras) {
 
-        // create a directory named manuform
-        Path manuformPath = Paths.get("manuform");
-        if (!manuformPath.toFile().exists()) {
-            manuformPath.toFile().mkdirs();
+        // create directory
+        Path dir = Paths.get(filename).getParent();
+        if (!dir.toFile().exists()) {
+            dir.toFile().mkdirs();
         }
 
         // json
         String json = objectMapper.writeValueAsString(manuform);
-        FileCopyUtils.copy(json.getBytes(StandardCharsets.UTF_8), manuformPath.resolve(filename + ".json").toFile());
+        FileCopyUtils.copy(json.getBytes(StandardCharsets.UTF_8), Paths.get(filename + ".json").toFile());
         log.info("Generate manuform with params\n{}\nto {}", json, filename);
 
         // json -> scad
         RequestEntity<String> request = RequestEntity.post(URI)
                                                      .contentType(MediaType.APPLICATION_JSON)
                                                      .body(json);
-        Path scadPath = manuformPath.resolve(filename + ".scad");
+        Path scadPath = Paths.get(filename + ".scad");
         String scadContent = restTemplate.postForObject(URI, request, String.class);
         FileCopyUtils.copy(scadContent.getBytes(StandardCharsets.UTF_8), scadPath.toFile());
 

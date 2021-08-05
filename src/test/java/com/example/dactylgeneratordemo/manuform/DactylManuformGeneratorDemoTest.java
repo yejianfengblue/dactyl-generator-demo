@@ -9,7 +9,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 public class DactylManuformGeneratorDemoTest {
 
-    final String MANUFORM_BASE_FILENAME = "manuform-4x6+6";
+    final String MANUFORM_BASE_FILENAME = "manuform/manuform-4x6+6";
 
     @Autowired
     ManuformService manuformService;
