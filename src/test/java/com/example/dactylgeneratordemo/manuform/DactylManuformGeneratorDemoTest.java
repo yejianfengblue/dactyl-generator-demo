@@ -204,19 +204,19 @@ public class DactylManuformGeneratorDemoTest {
     @Test
     void thumbClusterOffsetX() {
 
-        Camera camera = Camera.DIAGONAL;
+        Camera camera = Camera.TOP;
         Manuform manuform = getBaseManuform();
-        manuform.getForm().setThumbClusterOffsetX(1);
-        manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-(form.thumb-cluster-offset-x=1)", camera);
+        manuform.getForm().setThumbClusterOffsetX(-10);
+        manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-(form.thumb-cluster-offset-x=-10)", camera);
     }
 
     @Test
     void thumbClusterOffsetY() {
 
-        Camera camera = Camera.DIAGONAL;
+        Camera camera = Camera.TOP;
         Manuform manuform = getBaseManuform();
-        manuform.getForm().setThumbClusterOffsetY(3);
-        manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-(form.thumb-cluster-offset-y=3)", camera);
+        manuform.getForm().setThumbClusterOffsetY(-23);
+        manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-(form.thumb-cluster-offset-y=-23)", camera);
     }
 
     @Test
@@ -224,8 +224,8 @@ public class DactylManuformGeneratorDemoTest {
 
         Camera camera = Camera.DIAGONAL;
         Manuform manuform = getBaseManuform();
-        manuform.getForm().setThumbClusterOffsetZ(17);
-        manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-(form.thumb-cluster-offset-z=17)", camera);
+        manuform.getForm().setThumbClusterOffsetZ(27);
+        manuformService.generateScad(manuform, MANUFORM_BASE_FILENAME + "-(form.thumb-cluster-offset-z=27)", camera);
     }
 
     @Test

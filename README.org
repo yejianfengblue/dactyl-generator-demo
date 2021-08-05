@@ -278,22 +278,22 @@ Currently only dactyl manuform is demonstrated.
    [[file:manuform/manuform-4x6+6-(form.hotswap=yes)-BOTTOM_DIST_200-cmp.png]]
 
 ** Thumb cluster offsets center x (toward the pinky)
-   The greater the value, thumb cluster is closer to right, toward pinky finger, toward x positive direction
+   The greater the value, thumb cluster is closer to right, toward pinky finger
 
-   1 vs 6
-   [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-x=1)-DIAGONAL-cmp.png]]
+   -10 vs 6
+   [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-x=-10)-TOP-cmp.png]]
 
 ** Thumb cluster offsets center y (toward the index)
-   The greater the value, thumb cluster is more toward to index finger, toward y positive direction
+   The greater the value, thumb cluster is more toward to index finger
 
-   3 vs -3
-   [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-y=3)-DIAGONAL-cmp.png]]
+   -23 vs -3
+   [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-y=-23)-TOP-cmp.png]]
 
 ** Thumb cluster offsets center z (altitude)
    The greater the value, thumb cluster is higher
 
-   17 vs 7
-   [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-z=17)-DIAGONAL-cmp.png]]
+   27 vs 7
+   [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-z=27)-DIAGONAL-cmp.png]]
 
 ** Stagger
    Yes vs No

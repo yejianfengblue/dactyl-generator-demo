@@ -300,22 +300,22 @@
    [[file:manuform/manuform-4x6+6-(form.hotswap=yes)-BOTTOM_DIST_200-cmp.png]]
 
 ** Thumb cluster offsets center x (toward the pinky) 拇指区x轴位移（往小拇指方向）
-   数值越大，拇指区越靠右，越接近小拇指，往x轴正方向
+   数值越大，拇指区越靠右，越接近小拇指
 
-   1 对比 6
-   [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-x=1)-DIAGONAL-cmp.png]]
+   -10 对比 6
+   [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-x=-10)-TOP-cmp.png]]
 
 ** Thumb cluster offsets center y (toward the index) 拇指区y轴位移（往食指方向）
-   数值越大，拇指区越靠近食指，往y轴正方向
+   数值越大，拇指区越靠近食指
 
-   3 对比 -3
-   [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-y=3)-DIAGONAL-cmp.png]]
+   -23 对比 -3
+   [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-y=-23)-TOP-cmp.png]]
 
 ** Thumb cluster offsets center z (altitude) 拇指区z轴位移（高度）
    数值越大，拇指区越高
 
-   17 对比 7
-   [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-z=17)-DIAGONAL-cmp.png]]
+   27 对比 7
+   [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-z=27)-DIAGONAL-cmp.png]]
 
 ** Stagger 梯级型的行
    Yes 对比 No
