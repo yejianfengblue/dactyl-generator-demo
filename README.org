@@ -266,8 +266,7 @@ Currently only dactyl manuform is demonstrated.
 
    The case wall thickness is about 5mm, which is too thick for promicro v1 and v2 holder.
    The promicro v3 holder fits the case even though not 100% well-fitting.
-   The current v3 link in manuform page is broken. A [[https://github.com/ibnuda/dactyl-keyboard/pull/92][PR]] is submitted.
-   In addition, there is a [[https://github.com/ibnuda/dactyl-keyboard/issues/85][separated part]] in [[https://github.com/ibnuda/dactyl-keyboard/blob/refaktor/resources/public/loligagger-external-holder-v3-extended.stl][github v3 holder model]].
+   There is a [[https://github.com/ibnuda/dactyl-keyboard/issues/85][separated part]] in v3 holder model.
    [[file:stl/][Here]] is the fixed version for right case and a mirror version for left case.
    The 3.5mm audio jack connector PJ-320B and pro micro board fit the holder.
    [[file:manuform/manuform-4x6+6-(connector.external=yes)-BACK_TOP.png]]

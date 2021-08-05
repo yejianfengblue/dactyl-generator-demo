@@ -287,7 +287,7 @@
    外置托架 对比 “内置接口 RJ9 Mini USB”
    
    外壳缺口厚度大约5mm，promicro v1 v2 v3托架中v3适合度最高，虽然不是100%完全吻合，仍然需要用刀小切和锉刀小打磨。
-   目前网站的v3下载链接是坏的，已提交[[https://github.com/ibnuda/dactyl-keyboard/pull/92][PR]]等同意。另外[[https://github.com/ibnuda/dactyl-keyboard/blob/refaktor/resources/public/loligagger-external-holder-v3-extended.stl][github的v3模型文件]] [[https://github.com/ibnuda/dactyl-keyboard/issues/85][多了一小块]], 这里是修复版本的[[file:stl/promicro-holder-v3-left.stl][左边]]和[[file:stl/promicro-holder-v3-right.stl][右边]]。  
+   Github的v3模型文件[[https://github.com/ibnuda/dactyl-keyboard/issues/85][多了一小块]], 这里是修复版本的[[file:stl/promicro-holder-v3-left.stl][左边]]和[[file:stl/promicro-holder-v3-right.stl][右边]]。  
    
    [[file:manuform/manuform-4x6+6-(connector.external=yes)-BACK_TOP-cmp.png]]
 
