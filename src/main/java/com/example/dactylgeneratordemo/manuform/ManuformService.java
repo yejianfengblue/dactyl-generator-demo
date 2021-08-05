@@ -11,9 +11,11 @@ import org.springframework.stereotype.Service;
 import org.springframework.util.FileCopyUtils;
 import org.springframework.web.client.RestTemplate;
 
+import java.io.File;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.Optional;
 
 @Service
 @RequiredArgsConstructor
@@ -37,10 +39,10 @@ class ManuformService {
     void generate(Manuform manuform, String filename, OpenscadService.Camera... cameras) {
 
         // create directory
-        Path dir = Paths.get(filename).getParent();
-        if (!dir.toFile().exists()) {
-            dir.toFile().mkdirs();
-        }
+        Optional<File> dir = Optional.ofNullable(Paths.get(filename).getParent()).map(Path::toFile);
+        dir.ifPresent(d -> {
+            if (d.exists()) d.mkdirs();
+        });
 
         // json
         String json = objectMapper.writeValueAsString(manuform);
