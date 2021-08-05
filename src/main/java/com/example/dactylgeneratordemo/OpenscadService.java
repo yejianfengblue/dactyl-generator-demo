@@ -36,7 +36,7 @@ public class OpenscadService {
             }
             commands.add("--camera");
             commands.add(camera.getArg());
-            if (Camera.DIAGONAL == camera) {
+            if (Camera.DIAGONAL == camera || Camera.TOP == camera) {
                 commands.add("--view");
                 commands.add("axes");
             }
