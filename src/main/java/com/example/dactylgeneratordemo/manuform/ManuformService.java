@@ -34,7 +34,7 @@ class ManuformService {
      * @param cameras
      */
     @SneakyThrows
-    void generateScad(Manuform manuform, String filename, OpenscadService.Camera... cameras) {
+    void generate(Manuform manuform, String filename, OpenscadService.Camera... cameras) {
 
         // create directory
         Path dir = Paths.get(filename).getParent();
