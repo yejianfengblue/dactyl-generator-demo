@@ -1,0 +1,49 @@
+{
+  "keys" : {
+    "columns" : 6,
+    "rows" : 4,
+    "thumb-count" : "three-mini",
+    "last-row" : "full",
+    "inner-column" : "normie",
+    "hide-last-pinky" : false,
+    "switch-type" : "box"
+  },
+  "curve" : {
+    "tenting" : 15,
+    "alpha" : 12,
+    "pinky-alpha" : 12,
+    "beta" : 36,
+    "centercol" : 4,
+    "rotate-x" : 180
+  },
+  "connector" : {
+    "external" : false,
+    "type" : "rj9",
+    "micro-usb" : false
+  },
+  "form" : {
+    "hotswap" : false,
+    "stagger" : true,
+    "stagger-ring-y" : 0.0,
+    "stagger-ring-z" : 0.0,
+    "stagger-pinky-y" : -13.0,
+    "stagger-pinky-z" : 6.0,
+    "wide-pinky" : false,
+    "height-offset" : 20,
+    "web-thickness" : 7.0,
+    "wall-thickness" : 3.0,
+    "wire-post" : false,
+    "screw-inserts" : false,
+    "thumb-cluster-offset-x" : 6.0,
+    "thumb-cluster-offset-y" : -3.0,
+    "thumb-cluster-offset-z" : 7.0,
+    "stagger-index-y" : 0.0,
+    "stagger-index-z" : 0.0,
+    "stagger-middle-y" : 2.8,
+    "stagger-middle-z" : -6.5
+  },
+  "misc" : {
+    "keycaps" : false,
+    "right-side" : true
+  }
+}

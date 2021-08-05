@@ -119,7 +119,7 @@
 * Keys 键
 
 ** Thumb key count 拇指区键的数目
-   依次是2, 3, 4, 5, 6
+   依次是2, 3, 3-mini, 4, 5, 6
    [[file:manuform/manuform-4x6+x-DIAGONAL-cmp.png]]
 
 ** Last row key counts 最底一行键的数目

@@ -56,6 +56,8 @@ public class DactylManuformGeneratorDemoTest {
         manuformService.generateScad(manuform, "manuform-4x6+2", camera);
         manuform.getKeys().setThumbCount(ThumbCount.THREE);
         manuformService.generateScad(manuform, "manuform-4x6+3", camera);
+        manuform.getKeys().setThumbCount(ThumbCount.THREE_MINI);
+        manuformService.generateScad(manuform, "manuform-4x6+3mini", camera);
         manuform.getKeys().setThumbCount(ThumbCount.FOUR);
         manuformService.generateScad(manuform, "manuform-4x6+4", camera);
         manuform.getKeys().setThumbCount(ThumbCount.FIVE);

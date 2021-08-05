@@ -1,13 +1,16 @@
-import subprocess, os, re
+import subprocess, os, re, glob
 
 print("merge manuform images for comparison")
 
 # thumb key count
+thumb_key_count_list = glob.glob('manuform/manuform-4x6+[2-6]-DIAGONAL.png')
+thumb_key_count_list.sort()
+thumb_key_count_list.insert(2, 'manuform/manuform-4x6+3mini-DIAGONAL.png')
 subprocess.run([
     "montage",
     "-geometry",
     "+0",
-    "manuform/manuform-4x6+[2-6]-DIAGONAL.png",
+    *thumb_key_count_list,
     "manuform/manuform-4x6+x-DIAGONAL-cmp.png"])
 
 # center of the curvature for the column
