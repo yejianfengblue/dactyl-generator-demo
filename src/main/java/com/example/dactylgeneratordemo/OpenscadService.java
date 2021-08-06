@@ -48,6 +48,14 @@ public class OpenscadService {
         }
     }
 
+    public void convertScadToStl(String scad) throws IOException, InterruptedException, TimeoutException {
+
+        String stl = scad.replace(".scad", ".stl");
+        log.info("{} -> {}", scad, stl);
+
+        new ProcessExecutor().command(List.of("openscad", scad, "-o", stl)).execute();
+    }
+
     public enum Camera {
 
         DIAGONAL("0,0,0,55,0,25,500"),
