@@ -54,7 +54,7 @@ class ManuformService {
         // create directory
         Optional<File> dir = Optional.ofNullable(Paths.get(filename).getParent()).map(Path::toFile);
         dir.ifPresent(d -> {
-            if (d.exists()) d.mkdirs();
+            if (!d.exists()) d.mkdirs();
         });
 
         // json
