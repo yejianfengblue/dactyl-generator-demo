@@ -10,7 +10,7 @@ import org.springframework.boot.test.context.SpringBootTest;
         "manuform.url=https://dactyl.siskam.link/api/manuform",
         "manuform.generate-png=true"
 })
-public class DactylManuformGeneratorDemoTest {
+public class ManuformDemo {
 
     final String MANUFORM_BASE_FILENAME = "manuform/manuform-4x6+6";
 
