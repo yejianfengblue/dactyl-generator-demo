@@ -119,6 +119,7 @@ Currently only dactyl manuform is demonstrated.
 [[file:manuform/manuform-4x6+6-DIAGONAL.png]]
 [[file:manuform/manuform-4x6+6-TOP.png]]
 [[file:manuform/manuform-4x6+6-BACK_TOP.png]]
+[[file:manuform/manuform-4x6+6-RIGHT.png]] 
 [[file:manuform/manuform-4x6+6-BOTTOM.png]]
 [[file:manuform/manuform-4x6+6-BOTTOM_DIST_200.png]]
 
@@ -192,12 +193,14 @@ Currently only dactyl manuform is demonstrated.
 
    The curvature pi/6 of (index, middle, ring) finger's column, that is, column 1, 2, 3 and 4 is steeper
    [[file:manuform/manuform-4x6+6-(curve.column-curvature=pi_6)-DIAGONAL-cmp.png]]
+   [[file:manuform/manuform-4x6+6-(curve.column-curvature=pi_6)-RIGHT-cmp.png]] 
 
 ** Pinky's column curvature
    pi/6 vs pi/12
 
    The curvature of pinky finger column, that is, column 5 and 6 is steeper
    [[file:manuform/manuform-4x6+6-(curve.pinky-column-curvature=pi_6)-DIAGONAL-cmp.png]]
+   [[file:manuform/manuform-4x6+6-(curve.pinky-column-curvature=pi_6)-RIGHT-cmp.png]] 
 
 ** Row's curvature
    pi/18 vs pi/36

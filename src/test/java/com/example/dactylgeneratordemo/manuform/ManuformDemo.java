@@ -47,6 +47,7 @@ public class ManuformDemo {
         Manuform manuform = getBaseManuform();
         manuformService.generate(manuform, MANUFORM_BASE_FILENAME,
                                  Camera.DIAGONAL, Camera.TOP, Camera.BACK_TOP,
+                                 Camera.RIGHT,
                                  Camera.BOTTOM, Camera.BOTTOM_DIST_200);
     }
 
@@ -118,19 +119,19 @@ public class ManuformDemo {
     @Test
     void columnCurvature() {
 
-        Camera camera = Camera.DIAGONAL;
         Manuform manuform = getBaseManuform();
         manuform.getCurve().setColumnCurvature(6);
-        manuformService.generate(manuform, MANUFORM_BASE_FILENAME + "-(curve.column-curvature=pi_6)", camera);
+        manuformService.generate(manuform, MANUFORM_BASE_FILENAME + "-(curve.column-curvature=pi_6)",
+                                 Camera.DIAGONAL, Camera.RIGHT);
     }
 
     @Test
     void pinkyColumnCurvature() {
 
-        Camera camera = Camera.DIAGONAL;
         Manuform manuform = getBaseManuform();
         manuform.getCurve().setPinkyColumnCurvature(6);
-        manuformService.generate(manuform, MANUFORM_BASE_FILENAME + "-(curve.pinky-column-curvature=pi_6)", camera);
+        manuformService.generate(manuform, MANUFORM_BASE_FILENAME + "-(curve.pinky-column-curvature=pi_6)",
+                                 Camera.DIAGONAL, Camera.RIGHT);
     }
 
     @Test
