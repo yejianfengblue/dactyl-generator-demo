@@ -346,8 +346,8 @@
 ** Middle finger measurement z 中指列z位移
    数值越大，中指列（第3列）越高
 
-   0 对比 -6.5
-   [[file:manuform/manuform-4x6+6-(form.stagger-middle-z=0)-DIAGONAL-cmp.png]]
+   10 对比 -6.5
+   [[file:manuform/manuform-4x6+6-(form.stagger-middle-z=10)-BACK_TOP-cmp.png]]
 
 ** Ring finger measurement y 无名指列y位移
    数值越大，无名指列（第4列）越远离手，往y轴正方向
@@ -359,7 +359,7 @@
    数值越大，无名指列（第4列）越高
 
    15 对比 0
-   [[file:manuform/manuform-4x6+6-(form.stagger-ring-z=15)-DIAGONAL-cmp.png]]
+   [[file:manuform/manuform-4x6+6-(form.stagger-ring-z=15)-BACK_TOP-cmp.png]]
 
 ** Pinky finger measurement y 小拇指列y位移
    数值越大，小拇指列（第5和第6列）越远离手，往y轴正方向
@@ -370,8 +370,8 @@
 ** Pinky finger measurement z 小拇指列z位移
    数值越大，小拇指列（第5和第6列）越高
 
-   0 对比 6
-   [[file:manuform/manuform-4x6+6-(form.stagger-pinky-z=0)-DIAGONAL-cmp.png]]
+   26 对比 6
+   [[file:manuform/manuform-4x6+6-(form.stagger-pinky-z=26)-BACK_TOP-cmp.png]]
 
 ** Wide pinky 小拇指最外列使用1.5u键帽
    小拇指最外列使用1.5u键帽

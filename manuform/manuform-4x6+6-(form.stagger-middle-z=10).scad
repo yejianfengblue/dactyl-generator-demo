@@ -280,7 +280,7 @@ difference () {
       translate ([0, 0, 20]) {
         rotate (a=1.0, v=[1, 0, 0]) {
           rotate (a=12.0, v=[0, 1, 0]) {
-            translate ([0, 2.8, -6.5]) {
+            translate ([0, 2.8, 10.0]) {
               translate ([0, 0, 246.95585626053347]) {
                 rotate (a=10.0, v=[0, 1, 0]) {
                   translate ([0, 0, -246.95585626053347]) {
@@ -326,7 +326,7 @@ difference () {
       translate ([0, 0, 20]) {
         rotate (a=1.0, v=[1, 0, 0]) {
           rotate (a=12.0, v=[0, 1, 0]) {
-            translate ([0, 2.8, -6.5]) {
+            translate ([0, 2.8, 10.0]) {
               translate ([0, 0, 246.95585626053347]) {
                 rotate (a=10.0, v=[0, 1, 0]) {
                   translate ([0, 0, -246.95585626053347]) {
@@ -372,7 +372,7 @@ difference () {
       translate ([0, 0, 20]) {
         rotate (a=1.0, v=[1, 0, 0]) {
           rotate (a=12.0, v=[0, 1, 0]) {
-            translate ([0, 2.8, -6.5]) {
+            translate ([0, 2.8, 10.0]) {
               translate ([0, 0, 246.95585626053347]) {
                 rotate (a=10.0, v=[0, 1, 0]) {
                   translate ([0, 0, -246.95585626053347]) {
@@ -418,7 +418,7 @@ difference () {
       translate ([0, 0, 20]) {
         rotate (a=1.0, v=[1, 0, 0]) {
           rotate (a=12.0, v=[0, 1, 0]) {
-            translate ([0, 2.8, -6.5]) {
+            translate ([0, 2.8, 10.0]) {
               translate ([0, 0, 246.95585626053347]) {
                 rotate (a=10.0, v=[0, 1, 0]) {
                   translate ([0, 0, -246.95585626053347]) {
@@ -648,7 +648,7 @@ difference () {
       translate ([0, 0, 20]) {
         rotate (a=1.0, v=[1, 0, 0]) {
           rotate (a=12.0, v=[0, 1, 0]) {
-            translate ([0, -13.0, 0.0]) {
+            translate ([0, -13.0, 6.0]) {
               translate ([0, 0, 246.95585626053347]) {
                 rotate (a=0.0, v=[0, 1, 0]) {
                   translate ([0, 0, -246.95585626053347]) {
@@ -694,7 +694,7 @@ difference () {
       translate ([0, 0, 20]) {
         rotate (a=1.0, v=[1, 0, 0]) {
           rotate (a=12.0, v=[0, 1, 0]) {
-            translate ([0, -13.0, 0.0]) {
+            translate ([0, -13.0, 6.0]) {
               translate ([0, 0, 246.95585626053347]) {
                 rotate (a=0.0, v=[0, 1, 0]) {
                   translate ([0, 0, -246.95585626053347]) {
@@ -740,7 +740,7 @@ difference () {
       translate ([0, 0, 20]) {
         rotate (a=1.0, v=[1, 0, 0]) {
           rotate (a=12.0, v=[0, 1, 0]) {
-            translate ([0, -13.0, 0.0]) {
+            translate ([0, -13.0, 6.0]) {
               translate ([0, 0, 246.95585626053347]) {
                 rotate (a=0.0, v=[0, 1, 0]) {
                   translate ([0, 0, -246.95585626053347]) {
@@ -786,7 +786,7 @@ difference () {
       translate ([0, 0, 20]) {
         rotate (a=1.0, v=[1, 0, 0]) {
           rotate (a=12.0, v=[0, 1, 0]) {
-            translate ([0, -13.0, 0.0]) {
+            translate ([0, -13.0, 6.0]) {
               translate ([0, 0, 246.95585626053347]) {
                 rotate (a=0.0, v=[0, 1, 0]) {
                   translate ([0, 0, -246.95585626053347]) {
@@ -832,7 +832,7 @@ difference () {
       translate ([0, 0, 20]) {
         rotate (a=1.0, v=[1, 0, 0]) {
           rotate (a=12.0, v=[0, 1, 0]) {
-            translate ([0, -13.0, 0.0]) {
+            translate ([0, -13.0, 6.0]) {
               translate ([0, 0, 246.95585626053347]) {
                 rotate (a=-5.0, v=[0, 1, 0]) {
                   translate ([0, 0, -246.95585626053347]) {
@@ -878,7 +878,7 @@ difference () {
       translate ([0, 0, 20]) {
         rotate (a=1.0, v=[1, 0, 0]) {
           rotate (a=12.0, v=[0, 1, 0]) {
-            translate ([0, -13.0, 0.0]) {
+            translate ([0, -13.0, 6.0]) {
               translate ([0, 0, 246.95585626053347]) {
                 rotate (a=-5.0, v=[0, 1, 0]) {
                   translate ([0, 0, -246.95585626053347]) {
@@ -924,7 +924,7 @@ difference () {
       translate ([0, 0, 20]) {
         rotate (a=1.0, v=[1, 0, 0]) {
           rotate (a=12.0, v=[0, 1, 0]) {
-            translate ([0, -13.0, 0.0]) {
+            translate ([0, -13.0, 6.0]) {
               translate ([0, 0, 246.95585626053347]) {
                 rotate (a=-5.0, v=[0, 1, 0]) {
                   translate ([0, 0, -246.95585626053347]) {
@@ -970,7 +970,7 @@ difference () {
       translate ([0, 0, 20]) {
         rotate (a=1.0, v=[1, 0, 0]) {
           rotate (a=12.0, v=[0, 1, 0]) {
-            translate ([0, -13.0, 0.0]) {
+            translate ([0, -13.0, 6.0]) {
               translate ([0, 0, 246.95585626053347]) {
                 rotate (a=-5.0, v=[0, 1, 0]) {
                   translate ([0, 0, -246.95585626053347]) {
@@ -1741,7 +1741,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -1791,7 +1791,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -1843,7 +1843,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -1897,7 +1897,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -1947,7 +1947,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -1999,7 +1999,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -2053,7 +2053,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -2103,7 +2103,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -2155,7 +2155,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -2234,7 +2234,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -2286,7 +2286,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -2336,7 +2336,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -2390,7 +2390,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -2442,7 +2442,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -2492,7 +2492,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -2546,7 +2546,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -2598,7 +2598,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -2648,7 +2648,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -2702,7 +2702,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -2754,7 +2754,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -2804,7 +2804,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -2833,7 +2833,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -2883,7 +2883,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -2935,7 +2935,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -2989,7 +2989,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -3039,7 +3039,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -3091,7 +3091,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -3145,7 +3145,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -3195,7 +3195,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -3247,7 +3247,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -3301,7 +3301,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -3351,7 +3351,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -3403,7 +3403,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -3457,7 +3457,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -3482,7 +3482,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -3507,7 +3507,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -3534,7 +3534,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -3559,7 +3559,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -3584,7 +3584,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -3613,7 +3613,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -3638,7 +3638,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -3663,7 +3663,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -3690,7 +3690,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -3715,7 +3715,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -3740,7 +3740,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -3769,7 +3769,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -3794,7 +3794,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -3819,7 +3819,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -3846,7 +3846,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -3871,7 +3871,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -3896,7 +3896,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -3925,7 +3925,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -3950,7 +3950,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -3975,7 +3975,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -4002,7 +4002,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -4027,7 +4027,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -4052,7 +4052,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -4705,7 +4705,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -4730,7 +4730,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -4755,7 +4755,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -4782,7 +4782,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -4807,7 +4807,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -4832,7 +4832,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -4861,7 +4861,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -4886,7 +4886,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -4911,7 +4911,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -4938,7 +4938,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -4963,7 +4963,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -4988,7 +4988,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -5017,7 +5017,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -5042,7 +5042,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -5067,7 +5067,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -5094,7 +5094,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -5119,7 +5119,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -5144,7 +5144,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -5507,58 +5507,6 @@ difference () {
                 }
               }
             }
-            translate ([0, 0, 20]) {
-              rotate (a=1.0, v=[1, 0, 0]) {
-                rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 0.0, 0.0]) {
-                    translate ([0, 0, 246.95585626053347]) {
-                      rotate (a=5.0, v=[0, 1, 0]) {
-                        translate ([0, 0, -246.95585626053347]) {
-                          translate ([0, 0, 88.56700257374861]) {
-                            rotate (a=-14.999999999999998, v=[1, 0, 0]) {
-                              translate ([0, 0, -88.56700257374861]) {
-                                translate ([-8.7, -8.7, 0]) {
-                                  translate ([0, 0, 1.5]) {
-                                    cube ([0.1, 0.1, 7.0], center=true);
-                                  }
-                                }
-                              }
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-            translate ([0, 0, 20]) {
-              rotate (a=1.0, v=[1, 0, 0]) {
-                rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 0.0, 0.0]) {
-                    translate ([0, 0, 246.95585626053347]) {
-                      rotate (a=5.0, v=[0, 1, 0]) {
-                        translate ([0, 0, -246.95585626053347]) {
-                          translate ([0, 0, 88.56700257374861]) {
-                            rotate (a=-29.999999999999996, v=[1, 0, 0]) {
-                              translate ([0, 0, -88.56700257374861]) {
-                                translate ([8.7, 8.7, 0]) {
-                                  translate ([0, 0, 1.5]) {
-                                    cube ([0.1, 0.1, 7.0], center=true);
-                                  }
-                                }
-                              }
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-          hull () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
@@ -5609,6 +5557,58 @@ difference () {
                 }
               }
             }
+          }
+          hull () {
+            translate ([0, 0, 20]) {
+              rotate (a=1.0, v=[1, 0, 0]) {
+                rotate (a=12.0, v=[0, 1, 0]) {
+                  translate ([0, 0.0, 0.0]) {
+                    translate ([0, 0, 246.95585626053347]) {
+                      rotate (a=5.0, v=[0, 1, 0]) {
+                        translate ([0, 0, -246.95585626053347]) {
+                          translate ([0, 0, 88.56700257374861]) {
+                            rotate (a=-14.999999999999998, v=[1, 0, 0]) {
+                              translate ([0, 0, -88.56700257374861]) {
+                                translate ([-8.7, -8.7, 0]) {
+                                  translate ([0, 0, 1.5]) {
+                                    cube ([0.1, 0.1, 7.0], center=true);
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+            translate ([0, 0, 20]) {
+              rotate (a=1.0, v=[1, 0, 0]) {
+                rotate (a=12.0, v=[0, 1, 0]) {
+                  translate ([0, 0.0, 0.0]) {
+                    translate ([0, 0, 246.95585626053347]) {
+                      rotate (a=5.0, v=[0, 1, 0]) {
+                        translate ([0, 0, -246.95585626053347]) {
+                          translate ([0, 0, 88.56700257374861]) {
+                            rotate (a=-29.999999999999996, v=[1, 0, 0]) {
+                              translate ([0, 0, -88.56700257374861]) {
+                                translate ([8.7, 8.7, 0]) {
+                                  translate ([0, 0, 1.5]) {
+                                    cube ([0.1, 0.1, 7.0], center=true);
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
@@ -5641,7 +5641,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -5666,7 +5666,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -5691,7 +5691,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -5718,7 +5718,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -5743,7 +5743,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -5768,7 +5768,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -5797,7 +5797,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -5822,7 +5822,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -5847,7 +5847,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -5874,7 +5874,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -5899,7 +5899,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -5924,7 +5924,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -5953,7 +5953,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -5978,7 +5978,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -6003,7 +6003,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -6030,7 +6030,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -6055,7 +6055,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -6080,7 +6080,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -6109,7 +6109,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -6134,7 +6134,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -6159,7 +6159,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -6186,7 +6186,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -6211,7 +6211,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -6236,7 +6236,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -6265,7 +6265,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -6290,7 +6290,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -6315,7 +6315,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -6342,7 +6342,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -6367,7 +6367,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -6392,7 +6392,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -6421,7 +6421,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -6446,7 +6446,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -6471,7 +6471,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -6498,7 +6498,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -6523,7 +6523,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -6548,7 +6548,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -6939,7 +6939,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -6991,7 +6991,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -7016,7 +7016,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -7095,7 +7095,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -7147,7 +7147,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -7172,7 +7172,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -7201,7 +7201,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -7226,59 +7226,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
-                    translate ([0, 0, 246.95585626053347]) {
-                      rotate (a=10.0, v=[0, 1, 0]) {
-                        translate ([0, 0, -246.95585626053347]) {
-                          translate ([0, 0, 88.56700257374861]) {
-                            rotate (a=0.0, v=[1, 0, 0]) {
-                              translate ([0, 0, -88.56700257374861]) {
-                                translate ([8.7, 8.7, 0]) {
-                                  translate ([0, 0, 1.5]) {
-                                    cube ([0.1, 0.1, 7.0], center=true);
-                                  }
-                                }
-                              }
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-            translate ([0, 0, 20]) {
-              rotate (a=1.0, v=[1, 0, 0]) {
-                rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 0.0, 0.0]) {
-                    translate ([0, 0, 246.95585626053347]) {
-                      rotate (a=5.0, v=[0, 1, 0]) {
-                        translate ([0, 0, -246.95585626053347]) {
-                          translate ([0, 0, 88.56700257374861]) {
-                            rotate (a=14.999999999999998, v=[1, 0, 0]) {
-                              translate ([0, 0, -88.56700257374861]) {
-                                translate ([-8.7, -8.7, 0]) {
-                                  translate ([0, 0, 1.5]) {
-                                    cube ([0.1, 0.1, 7.0], center=true);
-                                  }
-                                }
-                              }
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-          hull () {
-            translate ([0, 0, 20]) {
-              rotate (a=1.0, v=[1, 0, 0]) {
-                rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -7325,6 +7273,58 @@ difference () {
                 }
               }
             }
+          }
+          hull () {
+            translate ([0, 0, 20]) {
+              rotate (a=1.0, v=[1, 0, 0]) {
+                rotate (a=12.0, v=[0, 1, 0]) {
+                  translate ([0, 2.8, 10.0]) {
+                    translate ([0, 0, 246.95585626053347]) {
+                      rotate (a=10.0, v=[0, 1, 0]) {
+                        translate ([0, 0, -246.95585626053347]) {
+                          translate ([0, 0, 88.56700257374861]) {
+                            rotate (a=0.0, v=[1, 0, 0]) {
+                              translate ([0, 0, -88.56700257374861]) {
+                                translate ([8.7, 8.7, 0]) {
+                                  translate ([0, 0, 1.5]) {
+                                    cube ([0.1, 0.1, 7.0], center=true);
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+            translate ([0, 0, 20]) {
+              rotate (a=1.0, v=[1, 0, 0]) {
+                rotate (a=12.0, v=[0, 1, 0]) {
+                  translate ([0, 0.0, 0.0]) {
+                    translate ([0, 0, 246.95585626053347]) {
+                      rotate (a=5.0, v=[0, 1, 0]) {
+                        translate ([0, 0, -246.95585626053347]) {
+                          translate ([0, 0, 88.56700257374861]) {
+                            rotate (a=14.999999999999998, v=[1, 0, 0]) {
+                              translate ([0, 0, -88.56700257374861]) {
+                                translate ([-8.7, -8.7, 0]) {
+                                  translate ([0, 0, 1.5]) {
+                                    cube ([0.1, 0.1, 7.0], center=true);
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
@@ -7357,7 +7357,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -7382,7 +7382,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -7434,7 +7434,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -7513,7 +7513,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -7538,7 +7538,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -7590,7 +7590,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, 2.8, -6.5]) {
+                  translate ([0, 2.8, 10.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=10.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -7719,7 +7719,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -7771,7 +7771,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -7796,7 +7796,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -7875,7 +7875,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -7927,7 +7927,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -7952,7 +7952,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -8031,7 +8031,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -8083,7 +8083,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -8108,7 +8108,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -8137,7 +8137,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -8162,7 +8162,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -8187,7 +8187,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -8214,7 +8214,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -8239,7 +8239,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -8264,7 +8264,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -8293,7 +8293,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -8318,7 +8318,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -8343,7 +8343,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -8370,7 +8370,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -8395,7 +8395,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -8420,7 +8420,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -8449,7 +8449,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -8474,7 +8474,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -8499,7 +8499,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -8526,7 +8526,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=0.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -8551,7 +8551,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -8576,7 +8576,7 @@ difference () {
             translate ([0, 0, 20]) {
               rotate (a=1.0, v=[1, 0, 0]) {
                 rotate (a=12.0, v=[0, 1, 0]) {
-                  translate ([0, -13.0, 0.0]) {
+                  translate ([0, -13.0, 6.0]) {
                     translate ([0, 0, 246.95585626053347]) {
                       rotate (a=-5.0, v=[0, 1, 0]) {
                         translate ([0, 0, -246.95585626053347]) {
@@ -10076,7 +10076,7 @@ difference () {
           translate ([0, 0, 20]) {
             rotate (a=1.0, v=[1, 0, 0]) {
               rotate (a=12.0, v=[0, 1, 0]) {
-                translate ([0, 2.8, -6.5]) {
+                translate ([0, 2.8, 10.0]) {
                   translate ([0, 0, 246.95585626053347]) {
                     rotate (a=10.0, v=[0, 1, 0]) {
                       translate ([0, 0, -246.95585626053347]) {
@@ -10118,7 +10118,7 @@ difference () {
           translate ([0, 0, 20]) {
             rotate (a=1.0, v=[1, 0, 0]) {
               rotate (a=12.0, v=[0, 1, 0]) {
-                translate ([0, 2.8, -6.5]) {
+                translate ([0, 2.8, 10.0]) {
                   translate ([0, 0, 246.95585626053347]) {
                     rotate (a=10.0, v=[0, 1, 0]) {
                       translate ([0, 0, -246.95585626053347]) {
@@ -10143,7 +10143,7 @@ difference () {
           translate ([0, 0, 20]) {
             rotate (a=1.0, v=[1, 0, 0]) {
               rotate (a=12.0, v=[0, 1, 0]) {
-                translate ([0, 2.8, -6.5]) {
+                translate ([0, 2.8, 10.0]) {
                   translate ([0, 0, 246.95585626053347]) {
                     rotate (a=10.0, v=[0, 1, 0]) {
                       translate ([0, 0, -246.95585626053347]) {
@@ -10170,7 +10170,7 @@ difference () {
           translate ([0, 0, 20]) {
             rotate (a=1.0, v=[1, 0, 0]) {
               rotate (a=12.0, v=[0, 1, 0]) {
-                translate ([0, 2.8, -6.5]) {
+                translate ([0, 2.8, 10.0]) {
                   translate ([0, 0, 246.95585626053347]) {
                     rotate (a=10.0, v=[0, 1, 0]) {
                       translate ([0, 0, -246.95585626053347]) {
@@ -10195,7 +10195,7 @@ difference () {
           translate ([0, 0, 20]) {
             rotate (a=1.0, v=[1, 0, 0]) {
               rotate (a=12.0, v=[0, 1, 0]) {
-                translate ([0, 2.8, -6.5]) {
+                translate ([0, 2.8, 10.0]) {
                   translate ([0, 0, 246.95585626053347]) {
                     rotate (a=10.0, v=[0, 1, 0]) {
                       translate ([0, 0, -246.95585626053347]) {
@@ -10220,7 +10220,7 @@ difference () {
           translate ([0, 0, 20]) {
             rotate (a=1.0, v=[1, 0, 0]) {
               rotate (a=12.0, v=[0, 1, 0]) {
-                translate ([0, 2.8, -6.5]) {
+                translate ([0, 2.8, 10.0]) {
                   translate ([0, 0, 246.95585626053347]) {
                     rotate (a=10.0, v=[0, 1, 0]) {
                       translate ([0, 0, -246.95585626053347]) {
@@ -10247,7 +10247,7 @@ difference () {
           translate ([0, 0, 20]) {
             rotate (a=1.0, v=[1, 0, 0]) {
               rotate (a=12.0, v=[0, 1, 0]) {
-                translate ([0, 2.8, -6.5]) {
+                translate ([0, 2.8, 10.0]) {
                   translate ([0, 0, 246.95585626053347]) {
                     rotate (a=10.0, v=[0, 1, 0]) {
                       translate ([0, 0, -246.95585626053347]) {
@@ -10272,7 +10272,7 @@ difference () {
           translate ([0, 0, 20]) {
             rotate (a=1.0, v=[1, 0, 0]) {
               rotate (a=12.0, v=[0, 1, 0]) {
-                translate ([0, 2.8, -6.5]) {
+                translate ([0, 2.8, 10.0]) {
                   translate ([0, 0, 246.95585626053347]) {
                     rotate (a=10.0, v=[0, 1, 0]) {
                       translate ([0, 0, -246.95585626053347]) {
@@ -10297,7 +10297,7 @@ difference () {
           translate ([0, 0, 20]) {
             rotate (a=1.0, v=[1, 0, 0]) {
               rotate (a=12.0, v=[0, 1, 0]) {
-                translate ([0, 2.8, -6.5]) {
+                translate ([0, 2.8, 10.0]) {
                   translate ([0, 0, 246.95585626053347]) {
                     rotate (a=10.0, v=[0, 1, 0]) {
                       translate ([0, 0, -246.95585626053347]) {
@@ -10324,7 +10324,7 @@ difference () {
           translate ([0, 0, 20]) {
             rotate (a=1.0, v=[1, 0, 0]) {
               rotate (a=12.0, v=[0, 1, 0]) {
-                translate ([0, 2.8, -6.5]) {
+                translate ([0, 2.8, 10.0]) {
                   translate ([0, 0, 246.95585626053347]) {
                     rotate (a=10.0, v=[0, 1, 0]) {
                       translate ([0, 0, -246.95585626053347]) {
@@ -10349,7 +10349,7 @@ difference () {
           translate ([0, 0, 20]) {
             rotate (a=1.0, v=[1, 0, 0]) {
               rotate (a=12.0, v=[0, 1, 0]) {
-                translate ([0, 2.8, -6.5]) {
+                translate ([0, 2.8, 10.0]) {
                   translate ([0, 0, 246.95585626053347]) {
                     rotate (a=10.0, v=[0, 1, 0]) {
                       translate ([0, 0, -246.95585626053347]) {
@@ -10391,7 +10391,7 @@ difference () {
           translate ([0, 0, 20]) {
             rotate (a=1.0, v=[1, 0, 0]) {
               rotate (a=12.0, v=[0, 1, 0]) {
-                translate ([0, 2.8, -6.5]) {
+                translate ([0, 2.8, 10.0]) {
                   translate ([0, 0, 246.95585626053347]) {
                     rotate (a=10.0, v=[0, 1, 0]) {
                       translate ([0, 0, -246.95585626053347]) {
@@ -10485,7 +10485,7 @@ difference () {
           translate ([0, 0, 20]) {
             rotate (a=1.0, v=[1, 0, 0]) {
               rotate (a=12.0, v=[0, 1, 0]) {
-                translate ([0, 2.8, -6.5]) {
+                translate ([0, 2.8, 10.0]) {
                   translate ([0, 0, 246.95585626053347]) {
                     rotate (a=10.0, v=[0, 1, 0]) {
                       translate ([0, 0, -246.95585626053347]) {
@@ -10510,7 +10510,7 @@ difference () {
           translate ([0, 0, 20]) {
             rotate (a=1.0, v=[1, 0, 0]) {
               rotate (a=12.0, v=[0, 1, 0]) {
-                translate ([0, 2.8, -6.5]) {
+                translate ([0, 2.8, 10.0]) {
                   translate ([0, 0, 246.95585626053347]) {
                     rotate (a=10.0, v=[0, 1, 0]) {
                       translate ([0, 0, -246.95585626053347]) {
@@ -10537,7 +10537,7 @@ difference () {
           translate ([0, 0, 20]) {
             rotate (a=1.0, v=[1, 0, 0]) {
               rotate (a=12.0, v=[0, 1, 0]) {
-                translate ([0, 2.8, -6.5]) {
+                translate ([0, 2.8, 10.0]) {
                   translate ([0, 0, 246.95585626053347]) {
                     rotate (a=10.0, v=[0, 1, 0]) {
                       translate ([0, 0, -246.95585626053347]) {
@@ -10562,7 +10562,7 @@ difference () {
           translate ([0, 0, 20]) {
             rotate (a=1.0, v=[1, 0, 0]) {
               rotate (a=12.0, v=[0, 1, 0]) {
-                translate ([0, 2.8, -6.5]) {
+                translate ([0, 2.8, 10.0]) {
                   translate ([0, 0, 246.95585626053347]) {
                     rotate (a=10.0, v=[0, 1, 0]) {
                       translate ([0, 0, -246.95585626053347]) {
@@ -10587,7 +10587,7 @@ difference () {
           translate ([0, 0, 20]) {
             rotate (a=1.0, v=[1, 0, 0]) {
               rotate (a=12.0, v=[0, 1, 0]) {
-                translate ([0, 2.8, -6.5]) {
+                translate ([0, 2.8, 10.0]) {
                   translate ([0, 0, 246.95585626053347]) {
                     rotate (a=10.0, v=[0, 1, 0]) {
                       translate ([0, 0, -246.95585626053347]) {
@@ -10614,7 +10614,7 @@ difference () {
           translate ([0, 0, 20]) {
             rotate (a=1.0, v=[1, 0, 0]) {
               rotate (a=12.0, v=[0, 1, 0]) {
-                translate ([0, 2.8, -6.5]) {
+                translate ([0, 2.8, 10.0]) {
                   translate ([0, 0, 246.95585626053347]) {
                     rotate (a=10.0, v=[0, 1, 0]) {
                       translate ([0, 0, -246.95585626053347]) {
@@ -10639,7 +10639,7 @@ difference () {
           translate ([0, 0, 20]) {
             rotate (a=1.0, v=[1, 0, 0]) {
               rotate (a=12.0, v=[0, 1, 0]) {
-                translate ([0, 2.8, -6.5]) {
+                translate ([0, 2.8, 10.0]) {
                   translate ([0, 0, 246.95585626053347]) {
                     rotate (a=10.0, v=[0, 1, 0]) {
                       translate ([0, 0, -246.95585626053347]) {
@@ -10664,7 +10664,7 @@ difference () {
           translate ([0, 0, 20]) {
             rotate (a=1.0, v=[1, 0, 0]) {
               rotate (a=12.0, v=[0, 1, 0]) {
-                translate ([0, 2.8, -6.5]) {
+                translate ([0, 2.8, 10.0]) {
                   translate ([0, 0, 246.95585626053347]) {
                     rotate (a=10.0, v=[0, 1, 0]) {
                       translate ([0, 0, -246.95585626053347]) {
@@ -10691,7 +10691,7 @@ difference () {
           translate ([0, 0, 20]) {
             rotate (a=1.0, v=[1, 0, 0]) {
               rotate (a=12.0, v=[0, 1, 0]) {
-                translate ([0, 2.8, -6.5]) {
+                translate ([0, 2.8, 10.0]) {
                   translate ([0, 0, 246.95585626053347]) {
                     rotate (a=10.0, v=[0, 1, 0]) {
                       translate ([0, 0, -246.95585626053347]) {
@@ -10716,7 +10716,7 @@ difference () {
           translate ([0, 0, 20]) {
             rotate (a=1.0, v=[1, 0, 0]) {
               rotate (a=12.0, v=[0, 1, 0]) {
-                translate ([0, 2.8, -6.5]) {
+                translate ([0, 2.8, 10.0]) {
                   translate ([0, 0, 246.95585626053347]) {
                     rotate (a=10.0, v=[0, 1, 0]) {
                       translate ([0, 0, -246.95585626053347]) {
@@ -11656,7 +11656,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, 2.8, -6.5]) {
+                        translate ([0, 2.8, 10.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=10.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -11681,7 +11681,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, 2.8, -6.5]) {
+                        translate ([0, 2.8, 10.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=10.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -11708,7 +11708,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, 2.8, -6.5]) {
+                        translate ([0, 2.8, 10.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=10.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -11735,7 +11735,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, 2.8, -6.5]) {
+                        translate ([0, 2.8, 10.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=10.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -11762,7 +11762,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, 2.8, -6.5]) {
+                        translate ([0, 2.8, 10.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=10.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -11787,7 +11787,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, 2.8, -6.5]) {
+                        translate ([0, 2.8, 10.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=10.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -11814,7 +11814,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, 2.8, -6.5]) {
+                        translate ([0, 2.8, 10.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=10.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -11841,7 +11841,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, 2.8, -6.5]) {
+                        translate ([0, 2.8, 10.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=10.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -11870,7 +11870,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, 2.8, -6.5]) {
+                        translate ([0, 2.8, 10.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=10.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -11897,7 +11897,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, 2.8, -6.5]) {
+                        translate ([0, 2.8, 10.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=10.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -11924,7 +11924,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, 2.8, -6.5]) {
+                        translate ([0, 2.8, 10.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=10.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -11951,7 +11951,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, 2.8, -6.5]) {
+                        translate ([0, 2.8, 10.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=10.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -11981,7 +11981,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, 2.8, -6.5]) {
+                              translate ([0, 2.8, 10.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=10.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -12008,7 +12008,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, 2.8, -6.5]) {
+                              translate ([0, 2.8, 10.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=10.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -12035,7 +12035,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, 2.8, -6.5]) {
+                              translate ([0, 2.8, 10.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=10.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -12062,7 +12062,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, 2.8, -6.5]) {
+                              translate ([0, 2.8, 10.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=10.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -12536,7 +12536,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -12561,7 +12561,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -12588,7 +12588,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -12615,7 +12615,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -12642,7 +12642,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -12667,7 +12667,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -12694,7 +12694,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -12721,7 +12721,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -12750,7 +12750,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -12777,7 +12777,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -12804,7 +12804,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -12831,7 +12831,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -12861,7 +12861,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=0.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -12888,7 +12888,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=0.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -12915,7 +12915,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=0.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -12942,7 +12942,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=0.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -12976,7 +12976,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -13001,7 +13001,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -13028,7 +13028,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -13055,7 +13055,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -13082,7 +13082,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -13107,7 +13107,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -13134,7 +13134,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -13161,7 +13161,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -13190,7 +13190,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -13217,7 +13217,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -13244,7 +13244,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -13271,7 +13271,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -13301,7 +13301,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -13328,7 +13328,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -13355,7 +13355,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -13382,7 +13382,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -13856,7 +13856,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, 2.8, -6.5]) {
+                        translate ([0, 2.8, 10.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=10.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -13881,7 +13881,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, 2.8, -6.5]) {
+                        translate ([0, 2.8, 10.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=10.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -13908,7 +13908,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, 2.8, -6.5]) {
+                        translate ([0, 2.8, 10.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=10.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -13935,7 +13935,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, 2.8, -6.5]) {
+                        translate ([0, 2.8, 10.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=10.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -14070,7 +14070,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, 2.8, -6.5]) {
+                        translate ([0, 2.8, 10.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=10.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -14097,7 +14097,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, 2.8, -6.5]) {
+                        translate ([0, 2.8, 10.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=10.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -14181,7 +14181,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, 2.8, -6.5]) {
+                              translate ([0, 2.8, 10.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=10.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -14208,7 +14208,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, 2.8, -6.5]) {
+                              translate ([0, 2.8, 10.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=10.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -14402,7 +14402,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, 2.8, -6.5]) {
+                        translate ([0, 2.8, 10.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=10.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -14427,7 +14427,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, 2.8, -6.5]) {
+                        translate ([0, 2.8, 10.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=10.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -14454,7 +14454,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, 2.8, -6.5]) {
+                        translate ([0, 2.8, 10.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=10.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -14481,7 +14481,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, 2.8, -6.5]) {
+                        translate ([0, 2.8, 10.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=10.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -14564,7 +14564,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, 2.8, -6.5]) {
+                        translate ([0, 2.8, 10.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=10.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -14591,7 +14591,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, 2.8, -6.5]) {
+                        translate ([0, 2.8, 10.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=10.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -14675,7 +14675,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, 2.8, -6.5]) {
+                              translate ([0, 2.8, 10.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=10.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -14702,7 +14702,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, 2.8, -6.5]) {
+                              translate ([0, 2.8, 10.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=10.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -14736,7 +14736,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -14761,7 +14761,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -14788,7 +14788,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -14815,7 +14815,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -14950,7 +14950,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -14977,7 +14977,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -15061,7 +15061,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=0.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -15088,7 +15088,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=0.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -15176,7 +15176,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -15201,7 +15201,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -15228,7 +15228,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -15255,7 +15255,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -15282,7 +15282,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -15307,7 +15307,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -15334,7 +15334,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -15361,7 +15361,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -15390,7 +15390,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -15417,7 +15417,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -15444,7 +15444,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -15471,7 +15471,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -15501,7 +15501,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -15528,7 +15528,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -15555,7 +15555,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=0.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -15582,7 +15582,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=0.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -15616,7 +15616,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -15641,7 +15641,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -15668,7 +15668,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -15695,7 +15695,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -15722,7 +15722,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -15747,7 +15747,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -15774,7 +15774,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -15801,7 +15801,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -15830,7 +15830,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -15857,7 +15857,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -15884,7 +15884,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -15911,7 +15911,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -15941,7 +15941,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -15968,7 +15968,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -15995,7 +15995,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -16022,7 +16022,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -16058,7 +16058,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -16083,7 +16083,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -16110,7 +16110,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -16137,7 +16137,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -16164,7 +16164,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -16189,7 +16189,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -16216,7 +16216,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -16243,7 +16243,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -16272,7 +16272,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -16299,7 +16299,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -16326,7 +16326,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -16353,7 +16353,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -16383,7 +16383,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -16410,7 +16410,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -16437,7 +16437,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -16464,7 +16464,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -16498,7 +16498,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -16523,7 +16523,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -16550,7 +16550,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -16577,7 +16577,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -16604,7 +16604,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -16629,7 +16629,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -16656,7 +16656,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -16683,7 +16683,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -16712,7 +16712,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -16739,7 +16739,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -16766,7 +16766,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -16793,7 +16793,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -16823,7 +16823,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -16850,7 +16850,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -16877,7 +16877,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -16904,7 +16904,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -16938,7 +16938,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -16963,7 +16963,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -16990,7 +16990,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -17017,7 +17017,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -17044,7 +17044,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -17069,7 +17069,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -17096,7 +17096,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -17123,7 +17123,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -17152,7 +17152,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -17179,7 +17179,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -17206,7 +17206,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -17233,7 +17233,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -17263,7 +17263,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -17290,7 +17290,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -17317,7 +17317,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -17344,7 +17344,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -17378,7 +17378,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -17403,7 +17403,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -17430,7 +17430,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -17457,7 +17457,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -17484,7 +17484,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -17509,7 +17509,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -17536,7 +17536,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -17563,7 +17563,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -17592,7 +17592,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -17619,7 +17619,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -17646,7 +17646,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -17673,7 +17673,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -17703,7 +17703,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -17730,7 +17730,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -17757,7 +17757,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -17784,7 +17784,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -17818,7 +17818,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -17843,7 +17843,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -17870,7 +17870,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -17897,7 +17897,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -17924,7 +17924,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -17949,7 +17949,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -17976,7 +17976,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -18003,7 +18003,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -18032,7 +18032,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -18059,7 +18059,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -18086,7 +18086,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -18113,7 +18113,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -18143,7 +18143,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -18170,7 +18170,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -18197,7 +18197,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -18224,7 +18224,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -18258,7 +18258,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -18283,7 +18283,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -18310,7 +18310,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -18337,7 +18337,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -18364,7 +18364,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -18389,7 +18389,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -18416,7 +18416,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -18443,7 +18443,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -18472,7 +18472,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -18499,7 +18499,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -18526,7 +18526,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -18553,7 +18553,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -18583,7 +18583,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -18610,7 +18610,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -18637,7 +18637,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -18664,7 +18664,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -18698,7 +18698,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -18723,7 +18723,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -18750,7 +18750,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -18777,7 +18777,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -18804,7 +18804,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -18829,7 +18829,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -18856,7 +18856,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -18883,7 +18883,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -18912,7 +18912,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -18939,7 +18939,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -18966,7 +18966,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -18993,7 +18993,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -19023,7 +19023,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -19050,7 +19050,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -19077,7 +19077,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -19104,7 +19104,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -19138,7 +19138,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -19163,7 +19163,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -19190,7 +19190,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -19217,7 +19217,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -19244,7 +19244,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -19269,7 +19269,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -19296,7 +19296,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -19323,7 +19323,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -19352,7 +19352,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -19379,7 +19379,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -19406,7 +19406,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -19433,7 +19433,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -19463,7 +19463,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -19490,7 +19490,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -19517,7 +19517,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -19544,7 +19544,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -19578,7 +19578,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -19603,7 +19603,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -19630,7 +19630,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -19657,7 +19657,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -19684,7 +19684,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -19709,7 +19709,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -19736,7 +19736,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -19763,7 +19763,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -19792,7 +19792,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -19819,7 +19819,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -19846,7 +19846,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -19873,7 +19873,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -19903,7 +19903,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -19930,7 +19930,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -19957,7 +19957,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -19984,7 +19984,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -22248,7 +22248,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -22273,7 +22273,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -22300,7 +22300,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -22327,7 +22327,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -22410,7 +22410,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -22437,7 +22437,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -22521,7 +22521,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=0.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -22548,7 +22548,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=0.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -22582,7 +22582,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -22607,7 +22607,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -22634,7 +22634,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -22661,7 +22661,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -22688,7 +22688,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -22713,7 +22713,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -22740,7 +22740,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -22767,7 +22767,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -22796,7 +22796,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -22823,7 +22823,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -22850,7 +22850,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -22877,7 +22877,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -22907,7 +22907,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=0.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -22934,7 +22934,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=0.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -22961,7 +22961,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=0.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -22988,7 +22988,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=0.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -23022,7 +23022,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -23047,7 +23047,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -23074,7 +23074,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -23101,7 +23101,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -23128,7 +23128,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -23153,7 +23153,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -23180,7 +23180,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -23207,7 +23207,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -23236,7 +23236,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -23263,7 +23263,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -23290,7 +23290,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -23317,7 +23317,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -23347,7 +23347,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -23374,7 +23374,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -23401,7 +23401,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -23428,7 +23428,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -23462,7 +23462,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -23487,7 +23487,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -23514,7 +23514,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -23541,7 +23541,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -23568,7 +23568,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -23593,7 +23593,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -23620,7 +23620,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -23647,7 +23647,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -23676,7 +23676,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -23703,7 +23703,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=-5.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -23730,7 +23730,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -23757,7 +23757,7 @@ difference () {
                   translate ([0, 0, 20]) {
                     rotate (a=1.0, v=[1, 0, 0]) {
                       rotate (a=12.0, v=[0, 1, 0]) {
-                        translate ([0, -13.0, 0.0]) {
+                        translate ([0, -13.0, 6.0]) {
                           translate ([0, 0, 246.95585626053347]) {
                             rotate (a=0.0, v=[0, 1, 0]) {
                               translate ([0, 0, -246.95585626053347]) {
@@ -23787,7 +23787,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -23814,7 +23814,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=-5.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -23841,7 +23841,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=0.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {
@@ -23868,7 +23868,7 @@ difference () {
                         translate ([0, 0, 20]) {
                           rotate (a=1.0, v=[1, 0, 0]) {
                             rotate (a=12.0, v=[0, 1, 0]) {
-                              translate ([0, -13.0, 0.0]) {
+                              translate ([0, -13.0, 6.0]) {
                                 translate ([0, 0, 246.95585626053347]) {
                                   rotate (a=0.0, v=[0, 1, 0]) {
                                     translate ([0, 0, -246.95585626053347]) {

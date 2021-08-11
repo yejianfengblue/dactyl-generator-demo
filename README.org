@@ -325,8 +325,8 @@ Currently only dactyl manuform is demonstrated.
 ** Middle finger measurement z
    The greater the value, the middle finger's column (column 3) is higher
 
-   0 vs -6.5
-   [[file:manuform/manuform-4x6+6-(form.stagger-middle-z=0)-DIAGONAL-cmp.png]]
+   10 vs -6.5
+   [[file:manuform/manuform-4x6+6-(form.stagger-middle-z=10)-BACK_TOP-cmp.png]]
 
 ** Ring finger measurement y
    The greater the value, the ring finger's column (column 4) is more far away from hand, toward y positive direction
@@ -338,7 +338,7 @@ Currently only dactyl manuform is demonstrated.
    The greater the value, the ring finger's column (column 4) is higher
 
    15 vs 0
-   [[file:manuform/manuform-4x6+6-(form.stagger-ring-z=15)-DIAGONAL-cmp.png]]
+   [[file:manuform/manuform-4x6+6-(form.stagger-ring-z=15)-BACK_TOP-cmp.png]]
 
 ** Pinky finger measurement y
    The greater the value, the pinky finger's column (column 5 and 6) is more far away from hand, toward y positive direction
@@ -349,8 +349,8 @@ Currently only dactyl manuform is demonstrated.
 ** Pinky finger measurement z
    The greater the value, the pinky finger's column (column 5 and 6) is higher
 
-   0 vs 6
-   [[file:manuform/manuform-4x6+6-(form.stagger-pinky-z=0)-DIAGONAL-cmp.png]]
+   26 vs 6
+   [[file:manuform/manuform-4x6+6-(form.stagger-pinky-z=26)-BACK_TOP-cmp.png]]
 
 ** Wide pinky
    Whether the right most column uses 1.5u keycap

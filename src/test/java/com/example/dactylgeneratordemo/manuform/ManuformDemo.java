@@ -271,10 +271,10 @@ public class ManuformDemo {
     @Test
     void staggerMiddleZ() {
 
-        Camera camera = Camera.DIAGONAL;
+        Camera camera = Camera.BACK_TOP;
         Manuform manuform = getBaseManuform();
-        manuform.getForm().setStaggerMiddleZ(0);
-        manuformService.generate(manuform, MANUFORM_BASE_FILENAME + "-(form.stagger-middle-z=0)", camera);
+        manuform.getForm().setStaggerMiddleZ(10);
+        manuformService.generate(manuform, MANUFORM_BASE_FILENAME + "-(form.stagger-middle-z=10)", camera);
     }
 
     @Test
@@ -289,7 +289,7 @@ public class ManuformDemo {
     @Test
     void staggerRingZ() {
 
-        Camera camera = Camera.DIAGONAL;
+        Camera camera = Camera.BACK_TOP;
         Manuform manuform = getBaseManuform();
         manuform.getForm().setStaggerRingZ(15);
         manuformService.generate(manuform, MANUFORM_BASE_FILENAME + "-(form.stagger-ring-z=15)", camera);
@@ -307,10 +307,10 @@ public class ManuformDemo {
     @Test
     void staggerPinkyZ() {
 
-        Camera camera = Camera.DIAGONAL;
+        Camera camera = Camera.BACK_TOP;
         Manuform manuform = getBaseManuform();
-        manuform.getForm().setStaggerPinkyZ(0);
-        manuformService.generate(manuform, MANUFORM_BASE_FILENAME + "-(form.stagger-pinky-z=0)", camera);
+        manuform.getForm().setStaggerPinkyZ(26);
+        manuformService.generate(manuform, MANUFORM_BASE_FILENAME + "-(form.stagger-pinky-z=26)", camera);
     }
 
     @Test
