@@ -6,7 +6,10 @@ import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+@SpringBootTest(properties = {
+        "manuform.url=https://dactyl.siskam.link/api/manuform",
+        "manuform.generate-png=true"
+})
 public class DactylManuformGeneratorDemoTest {
 
     final String MANUFORM_BASE_FILENAME = "manuform/manuform-4x6+6";

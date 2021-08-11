@@ -18,8 +18,8 @@ import org.springframework.web.client.RestTemplate;
 public class RestTemplateConfig {
 
     @Bean
-    @ConditionalOnProperty(name = "resttemplate.proxy")
-    public RestTemplateCustomizer restTemplateProxyCustomizer(@Value("${resttemplate.proxy}") String proxy) {
+    @ConditionalOnProperty(name = "proxy")
+    public RestTemplateCustomizer restTemplateProxyCustomizer(@Value("${proxy}") String proxy) {
 
         return restTemplate -> {
 

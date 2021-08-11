@@ -5,7 +5,6 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.RequiredArgsConstructor;
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.MediaType;
 import org.springframework.http.RequestEntity;
 import org.springframework.stereotype.Service;
@@ -23,7 +22,7 @@ import java.util.Optional;
 @Slf4j
 class ManuformService {
 
-    final String URI = "https://dactyl.siskam.link/api/manuform";
+    private final ManuformProperties manuformProperties;
 
     private final ObjectMapper objectMapper;
 
@@ -31,22 +30,10 @@ class ManuformService {
 
     private final OpenscadService openscadService;
 
-    @Value("${generate-json}")
-    private boolean generateJson;
-
-    @Value("${generate-scad}")
-    private boolean generateScad;
-
-    @Value("${generate-png}")
-    private boolean generatePng;
-
-    @Value("${generate-stl}")
-    private boolean generateStl;
-
     /**
      * @param manuform
      * @param filename filename without extension
-     * @param cameras
+     * @param cameras one or more {@link OpenscadService.Camera}
      */
     @SneakyThrows
     void generate(Manuform manuform, String filename, OpenscadService.Camera... cameras) {
@@ -59,28 +46,28 @@ class ManuformService {
 
         // json
         String json = objectMapper.writeValueAsString(manuform);
-        if (generateJson) {
+        log.info("Generate manuform with params\n{}\nto {}", json, filename);
+        if (manuformProperties.isGenerateJson()) {
             FileCopyUtils.copy(json.getBytes(StandardCharsets.UTF_8), Paths.get(filename + ".json").toFile());
-            log.info("Generate manuform with params\n{}\nto {}", json, filename);
         }
 
         // json -> scad
         Path scadPath = Paths.get(filename + ".scad");
-        if (generateScad) {
-            RequestEntity<String> request = RequestEntity.post(URI)
+        if (manuformProperties.isGenerateScad()) {
+            RequestEntity<String> request = RequestEntity.post(manuformProperties.getUrl())
                                                          .contentType(MediaType.APPLICATION_JSON)
                                                          .body(json);
-            String scadContent = restTemplate.postForObject(URI, request, String.class);
+            String scadContent = restTemplate.postForObject(manuformProperties.getUrl(), request, String.class);
             FileCopyUtils.copy(scadContent.getBytes(StandardCharsets.UTF_8), scadPath.toFile());
         }
 
         // scad -> png
-        if (generatePng) {
+        if (manuformProperties.isGeneratePng()) {
             openscadService.convertScadToPng(scadPath, cameras);
         }
 
         // scad -> stl
-        if (generateStl) {
+        if (manuformProperties.isGenerateStl()) {
             openscadService.convertScadToStl(scadPath.toString());
         }
     }
