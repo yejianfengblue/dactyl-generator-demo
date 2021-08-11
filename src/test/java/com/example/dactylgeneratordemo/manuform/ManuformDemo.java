@@ -56,15 +56,15 @@ public class ManuformDemo {
         Camera camera = Camera.DIAGONAL;
         Manuform manuform = getBaseManuform();
         manuform.getKeys().setThumbCount(ThumbCount.TWO);
-        manuformService.generate(manuform, "manuform-4x6+2", camera);
+        manuformService.generate(manuform, MANUFORM_BASE_FILENAME.replace("+6", "+2"), camera);
         manuform.getKeys().setThumbCount(ThumbCount.THREE);
-        manuformService.generate(manuform, "manuform-4x6+3", camera);
+        manuformService.generate(manuform, MANUFORM_BASE_FILENAME.replace("+6", "+3"), camera);
         manuform.getKeys().setThumbCount(ThumbCount.THREE_MINI);
-        manuformService.generate(manuform, "manuform-4x6+3mini", camera);
+        manuformService.generate(manuform, MANUFORM_BASE_FILENAME.replace("+6", "+3mini"), camera);
         manuform.getKeys().setThumbCount(ThumbCount.FOUR);
-        manuformService.generate(manuform, "manuform-4x6+4", camera);
+        manuformService.generate(manuform, MANUFORM_BASE_FILENAME.replace("+6", "+4"), camera);
         manuform.getKeys().setThumbCount(ThumbCount.FIVE);
-        manuformService.generate(manuform, "manuform-4x6+5", camera);
+        manuformService.generate(manuform, MANUFORM_BASE_FILENAME.replace("+6", "+5"), camera);
     }
 
     @Test
