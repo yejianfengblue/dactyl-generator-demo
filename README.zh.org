@@ -226,10 +226,10 @@
    [[file:manuform/manuform-4x6+6-(curve.centercol)-DIAGONAL-cmp.png]]
 
 ** Tenting Angle 倾斜度
-   pi/10 对比 pi/15
+   pi/6 对比 pi/15
 
-   倾斜度pi/10更大
-   [[file:manuform/manuform-4x6+6-(curve.tenting=10)-DIAGONAL-cmp.png]]
+   pi/6倾斜度更大
+   [[file:manuform/manuform-4x6+6-(curve.tenting=6)-DIAGONAL-cmp.png]]
 
 ** Rotation around row axis 行旋转
    pi/10 对比 pi/180

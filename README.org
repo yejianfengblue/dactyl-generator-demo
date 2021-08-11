@@ -211,10 +211,10 @@ Currently only dactyl manuform is demonstrated.
    [[file:manuform/manuform-4x6+6-(curve.centercol)-DIAGONAL-cmp.png]]
 
 ** Tenting Angle
-   pi/10 vs pi/15
+   pi/6 vs pi/15
 
    Row tilt is larger
-   [[file:manuform/manuform-4x6+6-(curve.tenting=10)-DIAGONAL-cmp.png]]
+   [[file:manuform/manuform-4x6+6-(curve.tenting=6)-DIAGONAL-cmp.png]]
 
 ** Rotation around row axis
    pi/10 vs pi/180

@@ -9,7 +9,7 @@
     "switch-type" : "box"
   },
   "curve" : {
-    "tenting" : 10,
+    "tenting" : 6,
     "alpha" : 12,
     "pinky-alpha" : 12,
     "beta" : 36,

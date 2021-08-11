@@ -161,8 +161,8 @@ public class ManuformDemo {
 
         Camera camera = Camera.DIAGONAL;
         Manuform manuform = getBaseManuform();
-        manuform.getCurve().setTenting(10);
-        manuformService.generate(manuform, MANUFORM_BASE_FILENAME + "-(curve.tenting=10)", camera);
+        manuform.getCurve().setTenting(6);
+        manuformService.generate(manuform, MANUFORM_BASE_FILENAME + "-(curve.tenting=6)", camera);
     }
 
     @Test
