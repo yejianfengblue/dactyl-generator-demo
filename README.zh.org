@@ -326,13 +326,13 @@
    [[file:manuform/manuform-4x6+6-(form.stagger=no)-DIAGONAL-cmp.png]]
 
 ** Index finger measurement y 食指列y位移
-   数值越大，食指列（第1和第2列）越远离手，往y轴正方向
+   数值越大，食指列（第1和第2列）和拇指区越远离手，往y轴正方向
 
    10 对比 0
    [[file:manuform/manuform-4x6+6-(form.stagger-index-y=10)-TOP-cmp.png]]
 
 ** Index finger measurement z 食指列z位移
-   数值越大，食指列（第1和第2列）越高
+   数值越大，食指列（第1和第2列）和拇指区越高
 
    15 对比 0
    [[file:manuform/manuform-4x6+6-(form.stagger-index-z=15)-DIAGONAL-cmp.png]]

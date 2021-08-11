@@ -305,13 +305,13 @@ Currently only dactyl manuform is demonstrated.
    [[file:manuform/manuform-4x6+6-(form.stagger=no)-DIAGONAL-cmp.png]]
 
 ** Index finger measurement y
-   The greater the value, index finger's column (column 1 and 2) is more far away from hand, toward y positive direction
+   The greater the value, index finger's column (column 1 and 2) and thumb cluster are more far away from hand, toward y positive direction
 
    10 vs 0
    [[file:manuform/manuform-4x6+6-(form.stagger-index-y=10)-TOP-cmp.png]]
 
 ** Index finger measurement z
-   The greater the value, index finger's column (column 1 and 2) is higher
+   The greater the value, index finger's column (column 1 and 2) and thumb cluster are higher
 
    15 vs 0
    [[file:manuform/manuform-4x6+6-(form.stagger-index-z=15)-DIAGONAL-cmp.png]]
