@@ -321,7 +321,7 @@
    [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-z=27)-DIAGONAL-cmp.png]]
 
 ** Stagger 梯级型的行
-   Yes 对比 No
+   No 对比 Yes
    [[file:manuform/manuform-4x6+6-(form.stagger=no)-TOP-cmp.png]]
    [[file:manuform/manuform-4x6+6-(form.stagger=no)-DIAGONAL-cmp.png]]
 
