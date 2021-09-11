@@ -299,7 +299,7 @@ Currently only dactyl manuform is demonstrated.
    [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-z=27)-DIAGONAL-cmp.png]]
 
 ** Stagger
-   Yes vs No
+   No vs Yes
 
    [[file:manuform/manuform-4x6+6-(form.stagger=no)-TOP-cmp.png]]
    [[file:manuform/manuform-4x6+6-(form.stagger=no)-DIAGONAL-cmp.png]]
