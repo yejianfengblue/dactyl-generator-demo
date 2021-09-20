@@ -139,30 +139,37 @@
    [[file:manuform/manuform-4x6+6-(keys.last-row=2)-TOP-cmp.png]]
 
 ** Key hole 键盘轴孔
+
+   [[file:images/mx-vs-box.png]]
+
+   Cherry樱桃轴和佳达隆轴属于MX结构轴，轴体有凹槽。高特轴的外壳类似凯华Box轴。
+   TTC轴属于MX结构轴。其他轴自己看有没有凹槽。
+
+
    MX 对比 "Box and MX"
 
-   樱桃/佳达隆MX 对比 凯华Box轴和MX轴
+   MX结构轴 对比 Box结构轴和MX结构轴
 
-   - MX多了凸块用于卡住樱桃/佳达隆轴，不需要上热熔胶
-   - Box and MX适用于凯华Box轴、樱桃MX轴和佳达隆MX轴，需要上热熔胶固定轴体
+   - MX多了凸块用于卡住MX结构轴的凹槽，不需要上热熔胶
+   - Box and MX通用于Box结构轴和MX结构轴，需要上热熔胶固定轴体
    [[file:manuform/manuform-4x6+6-(keys.switch-type=mx)-BOTTOM_DIST_200-cmp.png]]
 
    "MX snap-in" 对比 MX
 
-   凸块底下多了空间，更好地卡住樱桃/佳达隆MX轴的凹处
+   凸块底下多了空间，更好地卡住MX结构轴的凹槽
    [[file:manuform/manuform-4x6+6-(keys.switch-type=mx-snap-in)-BOTTOM_DIST_200-cmp.png]]
    [[file:images/mx-snap-in_vs_mx.png]]
 
    Alps 对比 "Box and MX"
 
-   Alps 对比 凯华Box轴和MX轴
+   Alps 对比 Box结构轴和MX结构轴
 
    轴孔的尺寸有点不同
    [[file:manuform/manuform-4x6+6-(keys.switch-type=alps)-BOTTOM_DIST_200-cmp.png]]
 
    Choc 对比 "Box and MX"
 
-   凯华矮轴 对比 凯华Box轴和MX轴
+   凯华矮轴 对比 Box结构轴和MX结构轴
 
    轴孔薄一点。注意 我自己并没有实际打印测试过矮轴。
 
@@ -170,9 +177,9 @@
 
    Kailh 对比 "Box and MX"
 
-   凯华Box轴 对比 凯华Box轴和MX轴
+   凯华轴 对比 Box结构轴和MX结构轴
 
-   多了一个凹位，详见https://github.com/ibnuda/dactyl-keyboard/pull/68
+   轴孔多了一个凹位，详见https://github.com/ibnuda/dactyl-keyboard/pull/68
 
    [[file:manuform/manuform-4x6+6-(keys.switch-type=kailh)-BOTTOM_DIST_200-cmp.png]]
 
