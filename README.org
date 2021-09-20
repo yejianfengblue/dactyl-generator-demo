@@ -145,7 +145,7 @@ Currently only dactyl manuform is demonstrated.
    [[file:images/mx-vs-box.png]]
 
    Cherry switch and Gateron switch are MX switch, which have a notch.
-   Outemu switch is similar to Kailh switch.
+   Outemu switch is similar to Kailh Box switch.
    TTC switch is MX switch.
 
    MX vs "Box and MX"
