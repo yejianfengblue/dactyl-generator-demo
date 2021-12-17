@@ -289,7 +289,12 @@
 
    下图来自[[https://www.beekeeb.com/dactyl-manuform-mini-mechanical-keyboard-build-log/][Leo's build log]].
    [[file:images/leo-dactyl-manuform-bottom.png]] 
-   
+
+   某些情况下，L型挂钩的位置会不正确。建议仔细检查。
+   比如使用dactyl manuform页面的默认参数，L型挂钩和键盘外壳是分离的。
+   至于如何修改模型来修复，有点复杂就不说了。这种情况下，考虑使用外置托架。
+   [[file:images/separated-promicro-holder.png]]
+
 ** Internal connector none 无内置接口
    - use loligagger's external holder 外置托架: no 否
    - connector 接口类型: none

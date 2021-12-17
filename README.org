@@ -275,7 +275,12 @@ Currently only dactyl manuform is demonstrated.
 
    Below image comes from [[https://www.beekeeb.com/dactyl-manuform-mini-mechanical-keyboard-build-log/][Leo's build log]].
    [[file:images/leo-dactyl-manuform-bottom.png]] 
-   
+
+   The position of the L hook is not calculated correctly in some case. Check it carefully.
+   For example with the default dactyl manuform parameters, the L hook is separated from keyboard case.
+   It's a bit complicated to tell how to fix it. Consider external holder.
+   [[file:images/separated-promicro-holder.png]]
+
 ** Internal connector none
    "internal none" vs "internal RJ9 Mini USB"
 
