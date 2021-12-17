@@ -121,6 +121,7 @@
 
 ** Thumb key count 拇指区键的数目
    依次是2, 3, 3-mini, 4, 5, 6
+
    [[file:manuform/manuform-4x6+x-DIAGONAL-cmp.png]]
 
 ** Last row key counts 最底一行键的数目
@@ -129,6 +130,7 @@
    没有 对比 全部
 
    第3至第6列只有3行
+
    [[file:manuform/manuform-4x6+6-(keys.last-row=0)-TOP-cmp.png]]
 
    two 对比 "use all keys"
@@ -136,6 +138,7 @@
    两个 对比 全部
 
    第5和第6列只有3行
+
    [[file:manuform/manuform-4x6+6-(keys.last-row=2)-TOP-cmp.png]]
 
 ** Key hole 键盘轴孔
@@ -152,6 +155,7 @@
 
    - MX多了凸块用于卡住MX结构轴的凹槽，不需要上热熔胶
    - Box and MX通用于Box结构轴和MX结构轴，需要上热熔胶固定轴体
+
    [[file:manuform/manuform-4x6+6-(keys.switch-type=mx)-BOTTOM_DIST_200-cmp.png]]
 
    "MX snap-in" 对比 MX
@@ -167,6 +171,7 @@
    Alps 对比 Box结构轴和MX结构轴
 
    轴孔的尺寸有点不同
+
    [[file:manuform/manuform-4x6+6-(keys.switch-type=alps)-BOTTOM_DIST_200-cmp.png]]
 
    Choc 对比 "Box and MX"
@@ -198,6 +203,7 @@
    “Ergodox” 对比 正常
 
    左边多了2个键
+
    [[file:manuform/manuform-4x6+6-(keys.inner-column=ergodox)-TOP-cmp.png]]
 
    Without 对比 Normal
@@ -213,6 +219,7 @@
    是 对比 否
 
    堵上右下角的键孔
+
    [[file:manuform/manuform-4x6+6-(keys.hide-last-pinky=yes)-TOP-cmp.png]]
 
 * Curvature & Tenting 曲率和倾斜度
@@ -221,6 +228,7 @@
    pi/6 对比 pi/12
 
    食指、中指和无名指所在列，即第1至第4列的曲率，pi/6更陡峭
+
    [[file:manuform/manuform-4x6+6-(curve.column-curvature=pi_6)-DIAGONAL-cmp.png]]
    [[file:manuform/manuform-4x6+6-(curve.column-curvature=pi_6)-RIGHT-cmp.png]] 
 
@@ -228,6 +236,7 @@
    pi/6 对比 pi/12
 
    无名指列，即第5至6列的曲率，pi/6更陡峭
+
    [[file:manuform/manuform-4x6+6-(curve.pinky-column-curvature=pi_6)-DIAGONAL-cmp.png]]
    [[file:manuform/manuform-4x6+6-(curve.pinky-column-curvature=pi_6)-RIGHT-cmp.png]] 
 
@@ -235,34 +244,42 @@
    pi/18 对比 pi/36
 
    pi/18更陡峭
+
    [[file:manuform/manuform-4x6+6-(curve.row-curvature=pi_18)-DIAGONAL-cmp.png]]
 
 ** Center of the curvature for the column 以哪一列作为行的曲率的中心
    依次是食指、中指、无名指、小拇指
+
    [[file:manuform/manuform-4x6+6-(curve.centercol)-DIAGONAL-cmp.png]]
 
 ** Tenting Angle 倾斜度
    pi/6 对比 pi/15
 
    pi/6倾斜度更大
+
    [[file:manuform/manuform-4x6+6-(curve.tenting=6)-DIAGONAL-cmp.png]]
 
 ** Rotation around row axis 行旋转
    pi/10 对比 pi/180
+
    [[file:manuform/manuform-4x6+6-(curve.rotate-x=pi_10)-DIAGONAL-cmp.png]]
 
    -pi/10 对比 pi/180
+
    [[file:manuform/manuform-4x6+6-(curve.rotate-x=-pi_10)-DIAGONAL-cmp.png]]
 
    -pi/36 对比 pi/180
+
    [[file:manuform/manuform-4x6+6-(curve.rotate-x=-pi_36)-DIAGONAL-cmp.png]]
+
 * Connectors 接口
 
 ** Internal connector 内置接口 RJ9 Mini USB
    - use loligagger's external holder 外置支架: no 否
    - connector 接口类型: RJ9
    - USB hole USB孔: Mini USB
-   [[file:manuform/manuform-4x6+6-BACK_TOP.png]] 
+
+   [[file:manuform/manuform-4x6+6-BACK_TOP.png]]
 
    [[file:images/internal-connector-rj9.png]] 
   
@@ -272,6 +289,7 @@
    - USB hole USB孔: Mini USB
      
    "内置接口 音频口 Micro USB" 对比 "内置接口 RJ9 Mini USB"
+
    [[file:manuform/manuform-4x6+6-(connector.type=trrs)-BACK_TOP-cmp.png]] 
     
    - 3.5mm耳机音频插座PJ-320B插在外壳的圆孔
@@ -288,11 +306,13 @@
    [[file:images/microusb-breakout-board.png]] 
 
    下图来自[[https://www.beekeeb.com/dactyl-manuform-mini-mechanical-keyboard-build-log/][Leo's build log]].
+
    [[file:images/leo-dactyl-manuform-bottom.png]] 
 
    某些情况下，L型挂钩的位置会不正确。建议仔细检查。
    比如使用dactyl manuform页面的默认参数，L型挂钩和键盘外壳是分离的。
    至于如何修改模型来修复，有点复杂就不说了。这种情况下，考虑使用外置托架。
+
    [[file:images/separated-promicro-holder.png]]
 
 ** Internal connector none 无内置接口
@@ -303,6 +323,7 @@
    "无内置接口" 对比 "内置接口 RJ9 Mini USB"
 
    主要用于蓝牙键盘
+
    [[file:manuform/manuform-4x6+6-(connector.type=none)-BACK_TOP-cmp.png]] 
 
 ** External Holder 外置托架
@@ -316,8 +337,8 @@
    Github的v3模型文件[[https://github.com/ibnuda/dactyl-keyboard/issues/85][多了一小块]], 这里是修复版本的[[file:stl/promicro-holder-v3-left.stl][左边]]和[[file:stl/promicro-holder-v3-right.stl][右边]]。
 
    强烈建议connector接口类型选none，否则缺口处有可能会残留有内置接口的部分模型，从而阻挡插入外置托架。
-   [[file:images/remove-internal-holder-from-external-holder.png]]
 
+   [[file:images/remove-internal-holder-from-external-holder.png]]
 
 * Form of the Case 键盘外形
 
@@ -327,28 +348,33 @@
    是 对比 否
 
    用胶水或者热熔胶固定热插拔轴座
+
    [[file:manuform/manuform-4x6+6-(form.hotswap=yes)-BOTTOM_DIST_200-cmp.png]]
 
 ** Thumb cluster offsets center x (toward the pinky) 拇指区x轴位移（往小拇指方向）
    数值越大，拇指区越靠右，越接近小拇指，往x轴正方向
 
    -10 对比 6
+
    [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-x=-10)-TOP-cmp.png]]
 
 ** Thumb cluster offsets center y (toward the index) 拇指区y轴位移（往食指方向）
    数值越大，拇指区越靠近食指，往y轴正方向
 
    -23 对比 -3
+
    [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-y=-23)-TOP-cmp.png]]
 
 ** Thumb cluster offsets center z (altitude) 拇指区z轴位移（高度）
    数值越大，拇指区越高
 
    27 对比 7
+
    [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-z=27)-DIAGONAL-cmp.png]]
 
 ** Stagger 梯级型的行
    No 对比 Yes
+
    [[file:manuform/manuform-4x6+6-(form.stagger=no)-TOP-cmp.png]]
    [[file:manuform/manuform-4x6+6-(form.stagger=no)-DIAGONAL-cmp.png]]
 
@@ -356,48 +382,56 @@
    数值越大，食指列（第1和第2列）和拇指区越远离手，往y轴正方向
 
    10 对比 0
+
    [[file:manuform/manuform-4x6+6-(form.stagger-index-y=10)-TOP-cmp.png]]
 
 ** Index finger measurement z 食指列z位移
    数值越大，食指列（第1和第2列）和拇指区越高
 
    15 对比 0
+
    [[file:manuform/manuform-4x6+6-(form.stagger-index-z=15)-DIAGONAL-cmp.png]]
 
 ** Middle finger measurement y 中指列y位移
    数值越大，中指列（第3列）越远离手，往y轴正方向
 
    10 对比 2.8
+
    [[file:manuform/manuform-4x6+6-(form.stagger-middle-y=10)-TOP-cmp.png]]
 
 ** Middle finger measurement z 中指列z位移
    数值越大，中指列（第3列）越高
 
    10 对比 -6.5
+
    [[file:manuform/manuform-4x6+6-(form.stagger-middle-z=10)-BACK_TOP-cmp.png]]
 
 ** Ring finger measurement y 无名指列y位移
    数值越大，无名指列（第4列）越远离手，往y轴正方向
 
    10 对比 0
+
    [[file:manuform/manuform-4x6+6-(form.stagger-ring-y=10)-TOP-cmp.png]]
 
 ** Ring finger measurement z 无名指列z位移
    数值越大，无名指列（第4列）越高
 
    15 对比 0
+
    [[file:manuform/manuform-4x6+6-(form.stagger-ring-z=15)-BACK_TOP-cmp.png]]
 
 ** Pinky finger measurement y 小拇指列y位移
    数值越大，小拇指列（第5和第6列）越远离手，往y轴正方向
 
    0 对比 -13
+
    [[file:manuform/manuform-4x6+6-(form.stagger-pinky-y=0)-TOP-cmp.png]]
 
 ** Pinky finger measurement z 小拇指列z位移
    数值越大，小拇指列（第5和第6列）越高
 
    26 对比 6
+
    [[file:manuform/manuform-4x6+6-(form.stagger-pinky-z=26)-BACK_TOP-cmp.png]]
 
 ** Wide pinky 小拇指最外列使用1.5u键帽
@@ -406,22 +440,27 @@
    Yes 对比 No
 
    是 对比 否
+
    [[file:manuform/manuform-4x6+6-(form.wide-pinky=yes)-DIAGONAL-cmp.png]]
 
 ** Height offset 整体高度
    4mm 对比 10mm
+
    [[file:manuform/manuform-4x6+6-(form.height-offset=4)-DIAGONAL-cmp.png]]
 
 ** Web thickness 键孔网格厚度
    20mm 对比 7mm
+
    [[file:manuform/manuform-4x6+6-(form.web-thickness=20)-BOTTOM_DIST_200-cmp.png]] 
 
 ** Wall thickness 键盘外围壁厚度
    1mm 对比 3mm
+
    [[file:manuform/manuform-4x6+6-(form.wall-thickness=1)-BOTTOM-cmp.png]] 
 
 ** Wire posts 走线凸块
    我没打印测试过，不知道是否有助于走线
+
    [[file:manuform/manuform-4x6+6-(form.wire-post=yes)-BOTTOM-cmp.png]]
 
 ** Screw inserts 螺丝孔
@@ -430,20 +469,22 @@
    Yes 对比 No
 
    是 对比 否
+
    [[file:manuform/manuform-4x6+6-(form.screw-inserts=yes)-BOTTOM-cmp.png]]
 
 * Miscelania 杂项
-
 ** Show Keycaps 显示键帽
    仅用于展示
 
    Yes 对比 No
+
    [[file:manuform/manuform-4x6+6-(misc.keycaps=yes)-DIAGONAL-cmp.png]]
 
 ** Right side or left side 右边或者左边
    Left 对比 Right
 
    左边 对比 右边
+
    [[file:manuform/manuform-4x6+6-(misc.left-side)-DIAGONAL-cmp.png]]
 
 * 已知问题

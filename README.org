@@ -127,17 +127,20 @@ Currently only dactyl manuform is demonstrated.
 
 ** Thumb key count
    2, 3, 3-mini, 4, 5, 6 in order
+
    [[file:manuform/manuform-4x6+x-DIAGONAL-cmp.png]]
 
 ** Last row key counts
    "no last row" vs "use all keys"
 
    column 3 to 6 have 3 rows
+
    [[file:manuform/manuform-4x6+6-(keys.last-row=0)-TOP-cmp.png]]
 
    two vs "use all keys"
 
    column 5 and 6 have 3 rows
+
    [[file:manuform/manuform-4x6+6-(keys.last-row=2)-TOP-cmp.png]]
 
 ** Key hole
@@ -151,24 +154,28 @@ Currently only dactyl manuform is demonstrated.
    MX vs "Box and MX"
 
    Additional nub which is stuck in the MX switch notch. Without the nub, hot glue is required.
+
    [[file:manuform/manuform-4x6+6-(keys.switch-type=mx)-BOTTOM_DIST_200-cmp.png]]
 
    "MX snap-in" vs MX
 
    Notice the space under the nub, which helps nub firmly snap in the switch notch.
    I personally prefer MX snap in to MX when I use Gateron switch.
+
    [[file:manuform/manuform-4x6+6-(keys.switch-type=mx-snap-in)-BOTTOM_DIST_200-cmp.png]]
    [[file:images/mx-snap-in_vs_mx.png]]
 
    Alps vs "Box and MX"
 
    Key hole size is different
+
    [[file:manuform/manuform-4x6+6-(keys.switch-type=alps)-BOTTOM_DIST_200-cmp.png]]
 
    Choc vs "Box and MX"
 
    The switch hole wall is thinner.
    Added in Sep 2020 https://github.com/ibnuda/dactyl-keyboard/issues/50 and some fixes later
+
    [[file:manuform/manuform-4x6+6-(keys.switch-type=choc)-BOTTOM_DIST_200-cmp.png]]
 
    Kailh vs "Box and MX"
@@ -190,17 +197,20 @@ Currently only dactyl manuform is demonstrated.
    "Use inner column (like ergodox)" vs Normal
 
    Two more keys on the left
+
    [[file:manuform/manuform-4x6+6-(keys.inner-column=ergodox)-TOP-cmp.png]]
 
    Without vs Normal
 
    The left most column is gone
+
    [[file:manuform/manuform-4x6+6-(keys.inner-column=without)-TOP-cmp.png]]
 
 ** Hide bottom pinky
    Yes vs No
 
    The bottom right key is disabled
+
    [[file:manuform/manuform-4x6+6-(keys.hide-last-pinky=yes)-TOP-cmp.png]]
 
 * Curvature & Tenting
@@ -209,6 +219,7 @@ Currently only dactyl manuform is demonstrated.
    pi/6 vs pi/12
 
    The curvature pi/6 of (index, middle, ring) finger's column, that is, column 1, 2, 3 and 4 is steeper
+
    [[file:manuform/manuform-4x6+6-(curve.column-curvature=pi_6)-DIAGONAL-cmp.png]]
    [[file:manuform/manuform-4x6+6-(curve.column-curvature=pi_6)-RIGHT-cmp.png]] 
 
@@ -216,34 +227,41 @@ Currently only dactyl manuform is demonstrated.
    pi/6 vs pi/12
 
    The curvature of pinky finger column, that is, column 5 and 6 is steeper
+
    [[file:manuform/manuform-4x6+6-(curve.pinky-column-curvature=pi_6)-DIAGONAL-cmp.png]]
    [[file:manuform/manuform-4x6+6-(curve.pinky-column-curvature=pi_6)-RIGHT-cmp.png]] 
 
 ** Row's curvature
    pi/18 vs pi/36
+
    [[file:manuform/manuform-4x6+6-(curve.row-curvature=pi_18)-DIAGONAL-cmp.png]]
 
 ** Center of the curvature for the column
    Index, middle, ring, pinky in order
+
    [[file:manuform/manuform-4x6+6-(curve.centercol)-DIAGONAL-cmp.png]]
 
 ** Tenting Angle
    pi/6 vs pi/15
 
    Row tilt is larger
+
    [[file:manuform/manuform-4x6+6-(curve.tenting=6)-DIAGONAL-cmp.png]]
 
 ** Rotation around row axis
    pi/10 vs pi/180
+
    [[file:manuform/manuform-4x6+6-(curve.rotate-x=pi_10)-DIAGONAL-cmp.png]]
 
    -pi/10 vs pi/180
+
    [[file:manuform/manuform-4x6+6-(curve.rotate-x=-pi_10)-DIAGONAL-cmp.png]]
 
    -pi/36 vs pi/180
-   [[file:manuform/manuform-4x6+6-(curve.rotate-x=-pi_36)-DIAGONAL-cmp.png]]
-* Connectors
 
+   [[file:manuform/manuform-4x6+6-(curve.rotate-x=-pi_36)-DIAGONAL-cmp.png]]
+
+* Connectors
 ** Internal connector RJ9 Mini USB
    [[https://youtu.be/Oloh3Yabu6I?t=240][4:00]] to 25:00 of Kevin Eckert's build log is a good reference.
 
@@ -274,17 +292,20 @@ Currently only dactyl manuform is demonstrated.
    [[file:images/microusb-breakout-board.png]] 
 
    Below image comes from [[https://www.beekeeb.com/dactyl-manuform-mini-mechanical-keyboard-build-log/][Leo's build log]].
+
    [[file:images/leo-dactyl-manuform-bottom.png]] 
 
    The position of the L hook is not calculated correctly in some case. Check it carefully.
    For example with the default dactyl manuform parameters, the L hook is separated from keyboard case.
    It's a bit complicated to tell how to fix it. Consider external holder.
+
    [[file:images/separated-promicro-holder.png]]
 
 ** Internal connector none
    "internal none" vs "internal RJ9 Mini USB"
 
    This is used for wireless keyboard
+
    [[file:manuform/manuform-4x6+6-(connector.type=none)-BACK_TOP-cmp.png]] 
 
 ** External Holder
@@ -301,6 +322,7 @@ Currently only dactyl manuform is demonstrated.
    It is highly recommended to set connector to ~none~,
    otherwise the hole may not be cut correctly and prevent the external holder from plugging.
    A [[https://github.com/ibnuda/dactyl-keyboard/pull/99][pull request]] is created but no response from author.
+
    [[file:images/remove-internal-holder-from-external-holder.png]]
 
 * Form of the Case
@@ -309,24 +331,28 @@ Currently only dactyl manuform is demonstrated.
    Yes vs No
 
    Glue the hotswap socket
+
    [[file:manuform/manuform-4x6+6-(form.hotswap=yes)-BOTTOM_DIST_200-cmp.png]]
 
 ** Thumb cluster offsets center x (toward the pinky)
    The greater the value, thumb cluster is closer to right, toward pinky finger, toward x positive direction
 
    -10 vs 6
+
    [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-x=-10)-TOP-cmp.png]]
 
 ** Thumb cluster offsets center y (toward the index)
    The greater the value, thumb cluster is more toward to index finger, toward y positive direction
 
    -23 vs -3
+
    [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-y=-23)-TOP-cmp.png]]
 
 ** Thumb cluster offsets center z (altitude)
    The greater the value, thumb cluster is higher
 
    27 vs 7
+
    [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-z=27)-DIAGONAL-cmp.png]]
 
 ** Stagger
@@ -339,76 +365,89 @@ Currently only dactyl manuform is demonstrated.
    The greater the value, index finger's column (column 1 and 2) and thumb cluster are more far away from hand, toward y positive direction
 
    10 vs 0
+
    [[file:manuform/manuform-4x6+6-(form.stagger-index-y=10)-TOP-cmp.png]]
 
 ** Index finger measurement z
    The greater the value, index finger's column (column 1 and 2) and thumb cluster are higher
 
    15 vs 0
+
    [[file:manuform/manuform-4x6+6-(form.stagger-index-z=15)-DIAGONAL-cmp.png]]
 
 ** Middle finger measurement y
    The greater the value, the middle finger's column (column 3) is more far away from hand, toward y positive direction
 
    10 vs 2.8
+
    [[file:manuform/manuform-4x6+6-(form.stagger-middle-y=10)-TOP-cmp.png]]
 
 ** Middle finger measurement z
    The greater the value, the middle finger's column (column 3) is higher
 
    10 vs -6.5
+
    [[file:manuform/manuform-4x6+6-(form.stagger-middle-z=10)-BACK_TOP-cmp.png]]
 
 ** Ring finger measurement y
    The greater the value, the ring finger's column (column 4) is more far away from hand, toward y positive direction
 
    10 vs 0
+
    [[file:manuform/manuform-4x6+6-(form.stagger-ring-y=10)-TOP-cmp.png]]
 
 ** Ring finger measurement z
    The greater the value, the ring finger's column (column 4) is higher
 
    15 vs 0
+
    [[file:manuform/manuform-4x6+6-(form.stagger-ring-z=15)-BACK_TOP-cmp.png]]
 
 ** Pinky finger measurement y
    The greater the value, the pinky finger's column (column 5 and 6) is more far away from hand, toward y positive direction
 
    0 vs -13
+
    [[file:manuform/manuform-4x6+6-(form.stagger-pinky-y=0)-TOP-cmp.png]]
 
 ** Pinky finger measurement z
    The greater the value, the pinky finger's column (column 5 and 6) is higher
 
    26 vs 6
+
    [[file:manuform/manuform-4x6+6-(form.stagger-pinky-z=26)-BACK_TOP-cmp.png]]
 
 ** Wide pinky
    Whether the right most column uses 1.5u keycap
 
    Yes vs No
+
    [[file:manuform/manuform-4x6+6-(form.wide-pinky=yes)-DIAGONAL-cmp.png]]
 
 ** Height offset
    The overall height of the keyboard case
 
    4mm vs 10mm
+
    [[file:manuform/manuform-4x6+6-(form.height-offset=4)-DIAGONAL-cmp.png]]
 
 ** Web thickness
    Top part of the keyboard around the keyholes
 
    20mm vs 7mm
+
    [[file:manuform/manuform-4x6+6-(form.web-thickness=20)-BOTTOM_DIST_200-cmp.png]] 
 
 ** Wall thickness
    Wall around the keyboard
 
    1mm vs 3mm
+
    [[file:manuform/manuform-4x6+6-(form.wall-thickness=1)-BOTTOM-cmp.png]] 
 
 ** Wire posts
    Sorry I haven't tried it. Enable it if you think it helps wiring.
+
    [[file:manuform/manuform-4x6+6-(form.wire-post=yes)-BOTTOM-cmp.png]]
 
 ** Screw inserts
@@ -416,6 +455,7 @@ Currently only dactyl manuform is demonstrated.
    because OpenSCAD full geometry render is time-consuming.
 
    Yes vs No
+
    [[file:manuform/manuform-4x6+6-(form.screw-inserts=yes)-BOTTOM-cmp.png]]
 
 * Misc
@@ -424,10 +464,12 @@ Currently only dactyl manuform is demonstrated.
    Just for display
 
    Yes vs No
+
    [[file:manuform/manuform-4x6+6-(misc.keycaps=yes)-DIAGONAL-cmp.png]]
 
 ** Right side or left side
    Left vs Right
+
    [[file:manuform/manuform-4x6+6-(misc.left-side)-DIAGONAL-cmp.png]]
 
 * Known Issues
