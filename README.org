@@ -313,7 +313,8 @@ Currently only dactyl manuform is demonstrated.
    Yes vs "internal RJ9 Mini USB"
 
    [[file:manuform/manuform-4x6+6-(connector.external=yes)-BACK_TOP-cmp.png]]
-   The case wall thickness is about 5mm, which is too thick for promicro v1 and v2 holder.
+
+   The case back wall thickness is about 5mm, if [[#wall-thickness][wall thickness]] is 3mm by default, which is too thick for promicro v1 and v2 holder.
    The promicro v3 holder fits the case even though not 100% well-fitting.
    There is a [[https://github.com/ibnuda/dactyl-keyboard/issues/85][separated part]] in v3 holder model.
    [[file:stl/][Here]] is the fixed version for right case and a mirror version for left case.
