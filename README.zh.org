@@ -59,7 +59,7 @@
 
 * 参照模型
   这个参照模型使用大部分参数的默认值，是用来做对比。
-  Those non-default values are specified in form of (+default value+ used value).
+  (+默认值+ 当前使用值)比如 (+5+ 6)表示网站的默认值是5，我使用6。
 
 ** Keys 键
    - number of columns 列的数目: +5+ 6
