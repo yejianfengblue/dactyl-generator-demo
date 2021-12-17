@@ -181,12 +181,16 @@
 
    凯华轴 对比 Box结构轴和MX结构轴
 
-   轴孔多了一个凹位，详见https://github.com/ibnuda/dactyl-keyboard/pull/68
+   [[file:manuform/manuform-4x6+6-(keys.switch-type=kailh)-BOTTOM_DIST_200-cmp.png]]
+
+   轴孔多了一个凹位，轴体外壳的两只牙可以卡住这个凹位。
+
+   我只有一个凯华白轴，根据这一个轴的测试结果，固定效果还好，应该不需要上热熔胶。因为轴体和外壳都会存在公差，你的固定效果可能和我的测试固定效果不同。
+
+   [[file:images/kailh-keyhole.jpg]]
 
    樱桃和佳达隆MX轴也能安装在kailh轴孔，但是没有MX snap-in牢固。
-   在我个人的测试中，拔键帽有时会连带拔轴，导致焊点断裂。如果是[[#hotswap-socket-热插拔轴座][热插拔]], 就不是一个大问题。
-
-   [[file:manuform/manuform-4x6+6-(keys.switch-type=kailh)-BOTTOM_DIST_200-cmp.png]]
+   在我个人的佳达隆轴测试中，由于轴体外壳存在公差，有部分轴固定效果和上面的凯华白轴差不多，有部分轴拔键帽有时会连带拔轴，导致焊点断裂。如果是[[#hotswap-socket-热插拔轴座][热插拔]], 就不是一个大问题。
 
 ** Inner index finger's column 食指列
    "Use inner column (like ergodox)" 对比 Normal

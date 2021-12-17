@@ -173,13 +173,18 @@ Currently only dactyl manuform is demonstrated.
 
    Kailh vs "Box and MX"
 
-   Kailh is added at the end of 2020, which fits Kailh switch better.
-   See https://github.com/ibnuda/dactyl-keyboard/pull/68
+   [[file:manuform/manuform-4x6+6-(keys.switch-type=kailh)-BOTTOM_DIST_200-cmp.png]]
+
+   The two teeth of switch shell can be stuck in the notch.
+
+   I only have one Kailh box white switch. This switch can be stuck neither very badly nor very well. Hot glue is unnecessary.
+   Because the size of switch and 3D printed keyhole have allowance or tolerance, your case may be different from my test result.
+
+   [[file:images/kailh-keyhole.jpg]]
 
    Cherry and Gateron MX switches can be plugged into Kailh key hole, but are much less firmly stuck than MX snap in.
-   In my test, there is a chance when I pull out the keycap, the switch is also pulled out, which breaks the soldering.
+   In my test to Gateron switches, there is a chance when I pull out the keycap, the switch is also pulled out, which breaks the soldering.
    Not a problem in the case of [[#hotswap-socket][hotswap]].
-   [[file:manuform/manuform-4x6+6-(keys.switch-type=kailh)-BOTTOM_DIST_200-cmp.png]]
 
 ** Inner index finger's column
    "Use inner column (like ergodox)" vs Normal
