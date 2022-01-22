@@ -289,7 +289,13 @@ Currently only dactyl manuform is demonstrated.
 
    micro USB breakout board
    
-   [[file:images/microusb-breakout-board.png]] 
+   [[file:images/microusb-breakout-board.png]]
+
+   [[file:images/microusb-breakout-board-cable.png]]
+
+   [[file:images/microusb-breakout-board-cable-case.jpg]]
+
+   [[file:images/microusb-breakout-board-cable-case-glue.jpg]]
 
    Below image comes from [[https://www.beekeeb.com/dactyl-manuform-mini-mechanical-keyboard-build-log/][Leo's build log]].
 

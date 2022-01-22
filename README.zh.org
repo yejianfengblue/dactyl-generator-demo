@@ -305,6 +305,12 @@
     
    [[file:images/microusb-breakout-board.png]] 
 
+   [[file:images/microusb-breakout-board-cable.png]]
+
+   [[file:images/microusb-breakout-board-cable-case.jpg]]
+
+   [[file:images/microusb-breakout-board-cable-case-glue.jpg]]
+
    下图来自[[https://www.beekeeb.com/dactyl-manuform-mini-mechanical-keyboard-build-log/][Leo's build log]].
 
    [[file:images/leo-dactyl-manuform-bottom.png]] 
