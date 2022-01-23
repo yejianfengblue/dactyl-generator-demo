@@ -360,7 +360,7 @@
      
    "无内置接口" 对比 "内置接口 RJ9 Mini USB"
 
-   主要用于蓝牙键盘
+   用于无线键盘，非充电电池或无线充电。因为如果用有线充电电池，没有孔插线。
 
    [[file:manuform/manuform-4x6+6-(connector.type=none)-BACK_TOP-cmp.png]] 
 

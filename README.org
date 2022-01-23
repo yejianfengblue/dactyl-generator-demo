@@ -343,7 +343,8 @@ Currently only dactyl manuform is demonstrated.
 ** Internal connector none
    "internal none" vs "internal RJ9 Mini USB"
 
-   This is used for wireless keyboard
+   This is used for wireless keyboard using non-chargeable batteries or wireless charging.
+   If use wired chargeable batteries, no hole to plug the USB cable for charging.
 
    [[file:manuform/manuform-4x6+6-(connector.type=none)-BACK_TOP-cmp.png]] 
 
