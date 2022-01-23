@@ -317,9 +317,41 @@
 
    某些情况下，L型挂钩的位置会不正确。建议仔细检查。
    比如使用dactyl manuform页面的默认参数，L型挂钩和键盘外壳是分离的。
-   至于如何修改模型来修复，有点复杂就不说了。这种情况下，考虑使用外置托架。
 
    [[file:images/separated-promicro-holder.png]]
+
+   考虑使用外置托架或者根据下面步骤来移动位置
+   1. 点击openscad菜单栏 ~window~ -> ~editor~ 打开代码编辑器
+   2. 右键点击L型挂钩，点击 ~cube~ 跳到相应的代码位置
+      [[file:images/pro-micro-holder-code-location.png]]
+   3. L型挂钩是从一个大长方体切掉一个小长方体
+      #+begin_src
+      difference () {
+        translate ([-94.9015632882982, 24.40298907331629, 16.208123960789713]) {
+          cube ([6, 12, 12], center=true);
+        }
+        translate ([-95.9015632882982, 23.40298907331629, 16.208123960789713]) {
+          cube ([4, 10, 12], center=true);
+        }
+      }
+      #+end_src
+
+      #+ATTR_HTML: :width 100
+      [[file:images/pro-micro-holder-difference.png]]
+   4. 在 ~difference()~语句外面包一个 ~translate([x, y, z])~语句，比如
+      #+begin_src
+      translate([-1, -2, 3]){
+        difference () {
+          translate ([-94.9015632882982, 24.40298907331629, 16.208123960789713]) {
+            cube ([6, 12, 12], center=true);
+          }
+          translate ([-95.9015632882982, 23.40298907331629, 16.208123960789713]) {
+            cube ([4, 10, 12], center=true);
+          }
+        }
+      }
+      #+end_src
+      移动 左1mm, 后2mm，上3mm
 
 ** Internal connector none 无内置接口
    - use loligagger's external holder 外置托架: no 否
