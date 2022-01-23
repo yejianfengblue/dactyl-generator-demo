@@ -338,7 +338,7 @@
 
       #+ATTR_HTML: :width 100
       [[file:images/pro-micro-holder-difference.png]]
-   4. 在 ~difference()~语句外面包一个 ~translate([x, y, z])~语句，比如
+   4. 在 ~difference()~ 语句外面包一个 ~translate([x, y, z])~ 语句，比如
       #+begin_src
       translate([-1, -2, 3]){
         difference () {
