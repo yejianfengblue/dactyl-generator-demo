@@ -338,7 +338,7 @@ Currently only dactyl manuform is demonstrated.
         }
       }
       #+end_src
-      moves the L hook (pro micro holder) 1mm to the left, 2mm back, 3mm down
+      moves the L hook (pro micro holder) 1mm to the left, 2mm back, 3mm up
 
 ** Internal connector none
    "internal none" vs "internal RJ9 Mini USB"
