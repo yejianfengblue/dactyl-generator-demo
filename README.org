@@ -278,7 +278,7 @@ Currently only dactyl manuform is demonstrated.
 
    - A 3.5mm audio jack connector PJ-320B can be used in the TRRS hole of case
    - A micro USB breakout board can be used in the USB rectangle hole of case
-   - The pro micro board can be hung on the L hook
+   - The pro micro board can be hung on the L hook (also called pro micro holder)
    - The pro micro board is connected to the USB breakout board with a cable
      
    This looks more complicated than external holder,
@@ -301,11 +301,44 @@ Currently only dactyl manuform is demonstrated.
 
    [[file:images/leo-dactyl-manuform-bottom.png]] 
 
-   The position of the L hook is not calculated correctly in some case. Check it carefully.
+   The position of the L hook (also called pro micro holder) is not calculated correctly in some case. Check it carefully.
    For example with the default dactyl manuform parameters, the L hook is separated from keyboard case.
-   It's a bit complicated to tell how to fix it. Consider external holder.
 
    [[file:images/separated-promicro-holder.png]]
+
+   Either consider [[#external-holder][external holder]] or follow below steps to change the position.
+   1. click openscad menu ~window~ -> ~editor~ to open code editor
+   2. right click the L hook (pro micro holder), click the ~cube~ to jump to the code
+      [[file:images/pro-micro-holder-code-location.png]]
+   3. the L hook is a [[https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/CSG_Modelling#difference][difference]] of a big cube and a small cube
+      #+begin_src
+      difference () {
+        translate ([-94.9015632882982, 24.40298907331629, 16.208123960789713]) {
+          cube ([6, 12, 12], center=true);
+        }
+        %translate ([-95.9015632882982, 23.40298907331629, 16.208123960789713]) {
+          cube ([4, 10, 12], center=true);
+        }
+      }
+      #+end_src
+
+      #+ATTR_HTML: :width 100
+      [[file:images/pro-micro-holder-difference.png]]
+
+   4. wrap the ~difference()~ statement with a ~translate([x, y, z])~ statement, for example
+      #+begin_src
+      translate([-1, -2, 3]){
+        difference () {
+          translate ([-94.9015632882982, 24.40298907331629, 16.208123960789713]) {
+            cube ([6, 12, 12], center=true);
+          }
+          translate ([-95.9015632882982, 23.40298907331629, 16.208123960789713]) {
+            cube ([4, 10, 12], center=true);
+          }
+        }
+      }
+      #+end_src
+      moves the L hook (pro micro holder) 1mm to the left, 2mm back, 3mm down
 
 ** Internal connector none
    "internal none" vs "internal RJ9 Mini USB"
