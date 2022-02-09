@@ -266,6 +266,7 @@ Currently only dactyl manuform is demonstrated.
    [[https://youtu.be/Oloh3Yabu6I?t=240][4:00]] to 25:00 of Kevin Eckert's build log is a good reference.
 
    I don't try this and I am not sure the connector size is the same.
+   TRRS Micro USB option is more recommended than this if you want internal connector.
    
    [[file:manuform/manuform-4x6+6-BACK_TOP.png]] 
    

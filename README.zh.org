@@ -279,6 +279,8 @@
    - connector 接口类型: RJ9
    - USB hole USB孔: Mini USB
 
+   不建议选择这个选项，是用类似座式电话的电话线来连接左右两边。
+   实在闲得无聊的人可以去英文版，那边有一个外国人教程的yt视频链接
    [[file:manuform/manuform-4x6+6-BACK_TOP.png]]
 
    [[file:images/internal-connector-rj9.png]] 
