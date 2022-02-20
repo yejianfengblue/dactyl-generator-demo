@@ -1,5 +1,7 @@
 #+title: Dactyl键盘外壳参数说明
 
+最近gitee系统升级后无法显示文件名含有加号的图片，已报bug。访问[[https://github.com/yejianfengblue/dactyl-generator-demo/blob/main/README.zh.org][github]]
+
 部分名词的中文翻译不太好，懂英文的看[[file:README.org][英文版]]
 
 
