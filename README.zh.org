@@ -2,7 +2,6 @@
 
 最近gitee系统升级后无法显示文件名含有加号的图片，已报bug。转向访问
 - [[https://github.com/yejianfengblue/dactyl-generator-demo/blob/main/README.zh.org][github]] 网络好的人的首选。
-- [[https://gitea.com/yejianfengblue/dactyl-generator-demo][gitea]] 图片正常显示，顶部的目录可以跳转，下面的目录无法跳转。图片加载速度不错。
 - [[https://agit.ai/yejianfengblue/dactyl-generator-demo][agit]] 图片正常显示，顶部的目录可以跳转，下面的目录无法跳转。图片加载速度不错。
 - [[https://codeberg.org/yejianfengblue/dactyl-generator-demo][codeberg]] 图片正常显示，顶部的目录可以跳转，下面的目录无法跳转。我测试的速度有点慢。
 - [[https://jihulab.com/yejianfengblue/dactyl-generator-demo/-/blob/main/README.zh.org][gitlab中国版]] 图片正常显示，但是目录无法跳转。图片加载速度不错。
