@@ -375,6 +375,10 @@
 
    [[file:manuform/manuform-4x6+6-(connector.external=yes)-BACK_TOP-cmp.png]]
 
+   [[file:images/external-holder-top.jpg]]
+   [[file:images/external-holder-back.jpg]]
+   [[file:images/external-holder-left.jpg]]
+
    如果参数[[#wall-thickness-键盘外围壁厚度][Wall thickness 键盘外围壁厚度]]是默认值3mm，外壳缺口厚度大约5mm，promicro v1 v2 v3托架中v3适合度最高，虽然不是100%完全吻合，由于打印公差，有可能需要用刀小切和锉刀小打磨。
    Github的v3模型文件[[https://github.com/ibnuda/dactyl-keyboard/issues/85][多了一小块]], 这里是修复版本的[[file:stl/promicro-holder-v3-left.stl][左边]]和[[file:stl/promicro-holder-v3-right.stl][右边]]。
 

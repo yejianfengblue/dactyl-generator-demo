@@ -355,6 +355,10 @@ Currently only dactyl manuform is demonstrated.
 
    [[file:manuform/manuform-4x6+6-(connector.external=yes)-BACK_TOP-cmp.png]]
 
+   [[file:images/external-holder-top.jpg]]
+   [[file:images/external-holder-back.jpg]]
+   [[file:images/external-holder-left.jpg]]
+
    The case back wall thickness is about 5mm, if [[#wall-thickness][wall thickness]] is 3mm by default, which is too thick for promicro v1 and v2 holder.
    The promicro v3 holder fits the case even though not 100% well-fitting.
    There is a [[https://github.com/ibnuda/dactyl-keyboard/issues/85][separated part]] in v3 holder model.
