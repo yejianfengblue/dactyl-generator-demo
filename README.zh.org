@@ -390,7 +390,7 @@
 
    [[file:images/pro-micro-size-comparison.jpg]]
 
-   基于micro usb外置支架的模型，拉长了2mm，增大USB口。
+   基于micro usb外置支架的模型，拉长了2mm和增大USB口来适配type-c版本。
    注意这是未打印测试的模型。[[file:stl/promicro-holder-typec-untested-left.stl][左边模型]] 和 [[file:stl/promicro-holder-typec-untested-right.stl][右边]]。
 
    [[file:images/promicro-holder-typec-left-cmp-2mm-longer.png]]
