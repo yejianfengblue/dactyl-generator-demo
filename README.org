@@ -58,6 +58,8 @@ Currently only dactyl manuform is demonstrated.
   - [[#show-keycaps][Show Keycaps]]
   - [[#right-side-or-left-side][Right side or left side]]
 - [[#known-issues][Known Issues]]
+- [[#external-links][External Links]]
+  - [[#my-tutorials-in-chinese-speaking][My Tutorials in Chinese Speaking]]
 
 * Base
   This is a base model for comparison. Most of parameters use the default value.
@@ -535,3 +537,12 @@ Currently only dactyl manuform is demonstrated.
      cluster for example, top right, top left, middle left) are customizable. See
      this [[https://github.com/ibnuda/dactyl-keyboard/issues/28][dactyl generator issue]] for an example.
      The demo to these parameters is skipped.
+
+* External Links
+** My Tutorials in Chinese Speaking
+   Though I speak Chinese in the videos, the videos are still helpful. You can find more build tutorials in Youtube.
+   1. [[https://www.bilibili.com/video/BV1fQ4y1C7mi][Keyboard case modeling]]
+   2. [[https://www.bilibili.com/video/BV17f4y1P7nS][Keyboard build]]
+   3. [[https://www.bilibili.com/video/BV1rf4y1J7jn][Keyboard build detail about diodes]]
+   4. [[https://www.bilibili.com/video/BV1gL4y1g7yC][Right side doesn't input anything because some pro micro clone lacks vbus]]
+

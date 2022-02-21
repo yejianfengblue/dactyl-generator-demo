@@ -58,6 +58,8 @@
   - [[#show-keycaps-显示键帽][Show Keycaps 显示键帽]]
   - [[#right-side-or-left-side-右边或者左边][Right side or left side 右边或者左边]]
 - [[#已知问题][已知问题]]
+- [[#外部链接][外部链接]]
+  - [[#教程][教程]]
 
 * 参照模型
   这个参照模型使用大部分参数的默认值，是用来做对比。
@@ -548,3 +550,10 @@
 
      目前是实验性功能，只支持拇指区 右上、左上和左中3个按键。
      省略说明这些参数。感兴趣的人可以去[[https://github.com/ibnuda/dactyl-keyboard/issues/28][这里]]获取一个例子的参数。
+
+* 外部链接
+** 教程
+  1. [[https://www.bilibili.com/video/BV1fQ4y1C7mi/][dactyl manuform分体曲面键盘介绍和外壳生成]]
+  2. [[https://www.bilibili.com/video/BV17f4y1P7nS/][dactyl manuform分体曲面键盘制作教程]]
+  3. [[https://www.bilibili.com/video/BV1rf4y1J7jn/][dactyl manuform焊接二极管详细]]
+  4. [[https://www.bilibili.com/video/BV1gL4y1g7yC][Pro micro开发板缺少vbus功能，导致右手键盘没反应]]
