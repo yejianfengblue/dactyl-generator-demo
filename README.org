@@ -375,7 +375,7 @@ Currently only dactyl manuform is demonstrated.
 
    [[file:images/pro-micro-size-comparison.jpg]]
 
-   I made a type-c compatible holder by lengthen 2mm and enlarge the USB hole.
+   I made a type-c compatible holder by lengthening 2mm and enlarging the USB hole.
    Notice that it is untested. [[file:stl/promicro-holder-typec-untested-left.stl][left model]] and [[file:stl/promicro-holder-typec-untested-right.stl][right]].
 
    [[file:images/promicro-holder-typec-left-cmp-2mm-longer.png]]
