@@ -371,6 +371,16 @@ Currently only dactyl manuform is demonstrated.
 
    [[file:images/remove-internal-holder-from-external-holder.png]]
 
+   There is pro micro type-c version which is 2mm longer than micro USB version.
+
+   [[file:images/pro-micro-size-comparison.jpg]]
+
+   I made a type-c compatible holder by lengthen 2mm and enlarge the USB hole.
+   Notice that it is untested. [[file:stl/promicro-holder-typec-untested-left.stl][left model]] and [[file:stl/promicro-holder-typec-untested-right.stl][right]].
+
+   [[file:images/promicro-holder-typec-left-cmp-2mm-longer.png]]
+   [[file:images/promicro-holder-typec-left-cmp-usb-larger.png]]
+
 * Form of the Case
 
 ** Hotswap socket
