@@ -544,5 +544,6 @@ Currently only dactyl manuform is demonstrated.
    1. [[https://www.bilibili.com/video/BV1fQ4y1C7mi][Keyboard case modeling]]
    2. [[https://www.bilibili.com/video/BV17f4y1P7nS][Keyboard build]]
    3. [[https://www.bilibili.com/video/BV1rf4y1J7jn][Keyboard build detail about diodes]]
-   4. [[https://www.bilibili.com/video/BV1gL4y1g7yC][Right side doesn't input anything because some pro micro clone lacks vbus]]
+   4. [[https://www.bilibili.com/video/BV1NP4y177ey][Flash QMK firmware with QMK Toolbox]]
+   5. [[https://www.bilibili.com/video/BV1gL4y1g7yC][Right side doesn't input anything because some pro micro clone lacks vbus]]
 

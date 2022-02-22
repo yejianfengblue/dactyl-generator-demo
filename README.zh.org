@@ -560,4 +560,5 @@
   1. [[https://www.bilibili.com/video/BV1fQ4y1C7mi/][dactyl manuform分体曲面键盘介绍和外壳生成]]
   2. [[https://www.bilibili.com/video/BV17f4y1P7nS/][dactyl manuform分体曲面键盘制作教程]]
   3. [[https://www.bilibili.com/video/BV1rf4y1J7jn/][dactyl manuform焊接二极管详细]]
-  4. [[https://www.bilibili.com/video/BV1gL4y1g7yC][Pro micro开发板缺少vbus功能，导致右手键盘没反应]]
+  4. [[https://www.bilibili.com/video/BV1NP4y177ey][QMK Toolbox刷固件教程]]
+  5. [[https://www.bilibili.com/video/BV1gL4y1g7yC][Pro micro开发板缺少vbus功能，导致右手键盘没反应]]
