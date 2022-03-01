@@ -1,10 +1,5 @@
 #+title: Dactyl键盘外壳参数说明
 
-最近gitee系统升级后无法显示文件名含有加号的图片，已报bug。转向访问
-- [[https://github.com/yejianfengblue/dactyl-generator-demo/blob/main/README.zh.org][github]] 网络好的人的首选。
-- [[https://agit.ai/yejianfengblue/dactyl-generator-demo][agit]] 图片正常显示，顶部的目录可以跳转，下面的目录无法跳转。图片加载速度不错。
-- [[https://jihulab.com/yejianfengblue/dactyl-generator-demo/-/blob/main/README.zh.org][gitlab中国版]] 图片正常显示，但是目录无法跳转。图片加载速度不错。
-
 部分名词的中文翻译不太好，懂英文的看[[file:README.org][英文版]]
 
 
@@ -62,6 +57,7 @@
   - [[#right-side-or-left-side-右边或者左边][Right side or left side 右边或者左边]]
 - [[#已知问题][已知问题]]
 - [[#外部链接][外部链接]]
+  - [[#本项目的其他git镜像][本项目的其他git镜像]]
   - [[#教程][教程]]
 
 * 参照模型
@@ -555,6 +551,11 @@
      省略说明这些参数。感兴趣的人可以去[[https://github.com/ibnuda/dactyl-keyboard/issues/28][这里]]获取一个例子的参数。
 
 * 外部链接
+** 本项目的其他git镜像
+  - [[https://github.com/yejianfengblue/dactyl-generator-demo/blob/main/README.zh.org][github]] 网络好的人的首选。
+  - [[https://agit.ai/yejianfengblue/dactyl-generator-demo][agit]] 图片正常显示，顶部的目录可以跳转，下面的目录无法跳转。图片加载速度不错。
+  - [[https://jihulab.com/yejianfengblue/dactyl-generator-demo/-/blob/main/README.zh.org][gitlab中国版]] 图片正常显示，但是目录无法跳转。图片加载速度不错。
+
 ** 教程
   1. [[https://www.bilibili.com/video/BV1fQ4y1C7mi/][dactyl manuform分体曲面键盘介绍和外壳生成]]
   2. [[https://www.bilibili.com/video/BV17f4y1P7nS/][dactyl manuform分体曲面键盘制作教程]]
