@@ -60,6 +60,7 @@ Currently only dactyl manuform is demonstrated.
 - [[#known-issues][Known Issues]]
 - [[#external-links][External Links]]
   - [[#my-tutorials-in-chinese-speaking][My Tutorials in Chinese Speaking]]
+- [[#sponsor][Sponsor]]
 
 * Base
   This is a base model for comparison. Most of parameters use the default value.
@@ -547,3 +548,5 @@ Currently only dactyl manuform is demonstrated.
    4. [[https://www.bilibili.com/video/BV1NP4y177ey][Flash QMK firmware with QMK Toolbox]]
    5. [[https://www.bilibili.com/video/BV1gL4y1g7yC][Right side doesn't input anything because some pro micro clone lacks vbus]]
 
+* Sponsor
+  [[https://www.paypal.com/paypalme/yejianfengblue][Paypal me]] or buy me a [[https://ko-fi.com/yejianfengblue][coffee]].
