@@ -58,6 +58,7 @@ Currently only dactyl manuform is demonstrated.
   - [[#show-keycaps][Show Keycaps]]
   - [[#right-side-or-left-side][Right side or left side]]
 - [[#known-issues][Known Issues]]
+- [[#credit][Credit]]
 - [[#external-links][External Links]]
   - [[#my-tutorials-in-chinese-speaking][My Tutorials in Chinese Speaking]]
 - [[#sponsor][Sponsor]]
@@ -538,6 +539,12 @@ Currently only dactyl manuform is demonstrated.
      cluster for example, top right, top left, middle left) are customizable. See
      this [[https://github.com/ibnuda/dactyl-keyboard/issues/28][dactyl generator issue]] for an example.
      The demo to these parameters is skipped.
+
+* Credit
+  - [[https://dactyl.siskam.link][Dactyl Generator]] goes to [[https://github.com/ibnuda/dactyl-keyboard][ibnuda]]
+  - Original dactyl keyboard design goes to [[https://github.com/adereth/dactyl-keyboard][adereth]]
+  - Dactyl manuform fork goes to [[https://github.com/tshort/dactyl-keyboard][tshort]]
+  - I just use [[https://dactyl.siskam.link/api][dactyl generator API]] to generate the images.
 
 * External Links
 ** My Tutorials in Chinese Speaking
