@@ -100,24 +100,24 @@ In section ~form of the case~, the measurement unit is millimeter.
 
 ** Form of the Case
    - hotswap socket: no
-   - thumb cluster offsets center x (toward the pinky): 6
-   - thumb cluster offsets center y (toward the index): -3
-   - thumb cluster offsets center z (altitude): 7
+   - thumb cluster offsets center x (toward the pinky): 6mm
+   - thumb cluster offsets center y (toward the index): -3mm
+   - thumb cluster offsets center z (altitude): 7mm
    - custom thumb cluster (Experimental): no
    - custom thumb cluster top right, top left, middle left are skipped. See [[#known-issues][known issue]] #1
    - stagger: yes
    - index finger measurement y: 0
    - index finger measurement z: 0
-   - middle finger measurement y: 2.8
-   - middle finger measurement z: -6.5
-   - ring finger measurement y: 0
-   - ring finger measurement z: 0
-   - pinky finger measurement y: -13
-   - pinky finger measurement z: 6
+   - middle finger measurement y: 2.8mm
+   - middle finger measurement z: -6.5mm
+   - ring finger measurement y: 0mm
+   - ring finger measurement z: 0mm
+   - pinky finger measurement y: -13mm
+   - pinky finger measurement z: 6mm
    - wide pinky: no
    - height offset: +4mm+ 10mm
-   - web thickness: 7
-   - wall thickness: 3
+   - web thickness: 7mm
+   - wall thickness: 3mm
    - wire posts: no
    - screw inserts: no
 
