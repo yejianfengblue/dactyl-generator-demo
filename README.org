@@ -9,6 +9,8 @@ parameters work by generating models and preview images using [[https://dactyl.s
 It helps you adjust the parameters.
 Currently only dactyl manuform is demonstrated.
 
+In section ~form of the case~, the measurement unit is millimeter.
+
 * Table of Contents  :TOC:
 - [[#base][Base]]
   - [[#keys][Keys]]
@@ -387,6 +389,8 @@ Currently only dactyl manuform is demonstrated.
 
 * Form of the Case
 
+The measurement unit is millimeter.
+
 ** Hotswap socket
    Yes vs No
 
@@ -397,21 +401,21 @@ Currently only dactyl manuform is demonstrated.
 ** Thumb cluster offsets center x (toward the pinky)
    The greater the value, thumb cluster is closer to right, toward pinky finger, toward x positive direction
 
-   -10 vs 6
+   -10mm vs 6mm
 
    [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-x=-10)-TOP-cmp.png]]
 
 ** Thumb cluster offsets center y (toward the index)
    The greater the value, thumb cluster is more toward to index finger, toward y positive direction
 
-   -23 vs -3
+   -23mm vs -3mm
 
    [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-y=-23)-TOP-cmp.png]]
 
 ** Thumb cluster offsets center z (altitude)
    The greater the value, thumb cluster is higher
 
-   27 vs 7
+   27mm vs 7mm
 
    [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-z=27)-DIAGONAL-cmp.png]]
 
@@ -424,56 +428,56 @@ Currently only dactyl manuform is demonstrated.
 ** Index finger measurement y
    The greater the value, index finger's column (column 1 and 2) and thumb cluster are more far away from hand, toward y positive direction
 
-   10 vs 0
+   10mm vs 0mm
 
    [[file:manuform/manuform-4x6+6-(form.stagger-index-y=10)-TOP-cmp.png]]
 
 ** Index finger measurement z
    The greater the value, index finger's column (column 1 and 2) and thumb cluster are higher
 
-   15 vs 0
+   15mm vs 0mm
 
    [[file:manuform/manuform-4x6+6-(form.stagger-index-z=15)-DIAGONAL-cmp.png]]
 
 ** Middle finger measurement y
    The greater the value, the middle finger's column (column 3) is more far away from hand, toward y positive direction
 
-   10 vs 2.8
+   10mm vs 2.8mm
 
    [[file:manuform/manuform-4x6+6-(form.stagger-middle-y=10)-TOP-cmp.png]]
 
 ** Middle finger measurement z
    The greater the value, the middle finger's column (column 3) is higher
 
-   10 vs -6.5
+   10mm vs -6.5mm
 
    [[file:manuform/manuform-4x6+6-(form.stagger-middle-z=10)-BACK_TOP-cmp.png]]
 
 ** Ring finger measurement y
    The greater the value, the ring finger's column (column 4) is more far away from hand, toward y positive direction
 
-   10 vs 0
+   10mm vs 0mm
 
    [[file:manuform/manuform-4x6+6-(form.stagger-ring-y=10)-TOP-cmp.png]]
 
 ** Ring finger measurement z
    The greater the value, the ring finger's column (column 4) is higher
 
-   15 vs 0
+   15mm vs 0mm
 
    [[file:manuform/manuform-4x6+6-(form.stagger-ring-z=15)-BACK_TOP-cmp.png]]
 
 ** Pinky finger measurement y
    The greater the value, the pinky finger's column (column 5 and 6) is more far away from hand, toward y positive direction
 
-   0 vs -13
+   0mm vs -13mm
 
    [[file:manuform/manuform-4x6+6-(form.stagger-pinky-y=0)-TOP-cmp.png]]
 
 ** Pinky finger measurement z
    The greater the value, the pinky finger's column (column 5 and 6) is higher
 
-   26 vs 6
+   26mm vs 6mm
 
    [[file:manuform/manuform-4x6+6-(form.stagger-pinky-z=26)-BACK_TOP-cmp.png]]
 
