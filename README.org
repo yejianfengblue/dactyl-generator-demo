@@ -9,6 +9,9 @@ parameters work by generating models and preview images using [[https://dactyl.s
 It helps you adjust the parameters.
 Currently only dactyl manuform is demonstrated.
 
+In section ~curvature & tenting~, you can think PI/180 is equal to 1 degree.
+For example, PI/6 is equal to 30 degree.
+
 In section ~form of the case~, the measurement unit is millimeter.
 
 * Table of Contents  :TOC:
@@ -83,12 +86,12 @@ In section ~form of the case~, the measurement unit is millimeter.
    - hide bottom pinky: no
 
 ** Curvature & Tenting
-   - column's curvature: pi/12
-   - pinky's column's curvature: pi/12
-   - row's curvature: pi/36
+   - column's curvature: pi/12 (15°)
+   - pinky's column's curvature: pi/12 (15°)
+   - row's curvature: pi/36 (5°)
    - center of the curvature for the column: pinky finger's column
-   - tenting angle: pi/15
-   - rotation around row axis: pi/180
+   - tenting angle: pi/15 (12°)
+   - rotation around row axis: pi/180 (1°)
 
 ** Connectors
    - use loligagger's external holder: no
@@ -221,8 +224,10 @@ In section ~form of the case~, the measurement unit is millimeter.
 
 * Curvature & Tenting
 
+PI/180 is equal to 1 degree. PI/6 is equal to 30 degree.
+
 ** Column's curvature
-   pi/6 vs pi/12
+   pi/6 (30°) vs pi/12 (15°)
 
    The curvature pi/6 of (index, middle, ring) finger's column, that is, column 1, 2, 3 and 4 is steeper
 
@@ -230,7 +235,7 @@ In section ~form of the case~, the measurement unit is millimeter.
    [[file:manuform/manuform-4x6+6-(curve.column-curvature=pi_6)-RIGHT-cmp.png]] 
 
 ** Pinky's column curvature
-   pi/6 vs pi/12
+   pi/6 (30°) vs pi/12 (15°)
 
    The curvature of pinky finger column, that is, column 5 and 6 is steeper
 
@@ -238,7 +243,7 @@ In section ~form of the case~, the measurement unit is millimeter.
    [[file:manuform/manuform-4x6+6-(curve.pinky-column-curvature=pi_6)-RIGHT-cmp.png]] 
 
 ** Row's curvature
-   pi/18 vs pi/36
+   pi/18 (10°) vs pi/36 (5°)
 
    [[file:manuform/manuform-4x6+6-(curve.row-curvature=pi_18)-DIAGONAL-cmp.png]]
 
@@ -248,22 +253,22 @@ In section ~form of the case~, the measurement unit is millimeter.
    [[file:manuform/manuform-4x6+6-(curve.centercol)-DIAGONAL-cmp.png]]
 
 ** Tenting Angle
-   pi/6 vs pi/15
+   pi/6 (30°) vs pi/15 (12°)
 
    Row tilt is larger
 
    [[file:manuform/manuform-4x6+6-(curve.tenting=6)-DIAGONAL-cmp.png]]
 
 ** Rotation around row axis
-   pi/10 vs pi/180
+   pi/10 (18°) vs pi/180 (1°)
 
    [[file:manuform/manuform-4x6+6-(curve.rotate-x=pi_10)-DIAGONAL-cmp.png]]
 
-   -pi/10 vs pi/180
+   -pi/10 (-18°) vs pi/180 (1°)
 
    [[file:manuform/manuform-4x6+6-(curve.rotate-x=-pi_10)-DIAGONAL-cmp.png]]
 
-   -pi/36 vs pi/180
+   -pi/36 (-5°) vs pi/180 (1°)
 
    [[file:manuform/manuform-4x6+6-(curve.rotate-x=-pi_36)-DIAGONAL-cmp.png]]
 
