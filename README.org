@@ -12,8 +12,6 @@ Currently only dactyl manuform is demonstrated.
 In section ~curvature & tenting~, you can think PI/180 is equal to 1 degree.
 For example, PI/6 is equal to 30 degree.
 
-In section ~form of the case~, the measurement unit is millimeter.
-
 * Table of Contents  :TOC:
 - [[#base][Base]]
   - [[#keys][Keys]]
@@ -393,8 +391,6 @@ PI/180 is equal to 1 degree. PI/6 is equal to 30 degree.
    [[file:images/promicro-holder-typec-left-cmp-usb-larger.png]]
 
 * Form of the Case
-
-The measurement unit is millimeter.
 
 ** Hotswap socket
    Yes vs No
