@@ -7,6 +7,8 @@
 我的这个Java项目利用[[https://dactyl.siskam.link/api][API]]批量生成不同参数值的模型和预览图，用于展示参数的作用，
 节省测试参数的时间。目前只展示dactyl manuform键盘。
 
+曲率参数的单位是弧度，转换成角度的话，PI等于180度，PI/6等于30度
+
 * 目录                                                                  :TOC:
 - [[#参照模型][参照模型]]
   - [[#keys-键][Keys 键]]
@@ -74,12 +76,12 @@
    - hide bottom pinky 隐藏小拇指角落的键: no 否
 
 ** Curvature & Tenting 曲率和倾斜度
-   - column's curvature 列的曲率: pi/12
-   - pinky's column's curvature 小拇指列的曲率: pi/12
-   - row's curvature 行的曲率: pi/36
+   - column's curvature 列的曲率: pi/12 (15°)
+   - pinky's column's curvature 小拇指列的曲率: pi/12 (15°)
+   - row's curvature 行的曲率: pi/36 (5°)
    - center of the curvature for the column 以哪一列作为行的曲率的中心: pinky finger's column 小拇指列
-   - tenting angle 倾斜度: pi/15
-   - rotation around row axis 行旋转: pi/180
+   - tenting angle 倾斜度: pi/15 (12°)
+   - rotation around row axis 行旋转: pi/180 (1°)
 
 ** Connectors 接口
    - use loligagger's external holder 外置支架: no 否
@@ -88,24 +90,24 @@
 
 ** Form of the case 键盘外形
    - hotswap socket 热插拔轴座: no 否
-   - thumb cluster offsets center x (toward the pinky) 拇指区x轴位移（往小拇指方向）: 6
-   - thumb cluster offsets center y (toward the index) 拇指区y轴位移（往食指方向）：-3
-   - thumb cluster offsets center z (altitude) 拇指区z轴位移（高度）：7
+   - thumb cluster offsets center x (toward the pinky) 拇指区x轴位移（往小拇指方向）: 6mm
+   - thumb cluster offsets center y (toward the index) 拇指区y轴位移（往食指方向）：-3mm
+   - thumb cluster offsets center z (altitude) 拇指区z轴位移（高度）：7mm
    - custom thumb cluster (Experimental) 自定义拇指区按键: no 否
    - top right, top left, middle left 自定义拇指区按键: 暂时省略，详见[[#known-issues-已知问题][已知问题]] #1
    - stagger 梯级型的行: yes 是, 控制下面的列y位移
-   - index finger measurement y 食指列y位移: 0
-   - index finger measurement z 食指列z位移: 0
-   - middle finger measurement y 中指列y位移: 2.8
-   - middle finger measurement z 中指列z位移: -6.5
-   - ring finger measurement y 无名指列y位移: 0
-   - ringer finger measurement z 无名指列z位移: 0
-   - pinky finger measurement y 小拇指列y位移: -13
-   - pinky finger measurement z 小拇指列z位移: 6
+   - index finger measurement y 食指列y位移: 0mm
+   - index finger measurement z 食指列z位移: 0mm
+   - middle finger measurement y 中指列y位移: 2.8mm
+   - middle finger measurement z 中指列z位移: -6.5mm
+   - ring finger measurement y 无名指列y位移: 0mm
+   - ringer finger measurement z 无名指列z位移: 0mm
+   - pinky finger measurement y 小拇指列y位移: -13mm
+   - pinky finger measurement z 小拇指列z位移: 6mm
    - wide pinky 小拇指最外列使用1.5u键帽: no 否
    - height offset 整体高度: +4mm+ 10mm
-   - web thickness 键孔网格厚度: 7
-   - wall thickness 键盘外围壁厚度: 3
+   - web thickness 键孔网格厚度: 7mm
+   - wall thickness 键盘外围壁厚度: 3mm
    - wire posts 走线凸块: no 否
    - screw inserts 螺丝孔: no 否
 
@@ -226,9 +228,10 @@
    [[file:manuform/manuform-4x6+6-(keys.hide-last-pinky=yes)-TOP-cmp.png]]
 
 * Curvature & Tenting 曲率和倾斜度
+  曲率参数的单位是弧度，转换成角度的话，PI等于180度，PI/6等于30度
 
 ** Column's curvature 列的曲率
-   pi/6 对比 pi/12
+   pi/6 (30°) 对比 pi/12 (15°)
 
    食指、中指和无名指所在列，即第1至第4列的曲率，pi/6更陡峭
 
@@ -236,7 +239,7 @@
    [[file:manuform/manuform-4x6+6-(curve.column-curvature=pi_6)-RIGHT-cmp.png]] 
 
 ** Pinky's column curvature 小拇指列的曲率
-   pi/6 对比 pi/12
+   pi/6 (30°) 对比 pi/12 (15°)
 
    无名指列，即第5至6列的曲率，pi/6更陡峭
 
@@ -244,7 +247,7 @@
    [[file:manuform/manuform-4x6+6-(curve.pinky-column-curvature=pi_6)-RIGHT-cmp.png]] 
 
 ** Row's curvature 行的曲率
-   pi/18 对比 pi/36
+   pi/18 (10°) 对比 pi/36 (5°)
 
    pi/18更陡峭
 
@@ -256,22 +259,22 @@
    [[file:manuform/manuform-4x6+6-(curve.centercol)-DIAGONAL-cmp.png]]
 
 ** Tenting Angle 倾斜度
-   pi/6 对比 pi/15
+   pi/6 (30°) 对比 pi/15 (12°)
 
    pi/6倾斜度更大
 
    [[file:manuform/manuform-4x6+6-(curve.tenting=6)-DIAGONAL-cmp.png]]
 
 ** Rotation around row axis 行旋转
-   pi/10 对比 pi/180
+   pi/10 (18°) 对比 pi/180 (1°)
 
    [[file:manuform/manuform-4x6+6-(curve.rotate-x=pi_10)-DIAGONAL-cmp.png]]
 
-   -pi/10 对比 pi/180
+   -pi/10 (-18°) 对比 pi/180 (1°)
 
    [[file:manuform/manuform-4x6+6-(curve.rotate-x=-pi_10)-DIAGONAL-cmp.png]]
 
-   -pi/36 对比 pi/180
+   -pi/36 (-5°) 对比 pi/180 (1°)
 
    [[file:manuform/manuform-4x6+6-(curve.rotate-x=-pi_36)-DIAGONAL-cmp.png]]
 
@@ -411,21 +414,21 @@
 ** Thumb cluster offsets center x (toward the pinky) 拇指区x轴位移（往小拇指方向）
    数值越大，拇指区越靠右，越接近小拇指，往x轴正方向
 
-   -10 对比 6
+   -10mm 对比 6mm
 
    [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-x=-10)-TOP-cmp.png]]
 
 ** Thumb cluster offsets center y (toward the index) 拇指区y轴位移（往食指方向）
    数值越大，拇指区越靠近食指，往y轴正方向
 
-   -23 对比 -3
+   -23mm 对比 -3mm
 
    [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-y=-23)-TOP-cmp.png]]
 
 ** Thumb cluster offsets center z (altitude) 拇指区z轴位移（高度）
    数值越大，拇指区越高
 
-   27 对比 7
+   27mm 对比 7mm
 
    [[file:manuform/manuform-4x6+6-(form.thumb-cluster-offset-z=27)-DIAGONAL-cmp.png]]
 
@@ -438,56 +441,56 @@
 ** Index finger measurement y 食指列y位移
    数值越大，食指列（第1和第2列）和拇指区越远离手，往y轴正方向
 
-   10 对比 0
+   10mm 对比 0mm
 
    [[file:manuform/manuform-4x6+6-(form.stagger-index-y=10)-TOP-cmp.png]]
 
 ** Index finger measurement z 食指列z位移
    数值越大，食指列（第1和第2列）和拇指区越高
 
-   15 对比 0
+   15mm 对比 0mm
 
    [[file:manuform/manuform-4x6+6-(form.stagger-index-z=15)-DIAGONAL-cmp.png]]
 
 ** Middle finger measurement y 中指列y位移
    数值越大，中指列（第3列）越远离手，往y轴正方向
 
-   10 对比 2.8
+   10mm 对比 2.8mm
 
    [[file:manuform/manuform-4x6+6-(form.stagger-middle-y=10)-TOP-cmp.png]]
 
 ** Middle finger measurement z 中指列z位移
    数值越大，中指列（第3列）越高
 
-   10 对比 -6.5
+   10mm 对比 -6.5mm
 
    [[file:manuform/manuform-4x6+6-(form.stagger-middle-z=10)-BACK_TOP-cmp.png]]
 
 ** Ring finger measurement y 无名指列y位移
    数值越大，无名指列（第4列）越远离手，往y轴正方向
 
-   10 对比 0
+   10mm 对比 0mm
 
    [[file:manuform/manuform-4x6+6-(form.stagger-ring-y=10)-TOP-cmp.png]]
 
 ** Ring finger measurement z 无名指列z位移
    数值越大，无名指列（第4列）越高
 
-   15 对比 0
+   15mm 对比 0mm
 
    [[file:manuform/manuform-4x6+6-(form.stagger-ring-z=15)-BACK_TOP-cmp.png]]
 
 ** Pinky finger measurement y 小拇指列y位移
    数值越大，小拇指列（第5和第6列）越远离手，往y轴正方向
 
-   0 对比 -13
+   0mm 对比 -13mm
 
    [[file:manuform/manuform-4x6+6-(form.stagger-pinky-y=0)-TOP-cmp.png]]
 
 ** Pinky finger measurement z 小拇指列z位移
    数值越大，小拇指列（第5和第6列）越高
 
-   26 对比 6
+   26mm 对比 6mm
 
    [[file:manuform/manuform-4x6+6-(form.stagger-pinky-z=26)-BACK_TOP-cmp.png]]
 
