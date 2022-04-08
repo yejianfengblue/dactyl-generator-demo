@@ -9,8 +9,7 @@ parameters work by generating models and preview images using [[https://dactyl.s
 It helps you adjust the parameters.
 Currently only dactyl manuform is demonstrated.
 
-In section ~curvature & tenting~, you can think PI/180 is equal to 1 degree.
-For example, PI/6 is equal to 30 degree.
+The curvature and tenting are measured in radian. PI radian is equal to 180 degree. PI/180 is equal to 1 degree.
 
 * Table of Contents  :TOC:
 - [[#base][Base]]
@@ -222,7 +221,7 @@ For example, PI/6 is equal to 30 degree.
 
 * Curvature & Tenting
 
-PI/180 is equal to 1 degree. PI/6 is equal to 30 degree.
+  PI radian is equal to 180 degree. PI/180 radian is equal to 1 degree.
 
 ** Column's curvature
    pi/6 (30°) vs pi/12 (15°)
