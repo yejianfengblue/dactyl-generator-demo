@@ -18,6 +18,7 @@ union() {
             cube([40, 10, 50]);
         }
 
+        // cut usb hole
         translate([27.3, 18, 19.5]) {
             cube([9.5, 10, 4], center = true);
         }
@@ -80,6 +81,7 @@ if (debugDisplay) {
             #cube([40, 10, 50]);
         }
 
+        // cut usb hole
         translate([27.3, 13, 19.5]) {
             #cube([9.5, 10, 4], center = true);
         }
