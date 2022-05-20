@@ -9,6 +9,9 @@
 // Change the variable debugDisplay to false before you export to stl
 debugDisplay = true;
 
+// the length to be added, measurement unit is mm
+length = 4;
+
 union() {
     // cut 1
     difference() {
@@ -24,12 +27,12 @@ union() {
         }
     }
     // cut 2
-    translate([0, 2, 0]) {
+    translate([0, length, 0]) {
         difference() {
             import("./promicro-holder-v3-left-mesh-fixed.stl", convexity=3);
 
             translate([0, 0, 0]) {
-                cube([40, 42.9, 50]);
+                cube([40, 44.9 - length, 50]);
             }
         }
     }
@@ -88,12 +91,12 @@ if (debugDisplay) {
     }
 
     // cut 2
-    translate([-50, 2, 0])
+    translate([-50, length, 0])
         difference() {
         import("./promicro-holder-v3-left-mesh-fixed.stl", convexity=3);
 
         translate([0, 0, 0]) {
-            #cube([40, 42.9, 50]);
+            #cube([40, 44.9 - length, 50]);
         }
     }
  }
