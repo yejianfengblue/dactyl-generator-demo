@@ -2,6 +2,10 @@
 
 [[file:README.zh.org][中文版]]
 
+On 2022-06-23, the [[https://dactyl.siskam.link][Dactyl Generator]] website was reported to be down.
+[[https://github.com/ibnuda/dactyl-keyboard/issues/116][An Github issue]] was created to notify the website Author [[https://github.com/ibnuda/dactyl-keyboard/issues/116][Ibnu Daru Aji]].
+One workaround is following the [[https://github.com/ibnuda/dactyl-keyboard#development][steps]] to run the website on your own computer.
+If someone generous provides a server to run this website, [[https://github.com/yejianfengblue/dactyl-generator-demo/issues/new][create an issue]] to contact me.
 
 [[https://dactyl.siskam.link][Dactyl Generator]] is a website to generate 3D model in form of scad file for
 dactyl keyboard case. This project is a Java program which shows how the

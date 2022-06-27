@@ -2,6 +2,10 @@
 
 部分名词的中文翻译不太好，懂英文的看[[file:README.org][英文版]]
 
+2022-06-23, 发现[[https://dactyl.siskam.link][原网站]]无法打开，已经创建了一个[[https://github.com/ibnuda/dactyl-keyboard/issues/116][Github issue]]提醒网站作者[[https://github.com/ibnuda/dactyl-keyboard/issues/116][Ibnu Daru Aji]]
+其中一个解决办法是按照[[https://github.com/ibnuda/dactyl-keyboard#development][这里的步骤]]在自己电脑运行网站。
+如果有慷慨的人愿意提供云服务器来运行网站，可以[[https://github.com/yejianfengblue/dactyl-generator-demo/issues/new][创建一个issue]]来联系我。
+
 
 [[https://dactyl.siskam.link][Dactyl Generator]]网站可以自己调整参数生成dactyl键盘外壳的3D模型。
 我的这个Java项目利用[[https://dactyl.siskam.link/api][API]]批量生成不同参数值的模型和预览图，用于展示参数的作用，
