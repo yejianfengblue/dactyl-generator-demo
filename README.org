@@ -2,14 +2,14 @@
 
 [[file:README.zh.org][中文版]]
 
-On 2022-06-23, the [[https://dactyl.siskam.link][Dactyl Generator]] website was reported to be down.
-[[https://github.com/ibnuda/dactyl-keyboard/issues/116][An Github issue]] was created to notify the website Author [[https://github.com/ibnuda/dactyl-keyboard/issues/116][Ibnu Daru Aji]].
-One workaround is following the [[https://github.com/ibnuda/dactyl-keyboard#development][steps]] to run the website on your own computer.
-If someone generous provides a server to run this website, [[https://github.com/yejianfengblue/dactyl-generator-demo/issues/new][create an issue]] to contact me.
+The [[https://dactyl.siskam.link][Dactyl Generator]] website was [[https://github.com/ibnuda/dactyl-keyboard/issues/116][reported]] to be down on 2022-06-23.
+Thanks for [[https://github.com/mbugert][Michael Bugert]] hosting [[https://dactyl.mbugert.de][an alternative website]] using the [[https://github.com/ibnuda/dactyl-keyboard/][open source project]].
+If something bad happens in the future, check in the [[https://github.com/ibnuda/dactyl-keyboard/issues][issues]] whether someone generous hosts an alternative website,
+or follow the [[https://github.com/ibnuda/dactyl-keyboard#development][steps]] to run the website on your own computer.
 
-[[https://dactyl.siskam.link][Dactyl Generator]] is a website to generate 3D model in form of scad file for
+[[https://dactyl.mbugert.de/][Dactyl Generator]] is a website to generate 3D model in form of scad file for
 dactyl keyboard case. This project is a Java program which shows how the
-parameters work by generating models and preview images using [[https://dactyl.siskam.link/api][Dactyl Generator API]].
+parameters work by generating models and preview images using [[https://dactyl.mbugert.de/api][Dactyl Generator API]].
 It helps you adjust the parameters.
 Currently only dactyl manuform is demonstrated.
 
@@ -549,7 +549,8 @@ The curvature and tenting are measured in radian. PI radian is equal to 180 degr
      The demo to these parameters is skipped.
 
 * Credit
-  - [[https://dactyl.siskam.link][Dactyl Generator]] goes to [[https://github.com/ibnuda/dactyl-keyboard][ibnuda]]
+  - Original [[https://dactyl.siskam.link][Dactyl Generator]] goes to [[https://github.com/ibnuda/dactyl-keyboard][ibnuda]]
+  - [[https://dactyl.mbugert.de][Hosting the alternative Dactyl Generator website]] goes to [[https://github.com/mbugert][Michael Bugert]]
   - Original dactyl keyboard design goes to [[https://github.com/adereth/dactyl-keyboard][adereth]]
   - Dactyl manuform fork goes to [[https://github.com/tshort/dactyl-keyboard][tshort]]
   - I just use [[https://dactyl.siskam.link/api][dactyl generator API]] to generate the images.
