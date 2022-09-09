@@ -8,7 +8,7 @@ If something bad happens in the future, check in the [[https://github.com/ibnuda
 or follow the [[https://github.com/ibnuda/dactyl-keyboard#development][steps]] to run the website on your own computer.
 
 [[https://dactyl.mbugert.de/][Dactyl Generator]] is a website to generate 3D model in form of scad file for
-dactyl keyboard case. This project is a Java program which shows how the
+dactyl keyboard case. This project dactyl-generator-demo is a Java program which shows how the
 parameters work by generating models and preview images using [[https://dactyl.mbugert.de/api][Dactyl Generator API]].
 It helps you adjust the parameters.
 Currently only dactyl manuform is demonstrated.
