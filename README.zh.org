@@ -2,16 +2,16 @@
 
 部分名词的中文翻译不太好，懂英文的看[[file:README.org][英文版]]
 
-2022-06-23，这个[[https://github.com/ibnuda/dactyl-keyboard/issues/116][Github issue]]报告了[[https://dactyl.siskam.link][原网站]]无法打开。
-热心人士[[https://github.com/mbugert][Michael Bugert]]用[[https://github.com/ibnuda/dactyl-keyboard/issues/116][开源代码]]跑起了[[https://dactyl.mbugert.de][新网站]]。
-如果以后网站无法访问，去[[https://github.com/ibnuda/dactyl-keyboard/issues/116][Github issues]]看看有没有热心人士重新跑起网站。
-你也可以按照[[https://github.com/ibnuda/dactyl-keyboard#development][这里的步骤]]在自己电脑运行网站。
-
 [[https://dactyl.mbugert.de][Dactyl Generator]]网站可以自己调整参数生成dactyl键盘外壳的3D模型。
 我的这个Java项目利用[[https://dactyl.mbugert.de/api][API]]批量生成不同参数值的模型和预览图，用于展示参数的作用，
 节省测试参数的时间。目前只展示dactyl manuform键盘。
 
 曲率参数的单位是弧度，转换成角度的话，PI等于180度，PI/6等于30度
+
+2022-06-23，这个[[https://github.com/ibnuda/dactyl-keyboard/issues/116][Github issue]]报告了[[https://dactyl.siskam.link][原网站]]无法打开。
+热心人士[[https://github.com/mbugert][Michael Bugert]]用[[https://github.com/ibnuda/dactyl-keyboard/issues/116][开源代码]]跑起了[[https://dactyl.mbugert.de][新网站]]。
+如果以后网站无法访问，去[[https://github.com/ibnuda/dactyl-keyboard/issues/116][Github issues]]看看有没有热心人士重新跑起网站。
+你也可以按照[[https://github.com/ibnuda/dactyl-keyboard#development][这里的步骤]]在自己电脑运行网站。
 
 * 目录                                                                  :TOC:
 - [[#参照模型][参照模型]]

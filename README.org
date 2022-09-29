@@ -2,11 +2,6 @@
 
 [[file:README.zh.org][中文版]]
 
-The [[https://dactyl.siskam.link][Dactyl Generator]] website was [[https://github.com/ibnuda/dactyl-keyboard/issues/116][reported]] to be down on 2022-06-23.
-Thanks for [[https://github.com/mbugert][Michael Bugert]] hosting [[https://dactyl.mbugert.de][an alternative website]] using the [[https://github.com/ibnuda/dactyl-keyboard/][open source project]].
-If something bad happens in the future, check in the [[https://github.com/ibnuda/dactyl-keyboard/issues][issues]] whether someone generous hosts an alternative website,
-or follow the [[https://github.com/ibnuda/dactyl-keyboard#development][steps]] to run the website on your own computer.
-
 [[https://dactyl.mbugert.de/][Dactyl Generator]] is a website to generate 3D model in form of scad file for
 dactyl keyboard case. This project is a Java program which shows how the
 parameters work by generating models and preview images using [[https://dactyl.mbugert.de/api][Dactyl Generator API]].
@@ -14,6 +9,11 @@ It helps you adjust the parameters.
 Currently only dactyl manuform is demonstrated.
 
 The curvature and tenting are measured in radian. PI radian is equal to 180 degree. PI/180 is equal to 1 degree.
+
+The original [[https://dactyl.siskam.link][Dactyl Generator]] website was [[https://github.com/ibnuda/dactyl-keyboard/issues/116][reported]] to be down on 2022-06-23.
+Thanks for [[https://github.com/mbugert][Michael Bugert]] hosting [[https://dactyl.mbugert.de][an alternative website]] using the [[https://github.com/ibnuda/dactyl-keyboard/][open source project]].
+If something bad happens in the future, check in the [[https://github.com/ibnuda/dactyl-keyboard/issues][issues]] whether someone generous hosts an alternative website,
+or follow the [[https://github.com/ibnuda/dactyl-keyboard#development][steps]] to run the website on your own computer.
 
 * Table of Contents  :TOC:
 - [[#base][Base]]
